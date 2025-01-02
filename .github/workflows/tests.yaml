@@ -45,6 +45,8 @@ jobs:
           collection-latexextra
           collection-mathscience
           collection-pstricks
+          collection-xetex
+          collection-langjapanese
 
     # Install Ghostscript
     - name: Install Ghostscript
