@@ -67,4 +67,4 @@ jobs:
         (cd test; make)
         #./evolve check --dif
         which ps4pdf
-        ps4pdf test/ps-tricks.lvt
+        (cd test; ps4pdf ps-tricks.lvt; echo $?)
