@@ -40,6 +40,10 @@ arg_check
    :argument('tests')
    :description('Names of tests.')
    :args('0+')
+arg_check
+   :option('--diff')
+   :description('Run \'evolve diff\' afterwards if check failed.')
+   :args(0)
 
 local arg_diff = arg_parser:command('diff')
    :summary('Show diff.')
@@ -298,6 +302,9 @@ function cmd_check()
    end
    local results = foreach_setting(cmd_check_run, true)
    print(summary_failed_tests(results))
+   if cli_args.diff then
+      cmd_check_diff(results)
+   end
    return success(results)
 end
 
@@ -328,6 +335,18 @@ function cmd_check_run(test, setting)
    print_verbose(2, content)
    show_progress(ret and true or false)
    return ret and true or false
+end
+
+function cmd_check_diff(results)
+   for _, res in ipairs(results) do
+      local test = res.test
+      local settings = get_config_settings(test)
+      for _, setting in ipairs(settings) do
+         if setting.job == res.job then
+            cmd_diff_text(test, setting)
+         end
+      end
+   end
 end
 
 function textcolor(color, text)
