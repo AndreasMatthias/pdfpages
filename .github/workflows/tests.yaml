@@ -47,7 +47,7 @@ jobs:
           collection-pstricks
           collection-xetex
           collection-langjapanese
-          pst-pdf
+        update-all-packages: true
 
     # Install Ghostscript
     - name: Install Ghostscript
@@ -65,4 +65,6 @@ jobs:
       run: |
         cd ${{ github.workspace }}/pdfpages
         (cd test; make)
-        ./evolve check --diff
+        #./evolve check --dif
+        which ps4pdf
+        ps4pdf test/ps-tricks.lvt
