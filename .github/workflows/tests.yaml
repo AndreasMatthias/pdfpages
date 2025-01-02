@@ -30,8 +30,8 @@ jobs:
     - name: Install Lua modules
       run: |
         luarocks install argparse
-        luarocks install cjson
-        luarocks install lfs
+        luarocks install lua-cjson
+        luarocks install luafilesystem
         luarocks install ansicolors
 
     # Install texlive
