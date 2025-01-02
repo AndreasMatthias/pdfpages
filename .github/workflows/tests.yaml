@@ -45,6 +45,11 @@ jobs:
           collection-latexextra
           collection-mathscience
           collection-pstricks
+
+    # Install Ghostscript
+    - name: Install Ghostscript
+      run: |
+        sudo apt install ghostscript
     
     # Install pdfpages
     - name: Install pdfpages
