@@ -10,7 +10,7 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
 
-    run-on: ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
 
     steps:
 
