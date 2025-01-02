@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: crop (1)
 ============================================================
-<hog.pdf, id=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf>
 Package luatex.def Info: hog.pdf  used on input line 1.
 (luatex.def)             Requested size: 251.94063pt x 213.79822pt.
-<hog.pdf, id=3, page=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, page=1, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 Package luatex.def Info: hog.pdf , page1 used on input line 1.
@@ -490,12 +490,12 @@ Completed box being shipped out [1]
 ============================================================
 TEST 2: crop (2)
 ============================================================
-<dummy3.pdf, id=19, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf>
 Package luatex.def Info: dummy3.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy3.pdf, id=21, page=1, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 Package luatex.def Info: dummy3.pdf , page1 used on input line 1.
@@ -991,7 +991,7 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 Package luatex.def Info: dummy3.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 297.75963pt x 421.11702pt.
-<dummy3.pdf, id=47, page=2, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package luatex.def Info: dummy3.pdf , page2 used on input line 1.

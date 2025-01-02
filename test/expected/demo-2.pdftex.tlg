@@ -9,7 +9,7 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: graphicx: nodemo\\pdfpages: demo
 ============================================================
-<hog.pdf, id=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf>
 Package pdftex.def Info: hog.pdf  used on input line 1.

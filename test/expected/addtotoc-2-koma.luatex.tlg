@@ -774,12 +774,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 34.
-<dummy.pdf, id=52, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 34.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=54, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
@@ -1365,7 +1365,7 @@ Completed box being shipped out [6]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=79, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
@@ -1491,7 +1491,7 @@ Completed box being shipped out [7]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=84, page=3, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
@@ -1641,7 +1641,7 @@ Completed box being shipped out [8]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=89, page=4, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 34.

@@ -247,12 +247,12 @@ Completed box being shipped out [1]
 ============================================================
 TEST 1: Landscape pages on portrait paper
 ============================================================
-<normal-landscape.pdf, id=8, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf>
 Package pdftex.def Info: normal-landscape.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.50682pt x 422.5225pt.
-<normal-landscape.pdf, id=10, page=8, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=8, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 8>
 Package pdftex.def Info: normal-landscape.pdf , page8 used on input line 1.
@@ -269,7 +269,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 8>
 Package pdftex.def Info: normal-landscape.pdf , page8 used on input line 1.
 (pdftex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=11, page=1, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=1, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 1>
 Package pdftex.def Info: normal-landscape.pdf , page1 used on input line 1.
@@ -592,7 +592,7 @@ Completed box being shipped out [2]
 
 
  <./normal-landscape.pdf> <./normal-landscape.pdf>
-<normal-landscape.pdf, id=24, page=2, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=2, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 2>
 Package pdftex.def Info: normal-landscape.pdf , page2 used on input line 1.
@@ -601,7 +601,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 2>
 Package pdftex.def Info: normal-landscape.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=25, page=7, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=7, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 7>
 Package pdftex.def Info: normal-landscape.pdf , page7 used on input line 1.
@@ -751,7 +751,7 @@ Completed box being shipped out [3]
 
 
  <./normal-landscape.pdf> <./normal-landscape.pdf>
-<normal-landscape.pdf, id=29, page=6, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=6, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 6>
 Package pdftex.def Info: normal-landscape.pdf , page6 used on input line 1.
@@ -760,7 +760,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 6>
 Package pdftex.def Info: normal-landscape.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=30, page=3, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=3, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 3>
 Package pdftex.def Info: normal-landscape.pdf , page3 used on input line 1.
@@ -910,7 +910,7 @@ Completed box being shipped out [4]
 
 
  <./normal-landscape.pdf> <./normal-landscape.pdf>
-<normal-landscape.pdf, id=34, page=4, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=4, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 4>
 Package pdftex.def Info: normal-landscape.pdf , page4 used on input line 1.
@@ -919,7 +919,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 4>
 Package pdftex.def Info: normal-landscape.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=35, page=5, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=5, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 5>
 Package pdftex.def Info: normal-landscape.pdf , page5 used on input line 1.
@@ -3750,12 +3750,12 @@ Completed box being shipped out [17]
 ============================================================
 TEST 5: Slim landscape pages on portrait paper
 ============================================================
-<slim-landscape.pdf, id=80, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf>
 Package pdftex.def Info: slim-landscape.pdf  used on input line 1.
 (pdftex.def)             Requested size: 845.04504pt x 298.75342pt.
-<slim-landscape.pdf, id=82, page=8, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=8, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 8>
 Package pdftex.def Info: slim-landscape.pdf , page8 used on input line 1.
@@ -3772,7 +3772,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 8>
 Package pdftex.def Info: slim-landscape.pdf , page8 used on input line 1.
 (pdftex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=83, page=1, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=1, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 1>
 Package pdftex.def Info: slim-landscape.pdf , page1 used on input line 1.
@@ -4098,7 +4098,7 @@ Completed box being shipped out [18]
 
 
  <./slim-landscape.pdf> <./slim-landscape.pdf>
-<slim-landscape.pdf, id=95, page=2, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=2, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 2>
 Package pdftex.def Info: slim-landscape.pdf , page2 used on input line 1.
@@ -4107,7 +4107,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 2>
 Package pdftex.def Info: slim-landscape.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=96, page=7, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=7, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 7>
 Package pdftex.def Info: slim-landscape.pdf , page7 used on input line 1.
@@ -4257,7 +4257,7 @@ Completed box being shipped out [19]
 
 
  <./slim-landscape.pdf> <./slim-landscape.pdf>
-<slim-landscape.pdf, id=101, page=6, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=6, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 6>
 Package pdftex.def Info: slim-landscape.pdf , page6 used on input line 1.
@@ -4266,7 +4266,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 6>
 Package pdftex.def Info: slim-landscape.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=102, page=3, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=3, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 3>
 Package pdftex.def Info: slim-landscape.pdf , page3 used on input line 1.
@@ -4416,7 +4416,7 @@ Completed box being shipped out [20]
 
 
  <./slim-landscape.pdf> <./slim-landscape.pdf>
-<slim-landscape.pdf, id=106, page=4, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=4, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 4>
 Package pdftex.def Info: slim-landscape.pdf , page4 used on input line 1.
@@ -4425,7 +4425,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 4>
 Package pdftex.def Info: slim-landscape.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=107, page=5, 845.0471pt x 298.75415pt>
+<slim-landscape.pdf, id=··, page=5, 845.0471pt x 298.75415pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 5>
 Package pdftex.def Info: slim-landscape.pdf , page5 used on input line 1.

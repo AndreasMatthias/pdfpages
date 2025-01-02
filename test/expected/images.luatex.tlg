@@ -9,7 +9,7 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: PNG
 ============================================================
-<example-image-a.png, id=1, 401.5pt x 301.125pt>
+<example-image-a.png, id=··, 401.5pt x 301.125pt>
 File: example-image-a.png Graphic file (type png)
 <use example-image-a.png>
 Package luatex.def Info: example-image-a.png  used on input line 1.
@@ -252,7 +252,7 @@ Completed box being shipped out [1]
 ============================================================
 TEST 2: JPG
 ============================================================
-<example-image-b.jpg, id=9, 401.5pt x 301.125pt>
+<example-image-b.jpg, id=··, 401.5pt x 301.125pt>
 File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package luatex.def Info: example-image-b.jpg  used on input line 1.

@@ -9,7 +9,7 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: signature
 ============================================================
-<dummy-big.pdf, id=1, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf>
 Package luatex.def Info: dummy-big.pdf  used on input line 1.
@@ -19,7 +19,7 @@ Package pdfpages Warning: Option `nup' not set correctly.
 (pdfpages)                I will continue with `nup=1x2'. Please remember
 (pdfpages)                to set `nup' correctly when using `signature'.
 
-<dummy-big.pdf, id=3, page=4, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 4>
 Package luatex.def Info: dummy-big.pdf , page4 used on input line 1.
@@ -36,7 +36,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 4>
 Package luatex.def Info: dummy-big.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=4, page=1, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 1>
 Package luatex.def Info: dummy-big.pdf , page1 used on input line 1.
@@ -361,7 +361,7 @@ Completed box being shipped out [1]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=25, page=2, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 2>
 Package luatex.def Info: dummy-big.pdf , page2 used on input line 1.
@@ -370,7 +370,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 2>
 Package luatex.def Info: dummy-big.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=26, page=3, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 3>
 Package luatex.def Info: dummy-big.pdf , page3 used on input line 1.
@@ -531,7 +531,7 @@ Completed box being shipped out [2]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=30, page=8, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=8, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 8>
 Package luatex.def Info: dummy-big.pdf , page8 used on input line 1.
@@ -540,7 +540,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 8>
 Package luatex.def Info: dummy-big.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=31, page=5, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=5, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 5>
 Package luatex.def Info: dummy-big.pdf , page5 used on input line 1.
@@ -701,7 +701,7 @@ Completed box being shipped out [3]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=35, page=6, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=6, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 6>
 Package luatex.def Info: dummy-big.pdf , page6 used on input line 1.
@@ -710,7 +710,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 6>
 Package luatex.def Info: dummy-big.pdf , page6 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=36, page=7, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=7, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 7>
 Package luatex.def Info: dummy-big.pdf , page7 used on input line 1.
@@ -2484,7 +2484,7 @@ Completed box being shipped out [12]
 .\kern0.0
 
 
-<dummy-big.pdf, id=67, page=16, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=16, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 16>
 Package luatex.def Info: dummy-big.pdf , page16 used on input line 1.
@@ -2493,7 +2493,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 16>
 Package luatex.def Info: dummy-big.pdf , page16 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=68, page=9, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=9, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 9>
 Package luatex.def Info: dummy-big.pdf , page9 used on input line 1.
@@ -2654,7 +2654,7 @@ Completed box being shipped out [13]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=72, page=10, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=10, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 10>
 Package luatex.def Info: dummy-big.pdf , page10 used on input line 1.
@@ -2663,7 +2663,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 10>
 Package luatex.def Info: dummy-big.pdf , page10 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=73, page=15, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=15, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 15>
 Package luatex.def Info: dummy-big.pdf , page15 used on input line 1.
@@ -2824,7 +2824,7 @@ Completed box being shipped out [14]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=77, page=14, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=14, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 14>
 Package luatex.def Info: dummy-big.pdf , page14 used on input line 1.
@@ -2833,7 +2833,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 14>
 Package luatex.def Info: dummy-big.pdf , page14 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=78, page=11, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=11, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 11>
 Package luatex.def Info: dummy-big.pdf , page11 used on input line 1.
@@ -2994,7 +2994,7 @@ Completed box being shipped out [15]
 
 
 <./dummy-big.pdf><./dummy-big.pdf>
-<dummy-big.pdf, id=82, page=12, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=12, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 12>
 Package luatex.def Info: dummy-big.pdf , page12 used on input line 1.
@@ -3003,7 +3003,7 @@ File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 12>
 Package luatex.def Info: dummy-big.pdf , page12 used on input line 1.
 (luatex.def)             Requested size: 422.50157pt x 597.5377pt.
-<dummy-big.pdf, id=83, page=13, 597.50829pt x 845.04709pt>
+<dummy-big.pdf, id=··, page=13, 597.50829pt x 845.04709pt>
 File: dummy-big.pdf Graphic file (type pdf)
 <use dummy-big.pdf, page 13>
 Package luatex.def Info: dummy-big.pdf , page13 used on input line 1.

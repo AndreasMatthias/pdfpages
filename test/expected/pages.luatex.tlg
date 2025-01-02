@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Page 1 (default page)
 ============================================================
-<dummy.pdf, id=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -264,7 +264,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=25, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.
@@ -503,7 +503,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=30, page=3, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 1.
@@ -750,7 +750,7 @@ Completed box being shipped out [3]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=34, page=5, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=5, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package luatex.def Info: dummy.pdf , page5 used on input line 1.
@@ -1651,7 +1651,7 @@ Completed box being shipped out [9]
 .\kern0.0
 
 
-<dummy.pdf, id=55, page=4, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 1.
@@ -2372,7 +2372,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=74, page=8, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=8, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 Package luatex.def Info: dummy.pdf , page8 used on input line 1.
@@ -2629,7 +2629,7 @@ Completed box being shipped out [15]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=78, page=9, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=9, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 9>
 Package luatex.def Info: dummy.pdf , page9 used on input line 1.
@@ -2742,7 +2742,7 @@ Completed box being shipped out [16]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=82, page=10, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=10, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 10>
 Package luatex.def Info: dummy.pdf , page10 used on input line 1.
@@ -3553,7 +3553,7 @@ Completed box being shipped out [22]
 .\kern0.0
 
 
-<dummy.pdf, id=103, page=6, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=6, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 6>
 Package luatex.def Info: dummy.pdf , page6 used on input line 1.
@@ -3666,7 +3666,7 @@ Completed box being shipped out [23]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=107, page=7, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=7, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 7>
 Package luatex.def Info: dummy.pdf , page7 used on input line 1.

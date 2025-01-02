@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: pagetemplate=1: A4P\\ scale: A4L, A3L 
 ============================================================
-<mixed1.pdf, id=1, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf>
 Package pdftex.def Info: mixed1.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<mixed1.pdf, id=3, page=1, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 1>
 Package pdftex.def Info: mixed1.pdf , page1 used on input line 1.
@@ -31,7 +31,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 1>
 Package pdftex.def Info: mixed1.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=4, page=2, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 2>
 Package pdftex.def Info: mixed1.pdf , page2 used on input line 1.
@@ -40,7 +40,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 2>
 Package pdftex.def Info: mixed1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=5, page=3, 845.0471pt x 597.50829pt>
+<mixed1.pdf, id=··, page=3, 845.0471pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 3>
 Package pdftex.def Info: mixed1.pdf , page3 used on input line 1.
@@ -49,7 +49,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 3>
 Package pdftex.def Info: mixed1.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 281.00687pt x 198.6918pt.
-<mixed1.pdf, id=6, page=4, 1195.0156pt x 845.0471pt>
+<mixed1.pdf, id=··, page=4, 1195.0156pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 4>
 Package pdftex.def Info: mixed1.pdf , page4 used on input line 1.
@@ -58,7 +58,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 4>
 Package pdftex.def Info: mixed1.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 397.38329pt x 281.00687pt.
-<mixed1.pdf, id=7, page=5, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, page=5, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 5>
 Package pdftex.def Info: mixed1.pdf , page5 used on input line 1.
@@ -67,7 +67,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 5>
 Package pdftex.def Info: mixed1.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=8, page=6, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, page=6, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 6>
 Package pdftex.def Info: mixed1.pdf , page6 used on input line 1.
@@ -76,7 +76,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 6>
 Package pdftex.def Info: mixed1.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=9, page=7, 421.10124pt x 597.50829pt>
+<mixed1.pdf, id=··, page=7, 421.10124pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 7>
 Package pdftex.def Info: mixed1.pdf , page7 used on input line 1.
@@ -85,7 +85,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 7>
 Package pdftex.def Info: mixed1.pdf , page7 used on input line 1.
 (pdftex.def)             Requested size: 140.03046pt x 198.6918pt.
-<mixed1.pdf, id=10, page=8, 421.10124pt x 597.50829pt>
+<mixed1.pdf, id=··, page=8, 421.10124pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 8>
 Package pdftex.def Info: mixed1.pdf , page8 used on input line 1.
@@ -94,7 +94,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 8>
 Package pdftex.def Info: mixed1.pdf , page8 used on input line 1.
 (pdftex.def)             Requested size: 140.03046pt x 198.6918pt.
-<mixed1.pdf, id=11, page=9, 597.50829pt x 845.0471pt>
+<mixed1.pdf, id=··, page=9, 597.50829pt x 845.0471pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 9>
 Package pdftex.def Info: mixed1.pdf , page9 used on input line 1.
@@ -1928,12 +1928,12 @@ Completed box being shipped out [2]
 ============================================================
 TEST 3: pagetemplate=1: A4L\\ scale: A4P
 ============================================================
-<mixed2.pdf, id=37, 845.0471pt x 597.50829pt>
+<mixed2.pdf, id=··, 845.0471pt x 597.50829pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf>
 Package pdftex.def Info: mixed2.pdf  used on input line 1.
 (pdftex.def)             Requested size: 845.04504pt x 597.50682pt.
-<mixed2.pdf, id=39, page=1, 845.0471pt x 597.50829pt>
+<mixed2.pdf, id=··, page=1, 845.0471pt x 597.50829pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 1>
 Package pdftex.def Info: mixed2.pdf , page1 used on input line 1.
@@ -1950,7 +1950,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 1>
 Package pdftex.def Info: mixed2.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 298.16927pt x 210.82683pt.
-<mixed2.pdf, id=40, page=2, 597.50829pt x 845.0471pt>
+<mixed2.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 2>
 Package pdftex.def Info: mixed2.pdf , page2 used on input line 1.
@@ -1959,7 +1959,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 2>
 Package pdftex.def Info: mixed2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 210.82683pt x 298.16927pt.
-<mixed2.pdf, id=41, page=3, 597.50829pt x 845.0471pt>
+<mixed2.pdf, id=··, page=3, 597.50829pt x 845.0471pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 3>
 Package pdftex.def Info: mixed2.pdf , page3 used on input line 1.
@@ -1968,7 +1968,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 3>
 Package pdftex.def Info: mixed2.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 210.82683pt x 298.16927pt.
-<mixed2.pdf, id=42, page=4, 597.50829pt x 845.0471pt>
+<mixed2.pdf, id=··, page=4, 597.50829pt x 845.0471pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 4>
 Package pdftex.def Info: mixed2.pdf , page4 used on input line 1.

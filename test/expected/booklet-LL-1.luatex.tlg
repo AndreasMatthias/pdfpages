@@ -290,12 +290,12 @@ Completed box being shipped out [1]
 ============================================================
 TEST 1: Landscape pages on portrait paper
 ============================================================
-<normal-landscape.pdf, id=8, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf>
 Package luatex.def Info: normal-landscape.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 422.5225pt.
-<normal-landscape.pdf, id=10, page=8, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=8, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 8>
 Package luatex.def Info: normal-landscape.pdf , page8 used on input line 1.
@@ -312,7 +312,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 8>
 Package luatex.def Info: normal-landscape.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=11, page=1, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=1, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 1>
 Package luatex.def Info: normal-landscape.pdf , page1 used on input line 1.
@@ -670,7 +670,7 @@ Completed box being shipped out [2]
 
 
 <./normal-landscape.pdf><./normal-landscape.pdf>
-<normal-landscape.pdf, id=26, page=2, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=2, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 2>
 Package luatex.def Info: normal-landscape.pdf , page2 used on input line 1.
@@ -679,7 +679,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 2>
 Package luatex.def Info: normal-landscape.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=27, page=7, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=7, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 7>
 Package luatex.def Info: normal-landscape.pdf , page7 used on input line 1.
@@ -834,7 +834,7 @@ Completed box being shipped out [3]
 
 
 <./normal-landscape.pdf><./normal-landscape.pdf>
-<normal-landscape.pdf, id=31, page=6, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=6, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 6>
 Package luatex.def Info: normal-landscape.pdf , page6 used on input line 1.
@@ -843,7 +843,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 6>
 Package luatex.def Info: normal-landscape.pdf , page6 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=32, page=3, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=3, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 3>
 Package luatex.def Info: normal-landscape.pdf , page3 used on input line 1.
@@ -998,7 +998,7 @@ Completed box being shipped out [4]
 
 
 <./normal-landscape.pdf><./normal-landscape.pdf>
-<normal-landscape.pdf, id=36, page=4, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=4, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 4>
 Package luatex.def Info: normal-landscape.pdf , page4 used on input line 1.
@@ -1007,7 +1007,7 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 4>
 Package luatex.def Info: normal-landscape.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 211.26125pt.
-<normal-landscape.pdf, id=37, page=5, 597.50829pt x 422.52354pt>
+<normal-landscape.pdf, id=··, page=5, 597.50829pt x 422.52354pt>
 File: normal-landscape.pdf Graphic file (type pdf)
 <use normal-landscape.pdf, page 5>
 Package luatex.def Info: normal-landscape.pdf , page5 used on input line 1.
@@ -4015,12 +4015,12 @@ Completed box being shipped out [17]
 ============================================================
 TEST 5: Slim landscape pages on portrait paper
 ============================================================
-<slim-landscape.pdf, id=81, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf>
 Package luatex.def Info: slim-landscape.pdf  used on input line 1.
 (luatex.def)             Requested size: 845.04503pt x 298.7534pt.
-<slim-landscape.pdf, id=83, page=8, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=8, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 8>
 Package luatex.def Info: slim-landscape.pdf , page8 used on input line 1.
@@ -4037,7 +4037,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 8>
 Package luatex.def Info: slim-landscape.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=84, page=1, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=1, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 1>
 Package luatex.def Info: slim-landscape.pdf , page1 used on input line 1.
@@ -4398,7 +4398,7 @@ Completed box being shipped out [18]
 
 
 <./slim-landscape.pdf><./slim-landscape.pdf>
-<slim-landscape.pdf, id=98, page=2, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=2, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 2>
 Package luatex.def Info: slim-landscape.pdf , page2 used on input line 1.
@@ -4407,7 +4407,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 2>
 Package luatex.def Info: slim-landscape.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=99, page=7, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=7, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 7>
 Package luatex.def Info: slim-landscape.pdf , page7 used on input line 1.
@@ -4562,7 +4562,7 @@ Completed box being shipped out [19]
 
 
 <./slim-landscape.pdf><./slim-landscape.pdf>
-<slim-landscape.pdf, id=103, page=6, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=6, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 6>
 Package luatex.def Info: slim-landscape.pdf , page6 used on input line 1.
@@ -4571,7 +4571,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 6>
 Package luatex.def Info: slim-landscape.pdf , page6 used on input line 1.
 (luatex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=104, page=3, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=3, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 3>
 Package luatex.def Info: slim-landscape.pdf , page3 used on input line 1.
@@ -4726,7 +4726,7 @@ Completed box being shipped out [20]
 
 
 <./slim-landscape.pdf><./slim-landscape.pdf>
-<slim-landscape.pdf, id=108, page=4, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=4, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 4>
 Package luatex.def Info: slim-landscape.pdf , page4 used on input line 1.
@@ -4735,7 +4735,7 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 4>
 Package luatex.def Info: slim-landscape.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 298.7624pt x 105.62311pt.
-<slim-landscape.pdf, id=109, page=5, 845.04709pt x 298.75414pt>
+<slim-landscape.pdf, id=··, page=5, 845.04709pt x 298.75414pt>
 File: slim-landscape.pdf Graphic file (type pdf)
 <use slim-landscape.pdf, page 5>
 Package luatex.def Info: slim-landscape.pdf , page5 used on input line 1.

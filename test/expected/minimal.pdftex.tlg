@@ -9,7 +9,7 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: test1
 ============================================================
-<hog.pdf, id=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf>
 Package pdftex.def Info: hog.pdf  used on input line 14.
@@ -20,7 +20,7 @@ Package pdfpages Warning: Erroneous page width of 0.0pt is corrected.
 
 Package pdfpages Warning: Erroneous page height of 0.0pt is corrected.
 
-<hog.pdf, id=3, page=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, page=1, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 Package pdftex.def Info: hog.pdf , page1 used on input line 14.
@@ -141,7 +141,7 @@ Completed box being shipped out [1]
 ============================================================
 TEST 2: test2
 ============================================================
-<dummy.pdf, id=16, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package pdftex.def Info: dummy.pdf  used on input line 18.
@@ -152,7 +152,7 @@ Package pdfpages Warning: Erroneous page width of 0.0pt is corrected.
 
 Package pdfpages Warning: Erroneous page height of 0.0pt is corrected.
 
-<dummy.pdf, id=18, page=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 18.
@@ -298,7 +298,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-<dummy.pdf, id=38, page=2, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 25.

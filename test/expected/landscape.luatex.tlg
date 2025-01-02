@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Landscape
 ============================================================
-<dummy-landscape.pdf, id=1, 845.04709pt x 597.50829pt>
+<dummy-landscape.pdf, id=··, 845.04709pt x 597.50829pt>
 File: dummy-landscape.pdf Graphic file (type pdf)
 <use dummy-landscape.pdf>
 Package luatex.def Info: dummy-landscape.pdf  used on input line 1.
 (luatex.def)             Requested size: 845.04503pt x 597.50682pt.
-<dummy-landscape.pdf, id=3, page=1, 845.04709pt x 597.50829pt>
+<dummy-landscape.pdf, id=··, page=1, 845.04709pt x 597.50829pt>
 File: dummy-landscape.pdf Graphic file (type pdf)
 <use dummy-landscape.pdf, page 1>
 Package luatex.def Info: dummy-landscape.pdf , page1 used on input line 1.

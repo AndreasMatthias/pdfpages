@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: pagetemplate=1 (A4)\\\textrightarrow A4L and A3L are scaled down
 ============================================================
-<mixed1.pdf, id=1, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf>
 Package luatex.def Info: mixed1.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<mixed1.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 1>
 Package luatex.def Info: mixed1.pdf , page1 used on input line 1.
@@ -31,7 +31,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 1>
 Package luatex.def Info: mixed1.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=4, page=2, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 2>
 Package luatex.def Info: mixed1.pdf , page2 used on input line 1.
@@ -40,7 +40,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 2>
 Package luatex.def Info: mixed1.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=5, page=3, 845.04709pt x 597.50829pt>
+<mixed1.pdf, id=··, page=3, 845.04709pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 3>
 Package luatex.def Info: mixed1.pdf , page3 used on input line 1.
@@ -49,7 +49,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 3>
 Package luatex.def Info: mixed1.pdf , page3 used on input line 1.
 (luatex.def)             Requested size: 281.00687pt x 198.6918pt.
-<mixed1.pdf, id=6, page=4, 1195.01556pt x 845.04709pt>
+<mixed1.pdf, id=··, page=4, 1195.01556pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 4>
 Package luatex.def Info: mixed1.pdf , page4 used on input line 1.
@@ -58,7 +58,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 4>
 Package luatex.def Info: mixed1.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 397.38329pt x 281.00687pt.
-<mixed1.pdf, id=7, page=5, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, page=5, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 5>
 Package luatex.def Info: mixed1.pdf , page5 used on input line 1.
@@ -67,7 +67,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 5>
 Package luatex.def Info: mixed1.pdf , page5 used on input line 1.
 (luatex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=8, page=6, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, page=6, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 6>
 Package luatex.def Info: mixed1.pdf , page6 used on input line 1.
@@ -76,7 +76,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 6>
 Package luatex.def Info: mixed1.pdf , page6 used on input line 1.
 (luatex.def)             Requested size: 198.6918pt x 281.00687pt.
-<mixed1.pdf, id=9, page=7, 421.10123pt x 597.50829pt>
+<mixed1.pdf, id=··, page=7, 421.10123pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 7>
 Package luatex.def Info: mixed1.pdf , page7 used on input line 1.
@@ -85,7 +85,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 7>
 Package luatex.def Info: mixed1.pdf , page7 used on input line 1.
 (luatex.def)             Requested size: 140.03046pt x 198.6918pt.
-<mixed1.pdf, id=10, page=8, 421.10123pt x 597.50829pt>
+<mixed1.pdf, id=··, page=8, 421.10123pt x 597.50829pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 8>
 Package luatex.def Info: mixed1.pdf , page8 used on input line 1.
@@ -94,7 +94,7 @@ File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 8>
 Package luatex.def Info: mixed1.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 140.03046pt x 198.6918pt.
-<mixed1.pdf, id=11, page=9, 597.50829pt x 845.04709pt>
+<mixed1.pdf, id=··, page=9, 597.50829pt x 845.04709pt>
 File: mixed1.pdf Graphic file (type pdf)
 <use mixed1.pdf, page 9>
 Package luatex.def Info: mixed1.pdf , page9 used on input line 1.
@@ -3015,12 +3015,12 @@ Completed box being shipped out [3]
 ============================================================
 TEST 4: PDF in portrait but first page in landscape
 ============================================================
-<mixed2.pdf, id=40, 845.04709pt x 597.50829pt>
+<mixed2.pdf, id=··, 845.04709pt x 597.50829pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf>
 Package luatex.def Info: mixed2.pdf  used on input line 1.
 (luatex.def)             Requested size: 845.04503pt x 597.50682pt.
-<mixed2.pdf, id=42, page=1, 845.04709pt x 597.50829pt>
+<mixed2.pdf, id=··, page=1, 845.04709pt x 597.50829pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 1>
 Package luatex.def Info: mixed2.pdf , page1 used on input line 1.
@@ -3037,7 +3037,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 1>
 Package luatex.def Info: mixed2.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 298.16927pt x 210.82683pt.
-<mixed2.pdf, id=43, page=2, 597.50829pt x 845.04709pt>
+<mixed2.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 2>
 Package luatex.def Info: mixed2.pdf , page2 used on input line 1.
@@ -3046,7 +3046,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 2>
 Package luatex.def Info: mixed2.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 210.82683pt x 298.16927pt.
-<mixed2.pdf, id=44, page=3, 597.50829pt x 845.04709pt>
+<mixed2.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 3>
 Package luatex.def Info: mixed2.pdf , page3 used on input line 1.
@@ -3055,7 +3055,7 @@ File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 3>
 Package luatex.def Info: mixed2.pdf , page3 used on input line 1.
 (luatex.def)             Requested size: 210.82683pt x 298.16927pt.
-<mixed2.pdf, id=45, page=4, 597.50829pt x 845.04709pt>
+<mixed2.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: mixed2.pdf Graphic file (type pdf)
 <use mixed2.pdf, page 4>
 Package luatex.def Info: mixed2.pdf , page4 used on input line 1.

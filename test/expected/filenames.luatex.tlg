@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: file: 1.pdf, pages: 3,1,2
 ============================================================
-<1.pdf, id=1, 597.50829pt x 845.04709pt>
+<1.pdf, id=··, 597.50829pt x 845.04709pt>
 File: 1.pdf Graphic file (type pdf)
 <use 1.pdf>
 Package luatex.def Info: 1.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<1.pdf, id=3, page=3, 597.50829pt x 845.04709pt>
+<1.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: 1.pdf Graphic file (type pdf)
 <use 1.pdf, page 3>
 Package luatex.def Info: 1.pdf , page3 used on input line 1.
@@ -259,7 +259,7 @@ Completed box being shipped out [1]
 
 
 <./1.pdf>
-<1.pdf, id=24, page=1, 597.50829pt x 845.04709pt>
+<1.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: 1.pdf Graphic file (type pdf)
 <use 1.pdf, page 1>
 Package luatex.def Info: 1.pdf , page1 used on input line 1.
@@ -372,7 +372,7 @@ Completed box being shipped out [2]
 
 
 <./1.pdf>
-<1.pdf, id=28, page=2, 597.50829pt x 845.04709pt>
+<1.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: 1.pdf Graphic file (type pdf)
 <use 1.pdf, page 2>
 Package luatex.def Info: 1.pdf , page2 used on input line 1.
@@ -878,12 +878,12 @@ Completed box being shipped out [5]
 ============================================================
 TEST 3: file: 2-4.pdf, pages: 2,3,4,1
 ============================================================
-<2-4.pdf, id=39, 597.50829pt x 845.04709pt>
+<2-4.pdf, id=··, 597.50829pt x 845.04709pt>
 File: 2-4.pdf Graphic file (type pdf)
 <use 2-4.pdf>
 Package luatex.def Info: 2-4.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<2-4.pdf, id=41, page=2, 597.50829pt x 845.04709pt>
+<2-4.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: 2-4.pdf Graphic file (type pdf)
 <use 2-4.pdf, page 2>
 Package luatex.def Info: 2-4.pdf , page2 used on input line 1.
@@ -1137,7 +1137,7 @@ Completed box being shipped out [6]
 
 
 <./2-4.pdf>
-<2-4.pdf, id=59, page=3, 597.50829pt x 845.04709pt>
+<2-4.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: 2-4.pdf Graphic file (type pdf)
 <use 2-4.pdf, page 3>
 Package luatex.def Info: 2-4.pdf , page3 used on input line 1.
@@ -1250,7 +1250,7 @@ Completed box being shipped out [7]
 
 
 <./2-4.pdf>
-<2-4.pdf, id=63, page=4, 597.50829pt x 845.04709pt>
+<2-4.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: 2-4.pdf Graphic file (type pdf)
 <use 2-4.pdf, page 4>
 Package luatex.def Info: 2-4.pdf , page4 used on input line 1.
@@ -1363,7 +1363,7 @@ Completed box being shipped out [8]
 
 
 <./2-4.pdf>
-<2-4.pdf, id=67, page=1, 597.50829pt x 845.04709pt>
+<2-4.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: 2-4.pdf Graphic file (type pdf)
 <use 2-4.pdf, page 1>
 Package luatex.def Info: 2-4.pdf , page1 used on input line 1.

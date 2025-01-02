@@ -683,12 +683,12 @@ Completed box being shipped out [4]
 .\kern676.36243
 .\kern0.0
 
-<dummy.pdf, id=71, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 34.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=73, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
@@ -1224,7 +1224,7 @@ Completed box being shipped out [6]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=98, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
@@ -1350,7 +1350,7 @@ Completed box being shipped out [7]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=103, page=3, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
@@ -1500,7 +1500,7 @@ Completed box being shipped out [8]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=108, page=4, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 34.

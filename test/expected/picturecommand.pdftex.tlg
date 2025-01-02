@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Picturecommand
 ============================================================
-<dummy.pdf, id=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package pdftex.def Info: dummy.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<dummy.pdf, id=3, page=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -316,7 +316,7 @@ Completed box being shipped out [1]
 
 
  <./dummy.pdf>
-<dummy.pdf, id=26, page=2, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.

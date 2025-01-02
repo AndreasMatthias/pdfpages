@@ -47,6 +47,7 @@ jobs:
           collection-pstricks
           collection-xetex
           collection-langjapanese
+          pst-pdf
 
     # Install Ghostscript
     - name: Install Ghostscript

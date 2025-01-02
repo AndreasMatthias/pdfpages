@@ -116,6 +116,7 @@ end
 function normalize_log(content)
    content = grep_test_content(content)
    content = sanitize_filenames(content)
+   content = sanitize_ids(content)
    return content
 end
 
@@ -152,6 +153,15 @@ function sanitize_filenames(content)
       line = string.gsub(line, '{' .. path_pattern, '{···/%1')
       line = string.gsub(line, '"' .. path_pattern, '"···/%1')
       --
+      new_content = new_content .. line .. '\n'
+   end
+   return new_content
+end
+
+function sanitize_ids(content)
+   local new_content = ''
+   for line in string.gmatch(content, '([^\n]*)\n') do
+      line = string.gsub(line, 'id=%d+', 'id=··')
       new_content = new_content .. line .. '\n'
    end
    return new_content
@@ -377,7 +387,6 @@ function progress_list(tbl)
    return table.concat(sym), #sym
 end
 
-
 function column_width(results)
    local wd_test = 0
    local wd_job = 0
@@ -486,7 +495,7 @@ function cmd_diff_pdf(test, setting)
          mkdir(cons_path(testdir, dir_diff, {}))
          local pdf_diff = cons_path(testdir, dir_diff, {test, engine, 'pdf'})
          run_shell('diff-pdf -vgm --output-diff=%s %s %s; $PDFVIEWER %s',
-                   pdf_diff, pdf_expected, pdf_result, pdf_diff)
+            pdf_diff, pdf_expected, pdf_result, pdf_diff)
       end
    end
    return success

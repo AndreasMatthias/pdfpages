@@ -10,12 +10,12 @@ Don't change this file in any respect.
 TEST 1: Subfiles
 ============================================================
 ()subdir/subfile.tex
-<subdir/special.pdf, id=1, 597.50829pt x 845.0471pt>
+<subdir/special.pdf, id=··, 597.50829pt x 845.0471pt>
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf>
 Package pdftex.def Info: subdir/special.pdf  used on input line 4.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<subdir/special.pdf, id=3, page=1, 597.50829pt x 845.0471pt>
+<subdir/special.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
 Package pdftex.def Info: subdir/special.pdf , page1 used on input line 4.

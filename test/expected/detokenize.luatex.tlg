@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Detokenize
 ============================================================
-<foo~bar.pdf, id=1, 597.50829pt x 845.04709pt>
+<foo~bar.pdf, id=··, 597.50829pt x 845.04709pt>
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf>
 Package luatex.def Info: foo~bar.pdf  used on input line 17.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<foo~bar.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<foo~bar.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 Package luatex.def Info: foo~bar.pdf , page1 used on input line 17.
@@ -138,7 +138,7 @@ Completed box being shipped out [1]
 
 
 <./foo~bar.pdf>
-<foo~bar.pdf, id=22, page=2, 597.50829pt x 845.04709pt>
+<foo~bar.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 Package luatex.def Info: foo~bar.pdf , page2 used on input line 17.

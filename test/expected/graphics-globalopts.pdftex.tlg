@@ -88,17 +88,17 @@ Overfull \hbox (40.9479pt too wide) in paragraph at lines 14--17
 ============================================================
 TEST 1: includegraphics: scaled down,\\ includepdf: full size
 ============================================================
-<hog.pdf, id=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf>
 Package pdftex.def Info: hog.pdf  used on input line 1.
 (pdftex.def)             Requested size: 142.26248pt x 120.72473pt.
-<dummy.pdf, id=2, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package pdftex.def Info: dummy.pdf  used on input line 1.
 (pdftex.def)             Requested size: 100.5904pt x 142.2635pt.
-<dummy.pdf, id=4, page=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.

@@ -13,12 +13,12 @@ TEST 1: Regression test: addtotoc
 \tf@toc=\write3
 
 \openout3 = addtotoc-3.toc
-<dummy.pdf, id=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -513,7 +513,7 @@ Completed box being shipped out [2]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=29, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.

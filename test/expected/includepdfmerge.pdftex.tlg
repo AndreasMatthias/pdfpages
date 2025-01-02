@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: test1
 ============================================================
-<dummy1.pdf, id=1, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf>
 Package pdftex.def Info: dummy1.pdf  used on input line 1.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<dummy1.pdf, id=3, page=5, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, page=5, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 5>
 Package pdftex.def Info: dummy1.pdf , page5 used on input line 1.
@@ -409,7 +409,7 @@ Completed box being shipped out [1]
 
 
  <./dummy1.pdf>
-<dummy1.pdf, id=32, page=6, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, page=6, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 6>
 Package pdftex.def Info: dummy1.pdf , page6 used on input line 1.
@@ -418,7 +418,7 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 6>
 Package pdftex.def Info: dummy1.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-<dummy2.pdf, id=33, page=2, 597.50829pt x 845.0471pt>
+<dummy2.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
@@ -574,7 +574,7 @@ Completed box being shipped out [2]
 
 
  <./dummy1.pdf> <./dummy2.pdf>
-<dummy2.pdf, id=59, page=5, 597.50829pt x 845.0471pt>
+<dummy2.pdf, id=··, page=5, 597.50829pt x 845.0471pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 5>
 Package pdftex.def Info: dummy2.pdf , page5 used on input line 1.
@@ -583,7 +583,7 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 5>
 Package pdftex.def Info: dummy2.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-<dummy3.pdf, id=60, page=5, 597.50829pt x 845.0471pt>
+<dummy3.pdf, id=··, page=5, 597.50829pt x 845.0471pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 5>
 Package pdftex.def Info: dummy3.pdf , page5 used on input line 1.
@@ -694,7 +694,7 @@ Completed box being shipped out [3]
 
 
  <./dummy3.pdf>
-<dummy3.pdf, id=86, page=6, 597.50829pt x 845.0471pt>
+<dummy3.pdf, id=··, page=6, 597.50829pt x 845.0471pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 6>
 Package pdftex.def Info: dummy3.pdf , page6 used on input line 1.
@@ -703,7 +703,7 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 6>
 Package pdftex.def Info: dummy3.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-<dummy1.pdf, id=87, page=2, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
@@ -859,7 +859,7 @@ Completed box being shipped out [4]
 
 
  <./dummy3.pdf> <./dummy1.pdf>
-<dummy1.pdf, id=113, page=3, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, page=3, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 3>
 Package pdftex.def Info: dummy1.pdf , page3 used on input line 1.
@@ -868,7 +868,7 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 3>
 Package pdftex.def Info: dummy1.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-<dummy1.pdf, id=114, page=4, 597.50829pt x 845.0471pt>
+<dummy1.pdf, id=··, page=4, 597.50829pt x 845.0471pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 4>
 Package pdftex.def Info: dummy1.pdf , page4 used on input line 1.
@@ -1142,7 +1142,7 @@ Completed box being shipped out [6]
 
 
  <./dummy2.pdf>
-<dummy2.pdf, id=143, page=6, 597.50829pt x 845.0471pt>
+<dummy2.pdf, id=··, page=6, 597.50829pt x 845.0471pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 6>
 Package pdftex.def Info: dummy2.pdf , page6 used on input line 1.
@@ -2002,7 +2002,7 @@ Completed box being shipped out [13]
 .\kern 0.0
 
 
-<dummy2.pdf, id=190, page=3, 597.50829pt x 845.0471pt>
+<dummy2.pdf, id=··, page=3, 597.50829pt x 845.0471pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 3>
 Package pdftex.def Info: dummy2.pdf , page3 used on input line 1.
@@ -2110,7 +2110,7 @@ Completed box being shipped out [14]
 
 
  <./dummy2.pdf>
-<dummy2.pdf, id=216, page=4, 597.50829pt x 845.0471pt>
+<dummy2.pdf, id=··, page=4, 597.50829pt x 845.0471pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 4>
 Package pdftex.def Info: dummy2.pdf , page4 used on input line 1.
@@ -2218,7 +2218,7 @@ Completed box being shipped out [15]
 
 
  <./dummy2.pdf>
-<dummy3.pdf, id=242, page=2, 597.50829pt x 845.0471pt>
+<dummy3.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package pdftex.def Info: dummy3.pdf , page2 used on input line 1.
@@ -2390,7 +2390,7 @@ Completed box being shipped out [17]
 .\kern 0.0
 
 
-<dummy3.pdf, id=271, page=3, 597.50829pt x 845.0471pt>
+<dummy3.pdf, id=··, page=3, 597.50829pt x 845.0471pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 3>
 Package pdftex.def Info: dummy3.pdf , page3 used on input line 1.
@@ -2498,7 +2498,7 @@ Completed box being shipped out [18]
 
 
  <./dummy3.pdf>
-<dummy3.pdf, id=297, page=4, 597.50829pt x 845.0471pt>
+<dummy3.pdf, id=··, page=4, 597.50829pt x 845.0471pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 4>
 Package pdftex.def Info: dummy3.pdf , page4 used on input line 1.

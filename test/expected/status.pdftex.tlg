@@ -13,7 +13,7 @@ TEST 1: status = 0 (not pdfpages)
 pdfpages file: hog.pdf 
 pdfpages options:  
 pdfpages status: 0 
-<hog.pdf, id=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf>
 Package pdftex.def Info: hog.pdf  used on input line 1.
@@ -32,7 +32,7 @@ TEST 2: status = 2 (temporary), 1 (final)
 pdfpages file: dummy.pdf 
 pdfpages options:  
 pdfpages status: 2 
-<dummy.pdf, id=17, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package pdftex.def Info: dummy.pdf  used on input line 1.
@@ -41,7 +41,7 @@ Package pdftex.def Info: dummy.pdf  used on input line 1.
 pdfpages file: dummy.pdf 
 pdfpages options: width=!,height=!,,width=!,height=!, page=1, angle=0 
 pdfpages status: 2 
-<dummy.pdf, id=19, page=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -86,7 +86,7 @@ Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 pdfpages file: dummy.pdf 
 pdfpages options: width=!,height=!,,width=!,height=!, page=2, scale=1.00005, angle=0 
 pdfpages status: 2 
-<dummy.pdf, id=38, page=2, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -189,7 +189,7 @@ Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 pdfpages file: hog.pdf 
 pdfpages options: width=!,height=!,,width=!,height=!,, page=1, scale=1.00005, angle=0 
 pdfpages status: 2 
-<hog.pdf, id=49, page=1, 251.94125pt x 213.79875pt>
+<hog.pdf, id=··, page=1, 251.94125pt x 213.79875pt>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 Package pdftex.def Info: hog.pdf , page1 used on input line 1.

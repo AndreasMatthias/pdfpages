@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: linktodoc
 ============================================================
-<dummy1.pdf, id=3, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf>
 Package luatex.def Info: dummy1.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy1.pdf, id=5, page=1, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 1>
 Package luatex.def Info: dummy1.pdf , page1 used on input line 1.
@@ -287,7 +287,7 @@ Completed box being shipped out [1]
 
 
 <./dummy1.pdf>
-<dummy1.pdf, id=36, page=2, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package luatex.def Info: dummy1.pdf , page2 used on input line 1.
@@ -420,12 +420,12 @@ Completed box being shipped out [2]
 ============================================================
 TEST 2: linktodoc: /FitH 800
 ============================================================
-<dummy2.pdf, id=43, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf>
 Package luatex.def Info: dummy2.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy2.pdf, id=45, page=1, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 1>
 Package luatex.def Info: dummy2.pdf , page1 used on input line 1.
@@ -739,7 +739,7 @@ Completed box being shipped out [3]
 
 
 <./dummy2.pdf>
-<dummy2.pdf, id=73, page=2, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package luatex.def Info: dummy2.pdf , page2 used on input line 1.
@@ -872,12 +872,12 @@ Completed box being shipped out [4]
 ============================================================
 TEST 3: linktodoc: /FitV 100
 ============================================================
-<dummy3.pdf, id=80, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf>
 Package luatex.def Info: dummy3.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy3.pdf, id=82, page=1, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 Package luatex.def Info: dummy3.pdf , page1 used on input line 1.
@@ -1191,7 +1191,7 @@ Completed box being shipped out [5]
 
 
 <./dummy3.pdf>
-<dummy3.pdf, id=110, page=2, 597.50829pt x 845.04709pt>
+<dummy3.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package luatex.def Info: dummy3.pdf , page2 used on input line 1.
@@ -1324,12 +1324,12 @@ Completed box being shipped out [6]
 ============================================================
 TEST 4: newwindow
 ============================================================
-<dummy.pdf, id=117, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=119, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -1630,7 +1630,7 @@ Completed box being shipped out [7]
 
 
 <./dummy.pdf>
-<dummy.pdf, id=140, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.

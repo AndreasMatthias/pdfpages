@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Using graphicspath
 ============================================================
-<subdir/special.pdf, id=1, 597.50829pt x 845.04709pt>
+<subdir/special.pdf, id=··, 597.50829pt x 845.04709pt>
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf>
 Package luatex.def Info: subdir/special.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<subdir/special.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<subdir/special.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
 Package luatex.def Info: subdir/special.pdf , page1 used on input line 1.

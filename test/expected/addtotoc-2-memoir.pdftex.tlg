@@ -927,12 +927,12 @@ Completed box being shipped out [4]
 .\kern 676.36243
 .\kern 0.0
 
-<dummy.pdf, id=75, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package pdftex.def Info: dummy.pdf  used on input line 34.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<dummy.pdf, id=77, page=1, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 34.
@@ -1583,7 +1583,7 @@ Completed box being shipped out [6]
 
 
  <./dummy.pdf>
-<dummy.pdf, id=104, page=2, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 34.
@@ -1744,7 +1744,7 @@ Completed box being shipped out [7]
 
 
  <./dummy.pdf>
-<dummy.pdf, id=110, page=3, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=3, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 34.
@@ -1924,7 +1924,7 @@ Completed box being shipped out [8]
 
 
  <./dummy.pdf>
-<dummy.pdf, id=115, page=4, 597.50829pt x 845.0471pt>
+<dummy.pdf, id=··, page=4, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 34.

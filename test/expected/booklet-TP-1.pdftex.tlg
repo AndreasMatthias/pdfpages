@@ -246,12 +246,12 @@ Completed box being shipped out [1]
 ============================================================
 TEST 1: Portrait pages on portrait paper
 ============================================================
-<normal-portrait.pdf, id=8, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf>
 Package pdftex.def Info: normal-portrait.pdf  used on input line 1.
 (pdftex.def)             Requested size: 422.5225pt x 597.50682pt.
-<normal-portrait.pdf, id=10, page=8, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=8, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 8>
 Package pdftex.def Info: normal-portrait.pdf , page8 used on input line 1.
@@ -268,7 +268,7 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 8>
 Package pdftex.def Info: normal-portrait.pdf , page8 used on input line 1.
 (pdftex.def)             Requested size: 298.78174pt x 422.5198pt.
-<normal-portrait.pdf, id=11, page=1, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=1, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 1>
 Package pdftex.def Info: normal-portrait.pdf , page1 used on input line 1.
@@ -589,7 +589,7 @@ Completed box being shipped out [2]
 
 
  <./normal-portrait.pdf> <./normal-portrait.pdf>
-<normal-portrait.pdf, id=24, page=2, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=2, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 2>
 Package pdftex.def Info: normal-portrait.pdf , page2 used on input line 1.
@@ -598,7 +598,7 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 2>
 Package pdftex.def Info: normal-portrait.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 298.78174pt x 422.5198pt.
-<normal-portrait.pdf, id=25, page=7, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=7, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 7>
 Package pdftex.def Info: normal-portrait.pdf , page7 used on input line 1.
@@ -748,7 +748,7 @@ Completed box being shipped out [3]
 
 
  <./normal-portrait.pdf> <./normal-portrait.pdf>
-<normal-portrait.pdf, id=29, page=6, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=6, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 6>
 Package pdftex.def Info: normal-portrait.pdf , page6 used on input line 1.
@@ -757,7 +757,7 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 6>
 Package pdftex.def Info: normal-portrait.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 298.78174pt x 422.5198pt.
-<normal-portrait.pdf, id=30, page=3, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=3, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 3>
 Package pdftex.def Info: normal-portrait.pdf , page3 used on input line 1.
@@ -907,7 +907,7 @@ Completed box being shipped out [4]
 
 
  <./normal-portrait.pdf> <./normal-portrait.pdf>
-<normal-portrait.pdf, id=34, page=4, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=4, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 4>
 Package pdftex.def Info: normal-portrait.pdf , page4 used on input line 1.
@@ -916,7 +916,7 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 4>
 Package pdftex.def Info: normal-portrait.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 298.78174pt x 422.5198pt.
-<normal-portrait.pdf, id=35, page=5, 422.52354pt x 597.50829pt>
+<normal-portrait.pdf, id=··, page=5, 422.52354pt x 597.50829pt>
 File: normal-portrait.pdf Graphic file (type pdf)
 <use normal-portrait.pdf, page 5>
 Package pdftex.def Info: normal-portrait.pdf , page5 used on input line 1.
@@ -3741,12 +3741,12 @@ Completed box being shipped out [17]
 ============================================================
 TEST 5: Slim portrait pages on portrait paper
 ============================================================
-<slim-portrait.pdf, id=80, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf>
 Package pdftex.def Info: slim-portrait.pdf  used on input line 1.
 (pdftex.def)             Requested size: 298.75342pt x 845.04504pt.
-<slim-portrait.pdf, id=82, page=8, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=8, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 8>
 Package pdftex.def Info: slim-portrait.pdf , page8 used on input line 1.
@@ -3763,7 +3763,7 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 8>
 Package pdftex.def Info: slim-portrait.pdf , page8 used on input line 1.
 (pdftex.def)             Requested size: 149.38126pt x 422.53542pt.
-<slim-portrait.pdf, id=83, page=1, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=1, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 1>
 Package pdftex.def Info: slim-portrait.pdf , page1 used on input line 1.
@@ -4087,7 +4087,7 @@ Completed box being shipped out [18]
 
 
  <./slim-portrait.pdf> <./slim-portrait.pdf>
-<slim-portrait.pdf, id=95, page=2, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=2, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 2>
 Package pdftex.def Info: slim-portrait.pdf , page2 used on input line 1.
@@ -4096,7 +4096,7 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 2>
 Package pdftex.def Info: slim-portrait.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 149.38126pt x 422.53542pt.
-<slim-portrait.pdf, id=96, page=7, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=7, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 7>
 Package pdftex.def Info: slim-portrait.pdf , page7 used on input line 1.
@@ -4246,7 +4246,7 @@ Completed box being shipped out [19]
 
 
  <./slim-portrait.pdf> <./slim-portrait.pdf>
-<slim-portrait.pdf, id=101, page=6, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=6, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 6>
 Package pdftex.def Info: slim-portrait.pdf , page6 used on input line 1.
@@ -4255,7 +4255,7 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 6>
 Package pdftex.def Info: slim-portrait.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 149.38126pt x 422.53542pt.
-<slim-portrait.pdf, id=102, page=3, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=3, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 3>
 Package pdftex.def Info: slim-portrait.pdf , page3 used on input line 1.
@@ -4405,7 +4405,7 @@ Completed box being shipped out [20]
 
 
  <./slim-portrait.pdf> <./slim-portrait.pdf>
-<slim-portrait.pdf, id=106, page=4, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=4, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 4>
 Package pdftex.def Info: slim-portrait.pdf , page4 used on input line 1.
@@ -4414,7 +4414,7 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 4>
 Package pdftex.def Info: slim-portrait.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 149.38126pt x 422.53542pt.
-<slim-portrait.pdf, id=107, page=5, 298.75415pt x 845.0471pt>
+<slim-portrait.pdf, id=··, page=5, 298.75415pt x 845.0471pt>
 File: slim-portrait.pdf Graphic file (type pdf)
 <use slim-portrait.pdf, page 5>
 Package pdftex.def Info: slim-portrait.pdf , page5 used on input line 1.

@@ -9,12 +9,12 @@ Don't change this file in any respect.
 ============================================================
 TEST 1: Thread
 ============================================================
-<dummy.pdf, id=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 Package luatex.def Info: dummy.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy.pdf, id=3, page=1, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -31,7 +31,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-<dummy.pdf, id=4, page=2, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.
@@ -40,7 +40,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-<dummy.pdf, id=5, page=3, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=3, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 1.
@@ -49,7 +49,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-<dummy.pdf, id=6, page=4, 597.50829pt x 845.04709pt>
+<dummy.pdf, id=··, page=4, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 1.
@@ -461,12 +461,12 @@ Completed box being shipped out [1]
 ============================================================
 TEST 2: One thread combining two documents
 ============================================================
-<dummy1.pdf, id=37, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf>
 Package luatex.def Info: dummy1.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy1.pdf, id=39, page=1, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 1>
 Package luatex.def Info: dummy1.pdf , page1 used on input line 1.
@@ -873,7 +873,7 @@ Completed box being shipped out [2]
 
 
 <./dummy1.pdf>
-<dummy1.pdf, id=68, page=2, 597.50829pt x 845.04709pt>
+<dummy1.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package luatex.def Info: dummy1.pdf , page2 used on input line 1.
@@ -987,12 +987,12 @@ Completed box being shipped out [3]
 
 
 <./dummy1.pdf>
-<dummy2.pdf, id=75, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf>
 Package luatex.def Info: dummy2.pdf  used on input line 1.
 (luatex.def)             Requested size: 597.50682pt x 845.04503pt.
-<dummy2.pdf, id=77, page=1, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, page=1, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 1>
 Package luatex.def Info: dummy2.pdf , page1 used on input line 1.
@@ -1114,7 +1114,7 @@ Completed box being shipped out [4]
 
 
 <./dummy2.pdf>
-<dummy2.pdf, id=105, page=2, 597.50829pt x 845.04709pt>
+<dummy2.pdf, id=··, page=2, 597.50829pt x 845.04709pt>
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package luatex.def Info: dummy2.pdf , page2 used on input line 1.
