@@ -43,9 +43,10 @@ jobs:
           collection-latex
           collection-latexrecommended
           collection-latexextra
+          collection-luatex
+          collection-xetex
           collection-mathscience
           collection-pstricks
-          collection-xetex
           collection-langjapanese
         update-all-packages: true
 
