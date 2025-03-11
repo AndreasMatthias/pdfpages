@@ -5199,9 +5199,9 @@ To get the documentation run: `latex pdfpages.dtx'
 Arranging several logical pages on one sheet of paper.
 
 \begin{example}
-\includepdf[nup=1x2, landscape, pages=4-7]{dummy.pdf}
+\includepdf[nup=2x1, landscape, pages=4-7]{dummy.pdf}
 \end{example}
-\includepdf[nup=1x2, landscape, pages=4-7]{dummy.pdf}
+\includepdf[nup=2x1, landscape, pages=4-7]{dummy.pdf}
 
 Use the option \texttt{turn=false}, if the pages
 should not be displayed in landscape orientation.
@@ -5210,10 +5210,10 @@ landscape orientation, you use a PDF viewer that
 does not support this option.)
 
 \begin{example}
-\includepdf[nup=1x2, landscape,
+\includepdf[nup=2x1, landscape,
             pages=4-7, turn=false]{dummy.pdf}
 \end{example}
-\includepdf[nup=1x2, landscape,
+\includepdf[nup=2x1, landscape,
             pages=4-7, turn=false]{dummy.pdf}
 
 \begin{example}
@@ -5305,11 +5305,11 @@ as follows:
 \noindent
 You like the crazy way? Then try this one \texttt{;-)}
 \begin{example}
-\includepdf[pages={3,4}, nup=1x2,
+\includepdf[pages={3,4}, nup=2x1,
             landscape, scale=1.1,
             angle=30, delta=0 -85mm]{dummy.pdf}
 \end{example}
-\includepdf[pages={3,4}, nup=1x2,
+\includepdf[pages={3,4}, nup=2x1,
             landscape, scale=1.1,
             angle=30, delta=0 -85mm]{dummy.pdf}
 
@@ -5395,7 +5395,7 @@ identical link names. To prevent this use the option
 \texttt{linkname} to specify another name for the links.
 
 \begin{example}
-\includepdf[pages=1-2, nup=1x2, landscape,
+\includepdf[pages=1-2, nup=2x1, landscape,
             link, linkname=mylink]{dummy.pdf}
 \end{example}
 
@@ -5407,7 +5407,7 @@ Now the links are called `\texttt{mylink.1}' and
 \verb|\hyperlink{mylink.1}{Page 1}|\hskip10pt \hyperlink{mylink.1}{Page 1}\par
 \verb|\hyperlink{mylink.2}{Page 2}|\hskip10pt \hyperlink{mylink.2}{Page 2}
 
-\includepdf[pages=1-2, nup=1x2, landscape,
+\includepdf[pages=1-2, nup=2x1, landscape,
             link, linkname=mylink]{dummy.pdf}
 
 \subsection{Links to the original Document}

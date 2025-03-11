@@ -21,8 +21,11 @@ ppvtex.def
 ppxetex.def
 
 pdf-ex.tex
+pdf-ex.pdf
 pdf-hyp.tex
+pdf-hyp.pdf
 pdf-toc.tex
+pdf-toc.pdf
 
 pdfpages.pdf
 
