@@ -59,7 +59,7 @@ $(TDS-STY-FILES): pdfpages.ins
 	latex pdfpages.ins
 	./scripts/insert-git-info pdfpages.sty
 
-$(TDS-ZIP-FILE): $(TDS-STY-FILES) $(TDS-DOC-FILES) $(TDS-SRC-FILES) $(DIST-FILES)
+$(TDS-ZIP-FILE): $(TDS-STY-FILES) $(TDS-SRC-FILES) $(DIST-FILES)
 # Build package files
 	rm -rf $(BUILD)
 	mkdir $(BUILD)
@@ -74,7 +74,7 @@ $(TDS-ZIP-FILE): $(TDS-STY-FILES) $(TDS-DOC-FILES) $(TDS-SRC-FILES) $(DIST-FILES
 	mkdir -p $(DIST-DIR)/$(TDS-STY-DIR)
 	cp $(addprefix $(BUILD)/,$(TDS-STY-FILES)) $(DIST-DIR)/$(TDS-STY-DIR)
 	mkdir -p $(DIST-DIR)/$(TDS-DOC-DIR)
-	cp $(addprefix $(BUILD)/,$(TDS-DOC-FILES)) $(DIST-DIR)/$(TDS-DOC-DIR)
+	cp $(addprefix $(BUILD)/,$(TDS-DOC-FILES) $(CTAN-DOC-FILES)) $(DIST-DIR)/$(TDS-DOC-DIR)
 	mkdir -p $(DIST-DIR)/$(TDS-SRC-DIR)
 	cp $(addprefix $(BUILD)/, $(TDS-SRC-FILES)) $(DIST-DIR)/$(TDS-SRC-DIR)
 	chmod 755 $(DIST-DIR)
