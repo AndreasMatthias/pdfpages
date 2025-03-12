@@ -164,7 +164,6 @@ Completed box being shipped out [1]
 ....\special{pdf:dest (chapter*.1) [@thispage /XYZ @xpos @ypos null]}
 ....\penalty 10000
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.83337

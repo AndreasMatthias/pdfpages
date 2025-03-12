@@ -145,7 +145,6 @@ Completed box being shipped out [1]
 ....\pdfdest name{chapter*.1} xyz
 ....\penalty 10000
 ....\glue 15.0694 plus 4.30554 minus 0.86108
-....\glue 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.83337

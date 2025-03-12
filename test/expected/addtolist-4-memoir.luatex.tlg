@@ -188,7 +188,6 @@ Completed box being shipped out [1]
 ....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Myfloats}{\thepage }{section*.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 15.08499 plus 4.31 minus 0.86198
-....\glue 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 3.688
