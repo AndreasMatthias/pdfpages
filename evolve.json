@@ -28,7 +28,12 @@
 	"images%-eps": [{"job": "ps2pdf", "testdir": "test", "runs": 1}],
 	"ps%-tricks": [{"job": "ps-tricks", "testdir": "test", "runs": 1}],
 	"dvipdfmx": [{"job": "platex", "testdir": "test", "runs": 1}],
-	"lastpage": [{"job": "latex", "testdir": "test", "runs": 1}]
+	"lastpage": [{"job": "latex", "testdir": "test", "runs": 1}],
+
+	"phantompage.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
+			  {"job": "pdflatex", "testdir": "test", "runs": 2},
+			  {"job": "xelatex", "testdir": "test", "runs": 2},
+			  {"job": "platex", "testdir": "test", "runs": 2}]
     },
     
     "job": {

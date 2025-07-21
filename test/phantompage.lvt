@@ -1,0 +1,42 @@
+\input{regression-test}
+\documentclass[a4paper, \classoptions]{article}
+\usepackage{pdfpages}
+\usepackage[
+  bookmarksopen, bookmarksopenlevel=5,
+  colorlinks, linkcolor=blue,
+]{hyperref}
+
+\usepackage{bookmark}
+
+\begin{document}
+\START\showoutput
+
+\TEST{Phantompage}{
+  \Large
+  \tableofcontents
+
+  % Link to page 1 must not point to the first page (phantom page).
+  \includepdf[
+    pages={,1,2},
+    addtotoc={
+      1, section, 1, Page 1, sec:page1,
+      2, section, 1, Page 2, sec:page2},
+  ]{dummy.pdf}
+}
+
+\TEST{Phantompage}{
+  \Large
+  \tableofcontents
+
+  % Link to page 1 must not point to the first page (phantom page).
+  \includepdf[
+    pages={1,2},
+    openright,
+    addtotoc={
+      1, section, 1, Page 1, sec:page1,
+      2, section, 1, Page 2, sec:page2},
+  ]{dummy.pdf}
+}
+
+%\END
+\end{document}
