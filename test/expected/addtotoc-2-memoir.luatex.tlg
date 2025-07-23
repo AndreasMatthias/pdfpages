@@ -112,7 +112,7 @@ Completed box being shipped out [1]
 .....\pdfcolorstack 0 pop
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 307.0235fil, direction TLT
+...\vbox(598.0+0.0)x341.0, glue set 304.01147fil, direction TLT
 ....\vbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil, direction TLT
 ......\glue 341.0
@@ -152,10 +152,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {1}\MakeTextUppercase    []{Contents}}
-....\marks2{\__mark_id:n {2}\MakeTextUppercase    []{Contents}}
-....\marks3{\__mark_id:n {3}\MakeTextUppercase    []{Contents}}
-....\mark{{\MakeTextUppercase    []{Contents}}{\MakeTextUppercase    []{Contents}}}
+....\marks1{\__mark_value:nn {1}{\MakeTextUppercase    []{Contents}}}
+....\marks2{\__mark_value:nn {2}{\MakeTextUppercase    []{Contents}}}
+....\marks3{\__mark_value:nn {3}{\MakeTextUppercase    []{Contents}}}
 ....\penalty 10000
 ....\glue 40.0
 ....\glue 10.0 plus 1.0
@@ -524,7 +523,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) -30.60004
 .....\glue(\rightskip) 30.60004
-....\glue -3.012
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -803,7 +801,7 @@ Completed box being shipped out [3]
 .....\pdfcolorstack 0 pop
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 173.66667fil, direction TLT
+...\vbox(598.0+0.0)x341.0, glue set 173.58371fil, direction TLT
 ....\vbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil, direction TLT
 ......\glue 341.0
@@ -819,9 +817,8 @@ Completed box being shipped out [3]
 ....\penalty 10000
 ....\write4{\protect \BOOKMARK [-1][]{part.1}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{}% 2}
 ....\write1{\@writefile{toc}{\protect \contentsline {part}{\protect \partnumberline {I}References}{\thepage }{part.1}\protected@file@percent }}
-....\marks1{\__mark_id:n {4}}
-....\marks2{\__mark_id:n {5}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {4}{}}
+....\marks2{\__mark_value:nn {5}{}}
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 10.14592
@@ -873,7 +870,6 @@ Completed box being shipped out [3]
 .....\glue(\parfillskip) 0.0
 .....\glue(\rightskip) 0.0 plus 1.0fil
 ....\glue 0.0 plus 1.0fil
-....\glue -0.24889
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -1163,7 +1159,7 @@ Completed box being shipped out [5]
 .....\pdfcolorstack 0 pop
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 514.80011fil, direction TLT
+...\vbox(598.0+0.0)x341.0, glue set 509.80011fil, direction TLT
 ....\vbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil, direction TLT
 ......\glue 341.0
@@ -1467,7 +1463,6 @@ Completed box being shipped out [5]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -1682,9 +1677,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {6}}
-....\marks2{\__mark_id:n {7}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {6}{}}
+....\marks2{\__mark_value:nn {7}{}}
 ....\glue 20.0
 ....\write1{\newlabel{sec:1}{{II}{\thepage }{\ignorespaces  Lorem (page 1)}{part.2}{}}}
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1711,9 +1705,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {8}\MakeTextUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}
-....\marks2{\__mark_id:n {9}}
-....\mark{{\MakeTextUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}{}}
+....\marks1{\__mark_value:nn {8}{\MakeTextUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}}
+....\marks2{\__mark_value:nn {9}{}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 25.29494
@@ -2050,9 +2043,8 @@ Completed box being shipped out [8]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {10}\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}
-....\marks3{\__mark_id:n {11}\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}
-....\mark{{\MakeTextUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}{\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks2{\__mark_value:nn {10}{\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks3{\__mark_value:nn {11}{\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
 ....\glue 0.0 plus -1.0
 ....\glue -14.5
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2252,9 +2244,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {12}\MakeTextUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}
-....\marks2{\__mark_id:n {13}}
-....\mark{{\MakeTextUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}{}}
+....\marks1{\__mark_value:nn {12}{\MakeTextUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}}
+....\marks2{\__mark_value:nn {13}{}}
 ....\glue 0.0 plus -1.0
 ....\glue -14.5
 ....\glue(\parskip) 0.0 plus 1.0
@@ -2275,9 +2266,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {14}\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}
-....\marks3{\__mark_id:n {15}\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}
-....\mark{{\MakeTextUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}{\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks2{\__mark_value:nn {14}{\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks3{\__mark_value:nn {15}{\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 25.29494
@@ -2321,9 +2311,9 @@ Completed box being shipped out [9]
 <./dummy.pdf>
 ============================================================
 
-\tf@toc=\write5
+\tf@toc=\write··
 
-\openout5 = addtotoc-2-memoir.toc
+\openout·· = addtotoc-2-memoir.toc
 ()addtotoc-2-memoir.aux)
 Package rerunfilecheck Info: File `addtotoc-2-memoir.out' has not changed.
 (rerunfilecheck)             Checksum: C4C42545555DEB7E7418142D0B08F1F8;810.

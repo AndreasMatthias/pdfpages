@@ -46,7 +46,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 587.9372fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 585.99297fil, yoko direction
 ...\special{ps: /setdistillerparams where {pop << /CompressPages false /CompressStreams false >> setdistillerparams} if }
 ...\special{! <</DocumentUUID (DocumentUUID)>> setpagedevice}
 ...\special{! <</InstanceUUID (InstanceUUID)>> setpagedevice}
@@ -84,7 +84,6 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
-...\glue -1.94444
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil
@@ -386,7 +385,7 @@ Completed box being shipped out [3]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 587.9372fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 585.99297fil, yoko direction
 ...\glue(\topskip) 3.16669
 ...\hbox(6.83331+1.94444)x345.0, glue set 286.08325fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
@@ -405,7 +404,6 @@ Completed box being shipped out [3]
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
-...\glue -1.94444
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil
@@ -722,7 +720,7 @@ Completed box being shipped out [5]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 587.9372fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 585.99297fil, yoko direction
 ...\glue(\topskip) 3.16669
 ...\hbox(6.83331+1.94444)x345.0, glue set 289.41658fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
@@ -740,7 +738,6 @@ Completed box being shipped out [5]
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
-...\glue -1.94444
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil

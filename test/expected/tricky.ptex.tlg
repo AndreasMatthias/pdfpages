@@ -27,14 +27,14 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <5> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <5> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
 )
-\tf@toc=\write3
+\tf@toc=\write··
 
-\openout3 = `tricky.toc'.
+\openout·· = `tricky.toc'.
 
 ()tricky.lof)
-\tf@lof=\write4
+\tf@lof=\write··
 
-\openout4 = `tricky.lof'.
+\openout·· = `tricky.lof'.
 
 Package pdfpages Info: Running extractbb on file `dummy.pdf' on input line 25.
 File: dummy.pdf Graphic file (type pdf)
@@ -69,7 +69,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 390.01398fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 387.85422fil, yoko direction
 ...\special{ps: /setdistillerparams where {pop << /CompressPages false /CompressStreams false >> setdistillerparams} if }
 ...\special{! <</DocumentUUID (DocumentUUID)>> setpagedevice}
 ...\special{! <</InstanceUUID (InstanceUUID)>> setpagedevice}
@@ -462,7 +462,6 @@ Completed box being shipped out [1]
 ...\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\ce {H2O}}{\thepage }{}\protected@file@percent }}
 ...\penalty 10000
 ...\glue 9.90276 plus 0.86108
-...\glue -2.15999
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil

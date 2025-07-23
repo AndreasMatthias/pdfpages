@@ -104,7 +104,7 @@ Completed box being shipped out [1]
 .....\special{color pop}
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 425.59186fil, yoko direction
+...\vbox(598.0+0.0)x341.0, glue set 420.59186fil, yoko direction
 ....\vbox(0.0+0.0)x0.0, yoko direction
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil, yoko direction
 ......\glue 341.0
@@ -117,7 +117,7 @@ Completed box being shipped out [1]
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline 1<</Title(\376\377\000P\000a\000c\000k\000a\000g\000e\000\040\000l\000i\000s\000t\000i\000n\000g\000s\000.\000s\000t\000y)/A<</S/GoTo/D(section.0.1)>>>>}
 ....\special{pdf:outline 0<</Title(\376\377\000L\000i\000s\000t\000i\000n\000g\000s)/A<</S/GoTo/D(section*.1)>>>>}
@@ -189,10 +189,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {1}Listings}
-....\marks2{\__mark_id:n {2}Listings}
-....\marks3{\__mark_id:n {3}Listings}
-....\mark{{Listings}{Listings}}
+....\marks1{\__mark_value:nn {1}{Listings}}
+....\marks2{\__mark_value:nn {2}{Listings}}
+....\marks3{\__mark_value:nn {3}{Listings}}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue 0.0 plus 0.2
@@ -578,7 +577,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -1407,8 +1405,8 @@ Completed box being shipped out [6]
 
 ============================================================
 
-\tf@lol=\write5
-\openout5 = `addtolist-2-memoir.lol'.
+\tf@lol=\write··
+\openout·· = `addtolist-2-memoir.lol'.
 
 ()addtolist-2-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-2-memoir.out' has not changed.

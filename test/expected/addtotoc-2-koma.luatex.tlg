@@ -17,9 +17,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
 )
-\tf@toc=\write4
+\tf@toc=\write··
 
-\openout4 = addtotoc-2-koma.toc
+\openout·· = addtotoc-2-koma.toc
 
 
 
@@ -105,10 +105,11 @@ Completed box being shipped out [1]
 ....\pdfcolorstack 0 pop
 ....\penalty 10000
 ....\penalty 10000
-....\marks1{\__mark_id:n {1}Contents}
-....\marks2{\__mark_id:n {2}Contents}
-....\marks3{\__mark_id:n {3}Contents}
-....\mark{{Contents}{Contents}}
+....\marks1{\__mark_value:nn {1}{Contents}}
+....\penalty 10000
+....\marks2{\__mark_value:nn {2}{Contents}}
+....\penalty 10000
+....\marks3{\__mark_value:nn {3}{Contents}}
 ....\penalty 10000
 ....\penalty 0
 ....\glue 31.05011 plus 2.0701 minus 3.45602
@@ -670,9 +671,8 @@ Completed box being shipped out [3]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {4}}
-....\marks2{\__mark_id:n {5}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {4}{}}
+....\marks2{\__mark_value:nn {5}{}}
 ....\pdfcolorstack 0 pop
 ....\glue(\baselineskip) 8.99991
 ....\vbox(0.0+0.0)x0.0, direction TLT
@@ -1310,9 +1310,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {6}}
-....\marks2{\__mark_id:n {7}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {6}{}}
+....\marks2{\__mark_value:nn {7}{}}
 ....\pdfcolorstack 0 pop
 ....\write1{\newlabel{sec:1}{{II}{\thepage }{\ignorespaces  Lorem (page 1)}{part.2}{}}}
 ....\penalty 10000
@@ -1339,9 +1338,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {8}1\hskip .5em\relax \ignorespaces  Ipsum (page 1)}
-....\marks2{\__mark_id:n {9}}
-....\mark{{1\hskip .5em\relax \ignorespaces  Ipsum (page 1)}{}}
+....\marks1{\__mark_value:nn {8}{1\hskip .5em\relax \ignorespaces  Ipsum (page 1)}}
+....\marks2{\__mark_value:nn {9}{}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 47.6
@@ -1598,9 +1596,8 @@ Completed box being shipped out [8]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {10}1.1\hskip .5em\relax \ignorespaces  Dolor (page 3)}
-....\marks3{\__mark_id:n {11}1.1\hskip .5em\relax \ignorespaces  Dolor (page 3)}
-....\mark{{1\hskip .5em\relax \ignorespaces  Ipsum (page 1)}{1.1\hskip .5em\relax \ignorespaces  Dolor (page 3)}}
+....\marks2{\__mark_value:nn {10}{1.1\hskip .5em\relax \ignorespaces  Dolor (page 3)}}
+....\marks3{\__mark_value:nn {11}{1.1\hskip .5em\relax \ignorespaces  Dolor (page 3)}}
 ....\glue 0.0 plus -1.0
 ....\glue -18.0
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1771,9 +1768,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {12}2\hskip .5em\relax \ignorespaces  Sit (page 4)}
-....\marks2{\__mark_id:n {13}}
-....\mark{{2\hskip .5em\relax \ignorespaces  Sit (page 4)}{}}
+....\marks1{\__mark_value:nn {12}{2\hskip .5em\relax \ignorespaces  Sit (page 4)}}
+....\marks2{\__mark_value:nn {13}{}}
 ....\glue 0.0 plus -1.0
 ....\glue -18.0
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1794,9 +1790,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {14}2.1\hskip .5em\relax \ignorespaces  Amet (page 4)}
-....\marks3{\__mark_id:n {15}2.1\hskip .5em\relax \ignorespaces  Amet (page 4)}
-....\mark{{2\hskip .5em\relax \ignorespaces  Sit (page 4)}{2.1\hskip .5em\relax \ignorespaces  Amet (page 4)}}
+....\marks2{\__mark_value:nn {14}{2.1\hskip .5em\relax \ignorespaces  Amet (page 4)}}
+....\marks3{\__mark_value:nn {15}{2.1\hskip .5em\relax \ignorespaces  Amet (page 4)}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 47.6
@@ -1823,7 +1818,4 @@ Completed box being shipped out [9]
 ============================================================
 
 ()addtotoc-2-koma.aux)
-Package rerunfilecheck Info: File `addtotoc-2-koma.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
 

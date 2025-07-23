@@ -26,9 +26,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 )
-\tf@pdc=\write4
+\tf@pdc=\write··
 
-\openout4 = `addtolist-3-koma.pdc'.
+\openout·· = `addtolist-3-koma.pdc'.
 
 
 
@@ -79,7 +79,7 @@ Completed box being shipped out [1]
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
@@ -1069,7 +1069,4 @@ Completed box being shipped out [6]
 ============================================================
 
 ()addtolist-3-koma.aux)
-Package rerunfilecheck Info: File `addtolist-3-koma.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
 

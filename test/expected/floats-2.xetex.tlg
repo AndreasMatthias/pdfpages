@@ -111,6 +111,14 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
+
+
+
+
+
+
+
+
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1659,6 +1667,14 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
+
+
+
+
+
+
+
+
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -1933,6 +1949,14 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
+
+
+
+
+
+
+
+
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -2255,6 +2279,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 .\glue 3.33 plus 1.665 minus 1.11
 .\TU/lmr/m/n/10 do-
 .\glue(\rightskip) 0.0
+
+
+
+
+
+
+
+
 
 
 Completed box being shipped out [4]
@@ -3703,6 +3735,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
 
 
+
+
+
+
+
+
+
+
 Completed box being shipped out [5]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -4915,6 +4955,14 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
+
+
+
+
+
+
+
+
 
 Completed box being shipped out [6]
 \vbox(682.0+0.21999)x398.0
@@ -6458,6 +6506,14 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
+
+
+
+
+
+
+
+
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -6732,6 +6788,14 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
+
+
+
+
+
+
+
+
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -7054,6 +7118,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 .\glue 3.33 plus 1.665 minus 1.11
 .\TU/lmr/m/n/10 do-
 .\glue(\rightskip) 0.0
+
+
+
+
+
+
+
+
 
 
 Completed box being shipped out [9]
@@ -8498,6 +8570,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 .\glue 3.33 plus 1.665 minus 1.11
 .\TU/lmr/m/n/10 do-
 .\glue(\rightskip) 0.0
+
+
+
+
+
+
+
+
 
 ============================================================
 

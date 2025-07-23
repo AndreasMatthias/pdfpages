@@ -110,7 +110,7 @@ Completed box being shipped out [1]
 .....\pdfcolorstack 0 pop
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 425.42908fil, direction TLT
+...\vbox(598.0+0.0)x341.0, glue set 420.42908fil, direction TLT
 ....\vbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil, direction TLT
 ......\glue 341.0
@@ -556,7 +556,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -1492,9 +1491,9 @@ Completed box being shipped out [6]
 <./dummy.pdf>
 ============================================================
 
-\tf@pdc=\write5
+\tf@pdc=\write··
 
-\openout5 = addtolist-3-memoir.pdc
+\openout·· = addtolist-3-memoir.pdc
 ()addtolist-3-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-3-memoir.out' has not changed.
 (rerunfilecheck)             Checksum: 0EC0AF4325DDAB7F88E65061153DB163;132.

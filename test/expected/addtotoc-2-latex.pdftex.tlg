@@ -15,9 +15,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 )
-\tf@toc=\write4
+\tf@toc=\write··
 
-\openout4 = `addtotoc-2-latex.toc'.
+\openout·· = `addtotoc-2-latex.toc'.
 
 
 
@@ -88,10 +88,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {1}\MakeUppercase    []{Contents}}
-....\marks2{\__mark_id:n {2}\MakeUppercase    []{Contents}}
-....\marks3{\__mark_id:n {3}\MakeUppercase    []{Contents}}
-....\mark{{\MakeUppercase    []{Contents}}{\MakeUppercase    []{Contents}}}
+....\marks1{\__mark_value:nn {1}{\MakeUppercase    []{Contents}}}
+....\marks2{\__mark_value:nn {2}{\MakeUppercase    []{Contents}}}
+....\marks3{\__mark_value:nn {3}{\MakeUppercase    []{Contents}}}
 ....\penalty 10000
 ....\glue 40.0
 ....\glue(\parskip) 0.0 plus 1.0
@@ -496,9 +495,8 @@ Completed box being shipped out [3]
 ....\penalty 10000
 ....\write3{\protect \BOOKMARK [-1][]{part.1}{\376\377\000I\000\040\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{}% 1}
 ....\write1{\@writefile{toc}{\protect \contentsline {part}{I\protect \hspace  {1em}References}{\thepage }{part.1}\protected@file@percent }}
-....\marks1{\__mark_id:n {4}}
-....\marks2{\__mark_id:n {5}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {4}{}}
+....\marks2{\__mark_value:nn {5}{}}
 ....\glue(\parskip) 0.0 plus 1.0
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 10.77005
@@ -1097,9 +1095,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {6}}
-....\marks2{\__mark_id:n {7}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {6}{}}
+....\marks2{\__mark_value:nn {7}{}}
 ....\glue 20.0
 ....\write1{\newlabel{sec:1}{{II}{\thepage }{\ignorespaces  Lorem (page 1)}{part.2}{}}}
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1120,9 +1117,8 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {8}\MakeUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}
-....\marks2{\__mark_id:n {9}}
-....\mark{{\MakeUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}{}}
+....\marks1{\__mark_value:nn {8}{\MakeUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}}
+....\marks2{\__mark_value:nn {9}{}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 25.29494
@@ -1369,9 +1365,8 @@ Completed box being shipped out [8]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {10}\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}
-....\marks3{\__mark_id:n {11}\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}
-....\mark{{\MakeUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}{\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks2{\__mark_value:nn {10}{\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks3{\__mark_value:nn {11}{\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
 ....\glue 0.0 plus -1.0
 ....\glue -18.0
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1522,9 +1517,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {12}\MakeUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}
-....\marks2{\__mark_id:n {13}}
-....\mark{{\MakeUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}{}}
+....\marks1{\__mark_value:nn {12}{\MakeUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}}
+....\marks2{\__mark_value:nn {13}{}}
 ....\glue 0.0 plus -1.0
 ....\glue -18.0
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1540,9 +1534,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_id:n {14}\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}
-....\marks3{\__mark_id:n {15}\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}
-....\mark{{\MakeUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}{\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks2{\__mark_value:nn {14}{\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks3{\__mark_value:nn {15}{\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 25.29494

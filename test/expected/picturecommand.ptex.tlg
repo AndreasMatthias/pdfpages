@@ -1811,7 +1811,7 @@ Completed box being shipped out [7]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 580.66019fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 575.82133fil, yoko direction
 ...\glue(\topskip) 0.0
 ...\hbox(17.27779+4.83937)x345.0, glue set - 1.0
 ....\hbox(0.0+0.0)x15.0, yoko direction
@@ -1867,7 +1867,6 @@ Completed box being shipped out [7]
 ....\penalty 10000
 ....\glue(\parfillskip) 0.0 plus 1.0fil
 ....\glue(\rightskip) 0.0
-...\glue -4.83937
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil

@@ -40,7 +40,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 356.97693fil
+..\vbox(598.0+0.0)x345.0, glue set 352.77734fil
 ...\special{dvipdfmx:config z 0}
 ...\special{dvipdfmx:config C 0x40}
 ...\special{pdf: docinfo << /Creator (TeX) /CreationDate () /ModDate () /Producer (xdvipdfmx) >> }
@@ -154,7 +154,6 @@ Completed box being shipped out [1]
 ...\glue 4.20004
 ...\glue 10.0
 ...\glue 15.0
-...\glue -4.20004
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil

@@ -40,7 +40,7 @@ Completed box being shipped out [1]
 ....\pdfcolorstack 0 pop
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 356.97693fil, direction TLT
+..\vbox(598.0+0.0)x345.0, glue set 352.77731fil, direction TLT
 ...\write-{}
 ...\pdfcolorstack 0 push {0 g 0 G}
 ...\glue(\topskip) 10.0
@@ -260,7 +260,6 @@ Completed box being shipped out [1]
 ...\glue 4.20004
 ...\glue 10.0
 ...\glue 15.0
-...\glue -4.20004
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil

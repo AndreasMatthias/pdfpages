@@ -5505,7 +5505,7 @@ Completed box being shipped out [3]
 ..\vbox(598.0+0.0)x452.0, yoko direction
 ...\hbox(598.0+0.0)x452.0, glue set 5.0fil, yoko direction
 ....\hbox(598.0+0.0)x221.0, yoko direction
-.....\vbox(598.0+0.0)x221.0, glue set 12.0fil, yoko direction
+.....\vbox(598.0+0.0)x221.0, glue set 10.05556fil, yoko direction
 ......\glue(\topskip) 3.05556
 ......\hbox(6.94444+1.94444)x221.0, glue set 0.3653
 .......\OT1/cmr/m/n/10 s
@@ -8450,7 +8450,6 @@ Completed box being shipped out [3]
 .......\penalty 10000
 .......\glue(\parfillskip) 0.0 plus 1.0fil
 .......\glue(\rightskip) 0.0
-......\glue -1.94444
 ......\glue 0.0 plus 1.0fil
 ......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

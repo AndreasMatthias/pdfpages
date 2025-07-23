@@ -17,9 +17,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
 )
-\tf@toc=\write4
+\tf@toc=\write··
 
-\openout4 = `addtotoc-1-koma.toc'.
+\openout·· = `addtotoc-1-koma.toc'.
 
 part I.
 Package scrkbase Info: You've told me to use the font selection of the element
@@ -84,7 +84,7 @@ Completed box being shipped out [1]
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
@@ -1234,7 +1234,4 @@ Completed box being shipped out [5]
 ============================================================
 
 ()addtotoc-1-koma.aux)
-Package rerunfilecheck Info: File `addtotoc-1-koma.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
 

@@ -103,7 +103,7 @@ Completed box being shipped out [1]
 .....\special{color pop}
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 138.04729fil
+...\vbox(598.0+0.0)x341.0, glue set 133.04729fil
 ....\vbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil
 ......\glue 341.0
@@ -116,7 +116,7 @@ Completed box being shipped out [1]
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000F\000i\000g\000u\000r\000e\000s)/A<</S/GoTo/D(section*.1)>>>>}
 ....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000T\000a\000b\000l\000e\000s)/A<</S/GoTo/D(section*.2)>>>>}
@@ -137,10 +137,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {1}List of Figures}
-....\marks2{\__mark_id:n {2}List of Figures}
-....\marks3{\__mark_id:n {3}List of Figures}
-....\mark{{List of Figures}{List of Figures}}
+....\marks1{\__mark_value:nn {1}{List of Figures}}
+....\marks2{\__mark_value:nn {2}{List of Figures}}
+....\marks3{\__mark_value:nn {3}{List of Figures}}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue 0.0 plus 0.2
@@ -401,10 +400,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {4}List of Tables}
-....\marks2{\__mark_id:n {5}List of Tables}
-....\marks3{\__mark_id:n {6}List of Tables}
-....\mark{{List of Tables}{List of Tables}}
+....\marks1{\__mark_value:nn {4}{List of Tables}}
+....\marks2{\__mark_value:nn {5}{List of Tables}}
+....\marks3{\__mark_value:nn {6}{List of Tables}}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue 0.0 plus 0.2
@@ -1202,7 +1200,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -3718,11 +3715,11 @@ Completed box being shipped out [16]
 
 ============================================================
 
-\tf@lof=\write5
-\openout5 = `addtolist-1-memoir.lof'.
+\tf@lof=\write··
+\openout·· = `addtolist-1-memoir.lof'.
 
-\tf@lot=\write6
-\openout6 = `addtolist-1-memoir.lot'.
+\tf@lot=\write··
+\openout·· = `addtolist-1-memoir.lot'.
 
 ()addtolist-1-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-1-memoir.out' has not changed.

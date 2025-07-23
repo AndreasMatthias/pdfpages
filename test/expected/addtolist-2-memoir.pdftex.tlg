@@ -95,7 +95,7 @@ Completed box being shipped out [1]
 .....\pdfcolorstack 0 pop
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 425.59186fil
+...\vbox(598.0+0.0)x341.0, glue set 420.59186fil
 ....\vbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil
 ......\glue 341.0
@@ -168,10 +168,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_id:n {1}Listings}
-....\marks2{\__mark_id:n {2}Listings}
-....\marks3{\__mark_id:n {3}Listings}
-....\mark{{Listings}{Listings}}
+....\marks1{\__mark_value:nn {1}{Listings}}
+....\marks2{\__mark_value:nn {2}{Listings}}
+....\marks3{\__mark_value:nn {3}{Listings}}
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue 0.0 plus 0.2
@@ -529,7 +528,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 16.89497
@@ -1425,8 +1423,8 @@ Completed box being shipped out [6]
  <./dummy.pdf>
 ============================================================
 
-\tf@lol=\write5
-\openout5 = `addtolist-2-memoir.lol'.
+\tf@lol=\write··
+\openout·· = `addtolist-2-memoir.lol'.
 
 ()addtolist-2-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-2-memoir.out' has not changed.

@@ -43,7 +43,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(346.0+0.0)x345.0, glue set 105.14615fil, yoko direction
+..\vbox(346.0+0.0)x345.0, glue set 100.94655fil, yoko direction
 ...\special{ps: /setdistillerparams where {pop << /CompressPages false /CompressStreams false >> setdistillerparams} if }
 ...\special{! <</DocumentUUID (DocumentUUID)>> setpagedevice}
 ...\special{! <</InstanceUUID (InstanceUUID)>> setpagedevice}
@@ -231,7 +231,6 @@ Completed box being shipped out [1]
 ...\glue 4.20004
 ...\glue 10.00002
 ...\glue 15.00002
-...\glue -4.20004
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil
