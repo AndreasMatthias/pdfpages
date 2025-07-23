@@ -55,9 +55,11 @@ pdfpages.ins: pdfpages.dtx
 	latex pdfpages.installer
 	rm pdfpages.installer
 
-$(TDS-STY-FILES): pdfpages.ins
+$(TDS-STY-FILES)&: pdfpages.ins FORCE
 	latex pdfpages.ins
 	./scripts/insert-git-info pdfpages.sty
+
+FORCE:
 
 $(TDS-ZIP-FILE): $(TDS-STY-FILES) $(TDS-SRC-FILES) $(DIST-FILES)
 # Build package files
