@@ -36,7 +36,7 @@ jobs:
 
     # Install texlive
     - name: Install TeXLive
-      uses: teatimeguest/setup-texlive-action@v3
+      uses: zauguin/install-texlive@v4
       with:
         packages: |
           collection-basic
@@ -48,7 +48,6 @@ jobs:
           collection-mathscience
           collection-pstricks
           collection-langjapanese
-        update-all-packages: true
 
     # Install Ghostscript
     - name: Install Ghostscript
