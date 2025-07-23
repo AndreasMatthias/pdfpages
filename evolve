@@ -117,6 +117,8 @@ function normalize_log(content)
    content = grep_test_content(content)
    content = sanitize_filenames(content)
    content = sanitize_ids(content)
+   content = sanitize_registers(content)
+   content = sanitize_openin_openout(content)
    return content
 end
 
@@ -162,6 +164,55 @@ function sanitize_ids(content)
    local new_content = ''
    for line in string.gmatch(content, '([^\n]*)\n') do
       line = string.gsub(line, 'id=%d+', 'id=··')
+      new_content = new_content .. line .. '\n'
+   end
+   return new_content
+end
+
+function sanitize_registers(content)
+   local new_content = ''
+   local registers = {
+      attribute      = true,
+      box            = true,
+      bytecode       = true,
+      catcodetable   = true,
+      count          = true,
+      dimen          = true,
+      insert         = true,
+      language       = true,
+      luabytecode    = true,
+      luachunk       = true,
+      luafunction    = true,
+      marks          = true,
+      muskip         = true,
+      read           = true,
+      skip           = true,
+      toks           = true,
+      whatsit        = true,
+      write          = true,
+      XeTeXcharclass = true,
+   }
+   for line in string.gmatch(content, '([^\n]*)\n') do
+      str, reg = string.match(line, '^(\\[^%]]+=\\(%a+))%d+$')
+      if registers[reg] then
+         line = str .. '··'
+      end
+      new_content = new_content .. line .. '\n'
+   end
+   return new_content
+end
+
+function sanitize_openin_openout(content)
+   local new_content = ''
+   local commands = {
+      openin = true,
+      openout = true,
+   }
+   for line in string.gmatch(content, '([^\n]*)\n') do
+      cmd, filename = string.match(line, '^\\(%a+)%d+ = (.*)')
+      if commands[cmd] then
+         line = '\\' .. cmd .. '·· = ' .. filename
+      end
       new_content = new_content .. line .. '\n'
    end
    return new_content
