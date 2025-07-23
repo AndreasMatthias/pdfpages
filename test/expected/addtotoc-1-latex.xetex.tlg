@@ -15,9 +15,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 )
-\tf@toc=\write4
+\tf@toc=\write··
 
-\openout4 = `addtotoc-1-latex.toc'.
+\openout·· = `addtotoc-1-latex.toc'.
 
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -73,7 +73,7 @@ Completed box being shipped out [1]
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline [] 0<</Title(\376\377\000I\000\040\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s)/A<</S/GoTo/D(part.1)>>>>}
 ....\special{pdf:outline [] 0<</Title(\376\377\000I\000I\000\040\000L\000o\000r\000e\000m\000\040\000\050\000p\000a\000g\000e\000\040\0001\000\051)/A<</S/GoTo/D(part.2)>>>>}
@@ -329,9 +329,8 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {1}}
-....\marks2{\__mark_id:n {2}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {1}{}}
+....\marks2{\__mark_value:nn {2}{}}
 ....\penalty 10000
 ....\glue 18.61917
 ....\glue(\parskip) 0.0 plus 1.0
@@ -696,9 +695,8 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
 ....\penalty 10000
-....\marks1{\__mark_id:n {3}}
-....\marks2{\__mark_id:n {4}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {3}{}}
+....\marks2{\__mark_value:nn {4}{}}
 ....\penalty 10000
 ....\glue 18.61917
 ....\write1{\newlabel{sec:1}{{II}{\thepage }{\ignorespaces  Lorem (page 1)}{part.2}{}}}

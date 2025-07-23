@@ -19,9 +19,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 )
-\tf@mfl=\write4
+\tf@mfl=\write··
 
-\openout4 = `addtolist-4-latex.mfl'.
+\openout·· = `addtolist-4-latex.mfl'.
 
 Package pdfpages Info: Running extractbb on file `dummy.pdf' on input line 36.
 File: dummy.pdf Graphic file (type pdf)
@@ -72,14 +72,14 @@ Completed box being shipped out [1]
 .....\special{color pop}
 ...\glue 25.0
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x345.0, glue set 403.43692fil, yoko direction
+...\vbox(598.0+0.0)x345.0, glue set 398.43745fil, yoko direction
 ....\special{ps: /setdistillerparams where {pop << /CompressPages false /CompressStreams false >> setdistillerparams} if }
 ....\special{! <</DocumentUUID (DocumentUUID)>> setpagedevice}
 ....\special{! <</InstanceUUID (InstanceUUID)>> setpagedevice}
 ....\write-{}
 ....\special{color push gray 0}
 ....\special{pdf:majorversion 1}
-....\special{pdf:minorversion 5}
+....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline 1<</Title(\376\377\000P\000a\000c\000k\000a\000g\000e\000\040\000n\000e\000w\000f\000l\000o\000a\000t\000.\000s\000t\000y)/A<</S/GoTo/D(section.1)>>>>}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
@@ -543,7 +543,6 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\glue -5.0
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ....\glue 0.0 plus 0.0001fil

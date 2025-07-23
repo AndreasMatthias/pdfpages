@@ -15,9 +15,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 )
-\tf@toc=\write4
+\tf@toc=\write··
 
-\openout4 = addtotoc-1-latex.toc
+\openout·· = addtotoc-1-latex.toc
 <dummy.pdf, id=··, 597.50829pt x 845.04709pt>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -456,9 +456,8 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\marks1{\__mark_id:n {1}}
-....\marks2{\__mark_id:n {2}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {1}{}}
+....\marks2{\__mark_value:nn {2}{}}
 ....\penalty 10000
 ....\glue 18.61917
 ....\glue(\parskip) 0.0 plus 1.0
@@ -898,9 +897,8 @@ Completed box being shipped out [2]
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
 ....\penalty 10000
-....\marks1{\__mark_id:n {3}}
-....\marks2{\__mark_id:n {4}}
-....\mark{{}{}}
+....\marks1{\__mark_value:nn {3}{}}
+....\marks2{\__mark_value:nn {4}{}}
 ....\penalty 10000
 ....\glue 18.61917
 ....\write1{\newlabel{sec:1}{{II}{\thepage }{\ignorespaces  Lorem (page 1)}{part.2}{}}}

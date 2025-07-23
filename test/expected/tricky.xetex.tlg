@@ -10,14 +10,14 @@ Don't change this file in any respect.
 TEST 1: Chemical formulas
 ============================================================
 ()tricky.toc)
-\tf@toc=\write3
+\tf@toc=\write··
 
-\openout3 = `tricky.toc'.
+\openout·· = `tricky.toc'.
 
 ()tricky.lof)
-\tf@lof=\write4
+\tf@lof=\write··
 
-\openout4 = `tricky.lof'.
+\openout·· = `tricky.lof'.
 
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -50,7 +50,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 389.9112fil
+..\vbox(598.0+0.0)x345.0, glue set 387.75143fil
 ...\special{dvipdfmx:config z 0}
 ...\special{dvipdfmx:config C 0x40}
 ...\special{pdf: docinfo << /Creator (TeX) /CreationDate () /ModDate () /Producer (xdvipdfmx) >> }
@@ -359,7 +359,6 @@ Completed box being shipped out [1]
 ...\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\ce {H2O}}{\thepage }{}\protected@file@percent }}
 ...\penalty 10000
 ...\glue 9.913 plus 0.86198
-...\glue -2.15999
 ...\glue 0.0 plus 1.0fil
 ...\glue 0.0
 ...\glue 0.0 plus 0.0001fil
