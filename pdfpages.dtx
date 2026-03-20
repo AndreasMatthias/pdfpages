@@ -2,7 +2,7 @@
 %    \iffalse
 %
 %<*(package,pppdftexdef,ppluatexdef,ppvtexdef,ppxetexdef,ppdvipsdef,ppdvipdfmxdef,ppnulldef)>
-%% Copyright (C) 2001-2025 Andreas MATTHIAS
+%% Copyright (C) 2001-2026 Andreas MATTHIAS
 %%
 %% This work may be distributed and/or modified under the conditions
 %% of the LaTeX Project Public License, either version 1.3c
@@ -665,6 +665,31 @@
 %                      \meta{type},\meta{heading},\meta{label}^^A
 %                      [,\meta{lof-list}]
 %
+%
+%        \item[addtag] This option provides support for tagged PDFs if package
+%                      |tagpdf|\footnote{Package |tagpdf| is loaded by default
+%                      in recent \LaTeX\ kernels, if you enable |tagging| in
+%                      the meta data: |\bslash DocumentMetadata\{tagging=on\}|.}
+%                      is loaded and adds |/Alt| (alternative text) entries in
+%                      the PDF for each page.\par
+%                      This option expects a list that defines an alternative
+%                      text for each given page.
+%                      For instance |addtag={1, text aaa, 2, text bbb}| adds
+%                      \emph{text aaa} as the |/Alt| text for page 1 and
+%                      \emph{text bbb} for page 2. If you include more than
+%                      the first two pages, then \emph{text bbb} will be used
+%                      as an alternative text for all further pages as well.
+%                      Of course you can extend the list and define alternative
+%                      texts for as many pages as you want, like this:
+%
+%                      \quad\texttt{addtag=}\{\meta{tag-list}\}\par
+%                      \quad\meta{tag-list} $\rightarrow$ \meta{page number},^^A
+%                      \meta{alternative text} [,\meta{tag-list}]
+%
+%                      If you enable |tagging| in the meta data, but do not
+%                      use the |addtag| options, then a default tag choosen
+%                      by |\includegraphics| will be used. Currently this
+%                      default tag is the file name of the PDF.
 %
 %        \item[survey] Creates a survey of those pages of the document, which
 %                      are marked with |\AddToSurvey|. (|\AddToSurvey| is
@@ -1426,6 +1451,7 @@
 \newcommand*{\AM@linktodocfit}{/Fit}
 \newcommand*{\threadinfodict}{}
 \newcommand*{\AM@toclist}{}\newcommand*{\AM@loflist}{}
+\newcommand*{\AM@taglist}{}
 \newcommand*{\AM@signature}{}
 \newcommand*{\AM@ARBug@hook}{}
 \newcommand*{\AM@xrprefix}{}
@@ -1536,6 +1562,7 @@
   \AM@reset@view
   \let\AM@threadname\relax
   \def\AM@tmp{pdfpages}
+  \let\PageNum\relax
   \expandafter\AM@split@options
     \expandafter\AM@tmp
     \expandafter{\the\AM@global@opts,#1}%
@@ -1583,8 +1610,10 @@
 %    \end{macrocode}
 %    \begin{macrocode}
   \ifAM@output
+    \AM@SuspendTagging
     \expandafter\AM@readlist\expandafter{\AM@pagestemp}%
     \expandafter\AM@output\expandafter{\the\AM@global@opts,#1}%
+    \AM@ResumeTagging
   \fi
 %    \end{macrocode}
 %    \begin{macrocode}
@@ -1605,13 +1634,16 @@
   \let\AM@threadname\relax
   \let\AM@currentdocname\relax
   \def\AM@tmp{pdfpages}
+  \let\PageNum\relax
   \expandafter\AM@split@options
     \expandafter\AM@tmp
     \expandafter{\the\AM@global@opts,#1}%
   \edef\AM@temp{{pdfpages}{\the\@temptokena}}%
   \expandafter\setkeys\AM@temp
+  \AM@SuspendTagging
   \AM@readlist{#2}%
   \expandafter\AM@output\expandafter{\the\AM@global@opts,#1}%
+  \AM@ResumeTagging
   \AM@CheckAtEnd
   \endgroup
   \AM@ClearShipoutPicture
@@ -1634,7 +1666,24 @@
            of `addtolist'. Not all entries were\MessageBreak
            processed. Check `addtolist'}%
     \fi
+    \ifx\@empty\AM@taglist\else
+      \PackageWarning{pdfpages}{%
+           There's something wrong with the entries\MessageBreak
+           of option `addtag'. Not all entries were\MessageBreak
+           processed. Check `addtag'}%
+    \fi
 }
+%    \end{macrocode}
+%    Suspend and resume tagging if |tagpdf.sty| is loaded.
+%    \begin{macrocode}
+\def\AM@SuspendTagging{
+  \ifdefined\SuspendTagging
+    \SuspendTagging{pdfpages}
+  \fi}
+\def\AM@ResumeTagging{
+  \ifdefined\ResumeTagging
+    \ResumeTagging{pdfpages}
+  \fi}
 %    \end{macrocode}
 %    \macro{\AM@output}
 %    This is the main output routine used by |\includepdf|
@@ -1644,6 +1693,7 @@
 %    If we do not quit here, we might run into an infinite loop.
 %    \begin{macrocode}
 \newcommand\AM@output{%
+  \def\AM@curr@tag@text{}%
   \ifdefined\AM@filenotfound
   \else
     \expandafter\AM@output@i
@@ -1780,6 +1830,7 @@
   \edef\AM@docname{\the\toks@}%
   \AM@isphantom
   \edef\AM@page{\AM@nextpage}%
+  \let\PageNum\AM@page
   \ifAM@noautoscale
     \def\AM@globalscale{1}%
   \else
@@ -1952,6 +2003,7 @@
        \AM@newpagefalse
      \fi
      \edef\AM@page{\AM@nextpage}%
+     \let\PageNum\AM@page
 %    \end{macrocode}
 %    Load next page and verify if it has the same page size as the
 %    page template. If not, adjust the scale |\AM@localscale| and
@@ -2115,10 +2167,12 @@
     \ifAM@phantompage
       \def\AM@shippage{}%
     \else
+      \AM@prepare@next@tag
       \AM@split@options{Gin}{#1}%
         \edef\AM@opts{[\AM@disable@width@height,\the\@temptokena,
                        page=\AM@page, scale=\AM@globalscale,
                        scale=\AM@localscale,
+                       alt={\AM@curr@tag@text},
                        \ifAM@upsidedown angle=180,\fi
                        \ifAM@doublepagestwist\ifAM@doublepagestmp
                        angle=180,\fi\fi
@@ -2199,7 +2253,9 @@
       \end{lrbox}
     \else
       \expandafter\AM@AddToShipoutPicture\expandafter{%
+        \expandafter\AM@ResumeTagging
         \AM@shippage
+        \AM@SuspendTagging
         \global\let\@filelist\AM@filelist@save
       }%
     \fi
@@ -2819,6 +2875,7 @@
               \equal{fitpaper}{\AM@temp}\or
               \equal{addtotoc}{\AM@temp}\or
               \equal{addtolist}{\AM@temp}\or
+              \equal{addtag}{\AM@temp}\or
               \equal{doublepages}{\AM@temp}\or
               \equal{doublepagestwist}{\AM@temp}\or
               \equal{doublepagestwistodd}{\AM@temp}\or
@@ -3319,6 +3376,56 @@
   \fi
 }
 %    \end{macrocode}
+%    \macro{\AM@prepare@next@tag}
+%    \macro{\AM@parse@taglist}
+%    \macro{\AM@parse@taglist@i}
+%    \begin{macrocode}
+\newcommand\AM@prepare@next@tag{}
+\def\AM@prepare@next@tag{%
+  \AM@parse@taglist
+  \ifnum\AM@page=\AM@tag@page
+    \let\AM@curr@tag@text\AM@tag@text
+    \AM@rm@from@taglist
+  \else
+    % use old \AM@tag@text
+  \fi
+}
+\newcommand\AM@parse@taglist{}
+\def\AM@parse@taglist{%
+  \ifx\AM@taglist\empty
+    \def\AM@tag@page{0}%
+    \def\AM@tag@text{}%
+  \else
+    \expandafter\AM@parse@taglist@i\AM@taglist\END
+  \fi
+}
+%    \end{macrocode}
+% Read the next 2 entries from |\AM@taglist| and store them in
+% |\AM@tag@page| and |\AM@tag@text|.
+%    \begin{macrocode}
+\newcommand\AM@parse@taglist@i{}
+\def\AM@parse@taglist@i#1,#2,#3\END{%
+  \edef\AM@tag@page{\AM@trim@space{#1}}%
+  \let\PageNum\relax
+  \edef\AM@tag@text{\ifdim\z@=0pt#2\fi}%
+  \let\PageNum\AM@page
+  \AM@checkinteger{\AM@tag@page}
+  \ifAM@integer\else
+    \PackageError{pdfpages}{%
+      Missing number.\MessageBreak
+      Page number in option `addtag` is not a number}{%
+      See the pdfpages manual for more information.}
+  \fi
+}
+\newcommand\AM@rm@from@taglist{}
+\def\AM@rm@from@taglist{%
+  \expandafter\AM@rm@from@taglist@i\AM@taglist\END
+}
+\newcommand\AM@rm@from@taglist@i{}
+\def\AM@rm@from@taglist@i#1,#2,#3\END{%
+  \def\AM@taglist{#3}
+}
+%    \end{macrocode}
 %    \macro{\AM@AddToSurvey}
 %     Add page to survey.
 %    \begin{macrocode}
@@ -3437,6 +3544,7 @@
 \define@key{pdfpages}{fitpaper}[true]{\setboolean{AM@fitpaper}{#1}}
 \define@key{pdfpages}{addtotoc}{\protected@edef\AM@toclist{#1,}}
 \define@key{pdfpages}{addtolist}{\protected@edef\AM@loflist{#1,}}
+\define@key{pdfpages}{addtag}{\protected@edef\AM@taglist{#1,}}
 \define@key{pdfpages}{doublepages}[true]%
                      {\setboolean{AM@doublepages}{#1}}
 \define@key{pdfpages}{doublepagestwist}[true]%
