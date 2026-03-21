@@ -81,7 +81,7 @@
 %
 %    \GetFileInfo{pdfpages.dtx}
 %
-%    \CheckSum{5273}
+%    \CheckSum{5477}
 %
 % \CharacterTable
 %  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
@@ -666,30 +666,37 @@
 %                      [,\meta{lof-list}]
 %
 %
-%        \item[addalt] This option provides support for tagged PDFs if package
-%                      |tagpdf|\footnote{Package |tagpdf| is loaded by default
-%                      in recent \LaTeX\ kernels, if you enable |tagging| in
-%                      the meta data: |\bslash DocumentMetadata\{tagging=on\}|.}
-%                      is loaded and adds |/Alt| (alternative text) entries in
-%                      the PDF for each page.\par
-%                      This option expects a list that defines an alternative
-%                      text for each given page.
-%                      For instance |addalt={1, text aaa, 2, text bbb}| adds
-%                      \emph{text aaa} as the |/Alt| text for page 1 and
-%                      \emph{text bbb} for page 2. If you include more than
-%                      the first two pages, then \emph{text bbb} will be used
-%                      as an alternative text for all further pages as well.
-%                      Of course you can extend the list and define alternative
-%                      texts for as many pages as you want, like this:
+%        \item[alt] This options adds an alternative text for accessibility
+%                   if package |tagpdf|\footnote{Package |tagpdf| is loaded by
+%                   default in recent \LaTeX\ kernels, if you enable |tagging| in
+%                   the meta data: |\bslash DocumentMetadata\{tagging=on\}|.}
+%                   is loaded.
+%                   (Default: |alt={File \FileName}|)
+%                   \par
+%                   \emph{Note}: Even if the included pdf is a structured (tagged)
+%                   pdf, it is not possible to copy this structure. The included pdf
+%                   will always be marked as a figure with an alternative text
+%                   without any further structure.
 %
-%                      \quad\texttt{addalt=}\{\meta{tag-list}\}\par
-%                      \quad\meta{tag-list} $\rightarrow$ \meta{page number},^^A
-%                      \meta{alternative text} [,\meta{tag-list}]
 %
-%                      If you enable |tagging| in the meta data, but do not
-%                      use the |addalt| options, then a default tag choosen
-%                      by |\includegraphics| will be used. Currently this
-%                      default tag is the file name of the PDF.
+%        \item[alt*] This option expects a list that defines an alternative
+%                    text for each given page.
+%                    For instance |alt*={1,lorem,2,ipsum}| sets
+%                    \emph{lorem} as the alternative text for page 1 and
+%                    \emph{ipsum} for page 2. If you include more than
+%                    the first two pages, then \emph{ipsum} will be used
+%                    as an alternative text for all further pages as well.
+%                    Of course you can extend the list and define alternative
+%                    texts for as many pages as you want, like this:\par
+%                    \quad\texttt{alt*=}\{\meta{tag-list}\}\par
+%                    \quad\meta{tag-list} $\rightarrow$ \meta{page number},^^A
+%                    \meta{alternative text} [,\meta{tag-list}]
+%
+%
+%        \item[artifact] This option handels all pages, except the first page,
+%                      as artifacts regarding accessibility.
+%          (Default: |artifact=true|)
+%
 %
 %        \item[survey] Creates a survey of those pages of the document, which
 %                      are marked with |\AddToSurvey|. (|\AddToSurvey| is
@@ -1674,8 +1681,8 @@
     \ifx\@empty\AM@altlist\else
       \PackageWarning{pdfpages}{%
            There's something wrong with the entries\MessageBreak
-           of option `addalt'. Not all entries were\MessageBreak
-           processed. Check `addalt'}%
+           of option `alt*'. Not all entries were\MessageBreak
+           processed. Check `alt*'}%
     \fi
 }
 %    \end{macrocode}
@@ -2890,7 +2897,7 @@
               \equal{fitpaper}{\AM@temp}\or
               \equal{addtotoc}{\AM@temp}\or
               \equal{addtolist}{\AM@temp}\or
-              \equal{addalt}{\AM@temp}\or
+              \equal{alt*}{\AM@temp}\or
               \equal{alt}{\AM@temp}\or
               \equal{artifact}{\AM@temp}\or
               \equal{doublepages}{\AM@temp}\or
@@ -3415,7 +3422,7 @@
   \fi
   \ifx\AM@alt@text\empty
     \ifx\AM@alt@single\empty
-      \def\AM@alt@text{File \FileName, page \PageNum}
+      \def\AM@alt@text{File \FileName}
     \else
       \let\AM@alt@text\AM@alt@single
     \fi
@@ -3443,7 +3450,7 @@
   \ifAM@integer\else
     \PackageError{pdfpages}{%
       Missing number.\MessageBreak
-      Page number in option `addalt` is not a number}{%
+      Page number in option `alt*` is not a number}{%
       See the pdfpages manual for more information.}
   \fi
 }
@@ -3588,8 +3595,8 @@
 \define@key{pdfpages}{fitpaper}[true]{\setboolean{AM@fitpaper}{#1}}
 \define@key{pdfpages}{addtotoc}{\protected@edef\AM@toclist{#1,}}
 \define@key{pdfpages}{addtolist}{\protected@edef\AM@loflist{#1,}}
-\define@key{pdfpages}{addalt}{\protected@edef\AM@altlist{#1,}}
 \define@key{pdfpages}{alt}{\protected@edef\AM@alt@single{#1}}
+\define@key{pdfpages}{alt*}{\protected@edef\AM@altlist{#1,}}
 \define@key{pdfpages}{artifact}[true]{\protected@edef\AM@key@artifact{#1}}
 \define@key{pdfpages}{doublepages}[true]%
                      {\setboolean{AM@doublepages}{#1}}
