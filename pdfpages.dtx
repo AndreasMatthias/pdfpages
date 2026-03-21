@@ -1411,6 +1411,7 @@
 \newif\ifAM@scale\AM@scaletrue
 \newif\ifAM@newpage\AM@newpagefalse
 \newif\ifAM@pagecount@updated
+\newif\ifAM@artifact
 %    \end{macrocode}
 %    Check, if memoir is loaded.
 %    \begin{macrocode}
@@ -1564,6 +1565,8 @@
   \def\AM@tmp{pdfpages}
   \let\PageNum\relax
   \let\FileName\relax
+  \def\AM@key@artifact{true}
+  \AM@artifactfalse
   \expandafter\AM@split@options
     \expandafter\AM@tmp
     \expandafter{\the\AM@global@opts,#1}%
@@ -1676,7 +1679,7 @@
     \fi
 }
 %    \end{macrocode}
-%    Suspend and resume tagging if |tagpdf.sty| is loaded.
+%    Use some macros from |tagpdf.sty| if is is loaded.
 %    \begin{macrocode}
 \def\AM@SuspendTagging{%
   \ifdefined\SuspendTagging
@@ -1961,6 +1964,9 @@
       \ifx\@empty\AM@linkname@option \edef\AM@linkname{\the\toks@}%
       \else \edef\AM@linkname{\AM@linkname@option} \fi
 %    \end{macrocode}
+%    \begin{macrocode}
+    \AM@ArtifactSettings
+%    \end{macrocode}
 %    Each logical page has an element number of
 %    |(\AM@xnupi,\AM@ynupi)|, where |(1,1)| indicates the upper
 %    left position.
@@ -2178,7 +2184,11 @@
           \AM@disable@width@height,\the\@temptokena,
           page=\AM@page, scale=\AM@globalscale,
           scale=\AM@localscale,
-          alt={\AM@alt@text},
+          \ifAM@artifact
+            artifact,
+          \else
+            alt={\AM@alt@text},
+          \fi
           \ifAM@upsidedown angle=180,\fi
           \ifAM@doublepagestwist\ifAM@doublepagestmp
               angle=180,\fi\fi
@@ -2882,6 +2892,7 @@
               \equal{addtolist}{\AM@temp}\or
               \equal{addalt}{\AM@temp}\or
               \equal{alt}{\AM@temp}\or
+              \equal{artifact}{\AM@temp}\or
               \equal{doublepages}{\AM@temp}\or
               \equal{doublepagestwist}{\AM@temp}\or
               \equal{doublepagestwistodd}{\AM@temp}\or
@@ -3445,6 +3456,20 @@
   \def\AM@altlist{#3}
 }
 %    \end{macrocode}
+%    \begin{macrocode}
+\def\AM@ArtifactSettings{%
+  \ifAM@firstpage
+  \else
+    \ifAM@artifact
+    \else
+      \def\AM@true{true}%
+      \ifx\AM@key@artifact\AM@true
+        \AM@artifacttrue
+      \fi
+    \fi
+  \fi
+}
+%    \end{macrocode}
 %    \macro{\AM@AddToSurvey}
 %     Add page to survey.
 %    \begin{macrocode}
@@ -3565,7 +3590,7 @@
 \define@key{pdfpages}{addtolist}{\protected@edef\AM@loflist{#1,}}
 \define@key{pdfpages}{addalt}{\protected@edef\AM@altlist{#1,}}
 \define@key{pdfpages}{alt}{\protected@edef\AM@alt@single{#1}}
-\define@key{pdfpages}{artifact}{\protected@edef\AM@artifact{#1}}
+\define@key{pdfpages}{artifact}[true]{\protected@edef\AM@key@artifact{#1}}
 \define@key{pdfpages}{doublepages}[true]%
                      {\setboolean{AM@doublepages}{#1}}
 \define@key{pdfpages}{doublepagestwist}[true]%
