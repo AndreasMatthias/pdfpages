@@ -679,23 +679,18 @@
 %                   without any further structure.
 %
 %
-%        \item[alt*] This option expects a list that defines an alternative
-%                    text for each given page.
+%                 \item[alt*] This option expects a list in which you can specify an
+%                    alternative text for some or all pages.
 %                    For instance |alt*={1,lorem,2,ipsum}| sets
-%                    \emph{lorem} as the alternative text for page 1 and
-%                    \emph{ipsum} for page 2. If you include more than
-%                    the first two pages, then \emph{ipsum} will be used
-%                    as an alternative text for all further pages as well.
-%                    Of course you can extend the list and define alternative
-%                    texts for as many pages as you want, like this:\par
+%                    \emph{lorem} and \emph{ipsum} as alternative text for page
+%                    1 and 2, respectively.\par
+%                    This is the syntax of the list:\par
 %                    \quad\texttt{alt*=}\{\meta{tag-list}\}\par
 %                    \quad\meta{tag-list} $\rightarrow$ \meta{page number},^^A
 %                    \meta{alternative text} [,\meta{tag-list}]
 %
 %
-%        \item[artifact] This option handels all pages, except the first page,
-%                      as artifacts regarding accessibility.
-%          (Default: |artifact=true|)
+%        \item[artifact] This option marks all pages as artifacts
 %
 %
 %        \item[survey] Creates a survey of those pages of the document, which
@@ -1459,7 +1454,7 @@
 \newcommand*{\AM@linktodocfit}{/Fit}
 \newcommand*{\threadinfodict}{}
 \newcommand*{\AM@toclist}{}\newcommand*{\AM@loflist}{}
-\newcommand*{\AM@altlist}{}\newcommand*{\AM@alt@single}{}
+\newcommand*{\AM@altlist}{}
 \newcommand*{\AM@signature}{}
 \newcommand*{\AM@ARBug@hook}{}
 \newcommand*{\AM@xrprefix}{}
@@ -1572,7 +1567,6 @@
   \def\AM@tmp{pdfpages}
   \let\PageNum\relax
   \let\FileName\relax
-  \def\AM@key@artifact{true}
   \AM@artifactfalse
   \expandafter\AM@split@options
     \expandafter\AM@tmp
@@ -2900,6 +2894,7 @@
               \equal{alt*}{\AM@temp}\or
               \equal{alt}{\AM@temp}\or
               \equal{artifact}{\AM@temp}\or
+              \equal{artifact-skip-first-page}{\AM@temp}\or
               \equal{doublepages}{\AM@temp}\or
               \equal{doublepagestwist}{\AM@temp}\or
               \equal{doublepagestwistodd}{\AM@temp}\or
@@ -3411,20 +3406,10 @@
     \let\AM@alt@prev@text\AM@alt@next@text
     \AM@rm@from@altlist
   \else
-    \ifx\AM@alt@prev@text\empty
-      \ifx\AM@alt@single\empty
-      \else
-        \let\AM@alt@text\AM@alt@single
-      \fi
-    \else
-      \let\AM@alt@text\AM@alt@prev@text
-    \fi
-  \fi
-  \ifx\AM@alt@text\empty
-    \ifx\AM@alt@single\empty
-      \def\AM@alt@text{File \FileName}
-    \else
+    \ifdefined\AM@alt@single
       \let\AM@alt@text\AM@alt@single
+    \else
+      \def\AM@alt@text{File \FileName}
     \fi
   \fi
 }
@@ -3463,17 +3448,53 @@
   \def\AM@altlist{#3}
 }
 %    \end{macrocode}
+% \begin{verbatim}
+% | artifact  | artifact-skip-first-page || page | page |
+% | def / val | def / val                ||  1   |  2-  |
+% |-----------|--------------------------||------|------|
+% | 1 / 1     | -                        ||  1   |  1   |
+% | 1 / 0     | 1 / 1                    ||  0   |  1   |
+% | 1 / 0     | 1 / 0                    ||  0   |  0   |
+% | 1 / 0     | 0 / -                    ||  0   |  0   |
+% | 0 / -     | 1 / 1                    ||  0   |  1   |
+% | 0 / -     | 1 / 0                    ||  0   |  0   |
+% | 0 / -     | 0 / -                    ||  0   |  1   |
+% |-----------|--------------------------||------|------|
+% \end{verbatim}
 %    \begin{macrocode}
 \def\AM@ArtifactSettings{%
-  \ifAM@firstpage
-  \else
-    \ifAM@artifact
-    \else
-      \def\AM@true{true}%
-      \ifx\AM@key@artifact\AM@true
-        \AM@artifacttrue
+  \def\AM@true{true}%
+  \ifdefined\AM@key@artifact
+    \ifx\AM@key@artifact\AM@true % 1/1
+      \AM@artifacttrue
+    \else % 1/0
+      \ifdefined\AM@key@artifact@skip@first
+        \ifx\AM@key@artifact@skip@first\AM@true % 1/0, 1/1
+          \AM@artifact@default
+        \else % 1/0, 1/0
+          \AM@artifactfalse
+        \fi
+      \else % 1/0, 0/-
+        \AM@artifactfalse
       \fi
     \fi
+  \else % 0/-
+    \ifdefined\AM@key@artifact@skip@first
+      \ifx\AM@key@artifact@skip@first\AM@true % 0/-, 1/1
+        \AM@artifact@default
+      \else % 0/-, 1/0
+        \AM@artifactfalse
+      \fi
+    \else % 0/-, 0/-
+      \AM@artifact@default
+    \fi
+  \fi
+}
+\def\AM@artifact@default{%
+  \ifAM@firstpage
+    \AM@artifactfalse
+  \else
+    \AM@artifacttrue
   \fi
 }
 %    \end{macrocode}
@@ -3598,6 +3619,8 @@
 \define@key{pdfpages}{alt}{\protected@edef\AM@alt@single{#1}}
 \define@key{pdfpages}{alt*}{\protected@edef\AM@altlist{#1,}}
 \define@key{pdfpages}{artifact}[true]{\protected@edef\AM@key@artifact{#1}}
+\define@key{pdfpages}{artifact-skip-first-page}[true]{%
+                        \protected@edef\AM@key@artifact@skip@first{#1}}
 \define@key{pdfpages}{doublepages}[true]%
                      {\setboolean{AM@doublepages}{#1}}
 \define@key{pdfpages}{doublepagestwist}[true]%
