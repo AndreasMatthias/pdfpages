@@ -36,8 +36,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -304,7 +302,6 @@ Package luatex.def Info: dummy.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
 
-
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -446,8 +443,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 
 Completed box being shipped out [3]
 \vbox(682.0+0.0)x398.0, direction TLT
@@ -730,8 +725,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page2 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
-
-
 Completed box being shipped out [4]
 \vbox(682.0+0.0)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -910,8 +903,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-
-
 
 Completed box being shipped out [5]
 \vbox(682.0+0.0)x398.0, direction TLT
@@ -1372,7 +1363,6 @@ Package luatex.def Info: dummy.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
 
 
-
 Completed box being shipped out [6]
 \vbox(682.0+0.0)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -1657,8 +1647,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -2137,8 +2125,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 Package luatex.def Info: dummy.pdf , page8 used on input line 1.
 (luatex.def)             Requested size: 298.7534pt x 422.5225pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package luatex.def Info: dummy.pdf , page5 used on input line 1.

@@ -1,62 +1,75 @@
 {
     "settings": {
-	"DEFAULT": [{"job": "lualatex", "testdir": "test", "runs": 1},
-		    {"job": "pdflatex", "testdir": "test", "runs" : 1},
-		    {"job": "xelatex", "testdir": "test", "runs": 1},
-		    {"job": "platex", "testdir": "test", "runs": 1}],
+	    "DEFAULT": [{"job": "lualatex", "testdir": "test", "runs": 1},
+		            {"job": "pdflatex", "testdir": "test", "runs" : 1},
+		            {"job": "xelatex", "testdir": "test", "runs": 1},
+		            {"job": "platex", "testdir": "test", "runs": 1}],
 
-	"addtotoc.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
+	    "addtotoc.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
                        {"job": "pdflatex", "testdir": "test", "runs": 2},
                        {"job": "xelatex", "testdir": "test", "runs": 2},
                        {"job": "platex", "testdir": "test", "runs": 2}],
 
-	"addtolist.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
-			{"job": "pdflatex", "testdir": "test", "runs": 2},
-			{"job": "xelatex", "testdir": "test", "runs": 2},
-			{"job": "platex", "testdir": "test", "runs": 2}],
+	    "addtolist.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
+			            {"job": "pdflatex", "testdir": "test", "runs": 2},
+			            {"job": "xelatex", "testdir": "test", "runs": 2},
+			            {"job": "platex", "testdir": "test", "runs": 2}],
 
-	"tricky": [{"job": "lualatex", "testdir": "test", "runs": 2},
-		   {"job": "pdflatex", "testdir": "test", "runs": 2},
-		   {"job": "xelatex", "testdir": "test", "runs": 2},
-		   {"job": "platex", "testdir": "test", "runs": 2}],
+	    "tricky": [{"job": "lualatex", "testdir": "test", "runs": 2},
+		           {"job": "pdflatex", "testdir": "test", "runs": 2},
+		           {"job": "xelatex", "testdir": "test", "runs": 2},
+		           {"job": "platex", "testdir": "test", "runs": 2}],
 
-	"expanded%-args": [{"job": "lualatex", "testdir": "test", "runs": 2},
-			   {"job": "pdflatex", "testdir": "test", "runs": 2},
-			   {"job": "xelatex", "testdir": "test", "runs": 2},
-			   {"job": "platex", "testdir": "test", "runs": 2}],
+	    "expanded%-args": [{"job": "lualatex", "testdir": "test", "runs": 2},
+			               {"job": "pdflatex", "testdir": "test", "runs": 2},
+			               {"job": "xelatex", "testdir": "test", "runs": 2},
+			               {"job": "platex", "testdir": "test", "runs": 2}],
 
-	"images%-eps": [{"job": "ps2pdf", "testdir": "test", "runs": 1}],
-	"ps%-tricks": [{"job": "ps-tricks", "testdir": "test", "runs": 1}],
-	"dvipdfmx": [{"job": "platex", "testdir": "test", "runs": 1}],
-	"lastpage": [{"job": "latex", "testdir": "test", "runs": 1}],
+	    "images%-eps": [{"job": "ps2pdf", "testdir": "test", "runs": 1}],
+	    "ps%-tricks": [{"job": "ps-tricks", "testdir": "test", "runs": 1}],
+	    "dvipdfmx": [{"job": "platex", "testdir": "test", "runs": 1}],
+	    "lastpage": [{"job": "latex", "testdir": "test", "runs": 1}],
 
-	"phantompage.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
-			  {"job": "pdflatex", "testdir": "test", "runs": 2},
-			  {"job": "xelatex", "testdir": "test", "runs": 2},
-			  {"job": "platex", "testdir": "test", "runs": 2}]
+	    "phantompage.*": [{"job": "lualatex", "testdir": "test", "runs": 2},
+			              {"job": "pdflatex", "testdir": "test", "runs": 2},
+			              {"job": "xelatex", "testdir": "test", "runs": 2},
+			              {"job": "platex", "testdir": "test", "runs": 2}],
+
+        "tags%-.*": [{"job": "lualatex+", "testdir": "test", "runs": 2},
+		             {"job": "pdflatex+", "testdir": "test", "runs": 2},
+		             {"job": "xelatex+", "testdir": "test", "runs": 2}]
     },
     
     "job": {
-	"lualatex": {
-	    "tasks": ["lualatex"]
-	},
-	"pdflatex": {
-	    "tasks": ["pdflatex"]
-	},
-	"xelatex": {
-	    "tasks": ["xelatex"]
-	},
-	"platex": {
-	    "tasks": ["platex", "dvipdfmx"]
-	},
-	"latex": {
-	    "tasks": ["latex"]
-	},
-	"ps2pdf": {
-	    "tasks": ["latex", "dvips", "ps2pdf"]
-	},
-	"ps-tricks": {
-	    "tasks": ["ps4pdf"]
-	}
+	    "lualatex": {
+	        "tasks": ["lualatex"]
+	    },
+        "lualatex+": {
+            "tasks": ["lualatex", "show_pdf_tags"]
+        },
+	    "pdflatex": {
+	        "tasks": ["pdflatex"]
+	    },
+	    "pdflatex+": {
+            "tasks": ["pdflatex", "show_pdf_tags"]
+	    },
+	    "xelatex": {
+            "tasks": ["xelatex"]
+	    },
+	    "xelatex+": {
+            "tasks": ["xelatex", "show_pdf_tags"]
+	    },
+	    "platex": {
+	        "tasks": ["platex", "dvipdfmx"]
+	    },
+	    "latex": {
+	        "tasks": ["latex"]
+	    },
+	    "ps2pdf": {
+	        "tasks": ["latex", "dvips", "ps2pdf"]
+	    },
+	    "ps-tricks": {
+	        "tasks": ["ps4pdf"]
+	    }
     }
 }

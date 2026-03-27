@@ -19,8 +19,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -267,8 +265,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -428,8 +424,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 14.
 
-
-
 Completed box being shipped out [3]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -545,8 +539,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -791,8 +783,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -948,8 +938,6 @@ Completed box being shipped out [5]
 ============================================================
 
 
-
-
 Completed box being shipped out [6]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1065,8 +1053,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1315,8 +1301,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1472,8 +1456,6 @@ Completed box being shipped out [8]
 ============================================================
 
 
-
-
 Completed box being shipped out [9]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1589,8 +1571,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1839,8 +1819,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1996,8 +1974,6 @@ Completed box being shipped out [11]
 ============================================================
 
 
-
-
 Completed box being shipped out [12]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -2113,8 +2089,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Overfull \hbox (10.03749pt too wide) has occurred while \output is active
  []
@@ -2372,8 +2346,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
-
-
 Overfull \hbox (10.03749pt too wide) has occurred while \output is active
  []
 
@@ -2536,8 +2508,6 @@ Completed box being shipped out [14]
 ============================================================
 
 
-
-
 Completed box being shipped out [15]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -2656,8 +2626,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -2904,8 +2872,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -3061,8 +3027,6 @@ Completed box being shipped out [17]
 ============================================================
 
 
-
-
 Completed box being shipped out [18]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -3178,8 +3142,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Overfull \hbox (10.03749pt too wide) has occurred while \output is active
  []
@@ -3441,8 +3403,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
-
-
 Overfull \hbox (10.03749pt too wide) has occurred while \output is active
  []
 
@@ -3603,8 +3563,6 @@ Completed box being shipped out [20]
 
 
 ============================================================
-
-
 
 
 Completed box being shipped out [21]

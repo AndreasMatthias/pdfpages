@@ -45,8 +45,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -69,7 +67,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 327.05327fil
+..\vbox(598.0+0.0)x345.0, glue set 319.19171fil
 ...\special{dvipdfmx:config z 0}
 ...\special{dvipdfmx:config C 0x40}
 ...\special{pdf: docinfo << /Creator (TeX) /CreationDate () /ModDate () /Producer (xdvipdfmx) >> }
@@ -82,6 +80,7 @@ Completed box being shipped out [1]
 ...\glue 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
+...\glue(\baselineskip) 7.8624
 ...\hbox(10.1376+3.29758)x345.0, glue set - 0.51567
 ....\hbox(0.0+0.0)x15.0
 ....\TU/lmr/m/n/14.4 Global
@@ -195,7 +194,7 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\lineskip) 1.0
-...\hbox(120.72473+0.0)x345.0, glue set 131.40475fil
+...\hbox(120.72473+0.0)x345.0, glue set 168.95993fil
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(120.72473+0.0)x142.26248
 .....\hbox(120.72504+0.0)x142.26285
@@ -210,14 +209,6 @@ Completed box being shipped out [1]
 ........\special{pdf:etrans}
 .......\kern 142.26285
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
-....\glue 4.6944 plus 2.3472 minus 1.56479
 ....\glue 4.6944 plus 2.3472 minus 1.56479
 ....\glue 4.6944 plus 2.3472 minus 1.56479
 ....\glue 4.6944 plus 2.3472 minus 1.56479
@@ -365,8 +356,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 

@@ -14,8 +14,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
 File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -61,7 +59,7 @@ Completed box being shipped out [1]
 ...................\hbox(821.1063+0.0)x0.0, glue set - 580.23544fil, yoko direction
 ....................\hbox(821.1063+0.0)x580.23544, yoko direction
 .....................\hbox(821.1063+0.0)x580.23544, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 580.23544pt (dummy3.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 580.23544pt (dummy3.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 580.23544

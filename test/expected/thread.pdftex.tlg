@@ -58,8 +58,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 298.7534pt x 422.52252pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -456,8 +454,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 1>
 Package pdftex.def Info: dummy1.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 1>
 Package pdftex.def Info: dummy1.pdf , page1 used on input line 1.
@@ -813,12 +809,11 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [3]
 \vbox(682.0+0.0)x398.0
@@ -935,12 +930,11 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 1>
 Package pdftex.def Info: dummy2.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 1>
 Package pdftex.def Info: dummy2.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [4]
 \vbox(682.0+0.0)x398.0
@@ -1044,12 +1038,11 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [5]
 \vbox(682.0+0.0)x398.0

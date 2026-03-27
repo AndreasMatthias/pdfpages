@@ -27,8 +27,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package pdftex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 421.1002pt x 597.50682pt.
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package pdftex.def Info: dummy-a5.pdf , page1 used on input line 1.
@@ -294,8 +292,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package pdftex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 595.49413pt x 844.95757pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[noautoscale = false,
@@ -615,8 +611,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package pdftex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 421.1002pt x 597.50682pt.
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package pdftex.def Info: dummy-a5.pdf , page1 used on input line 1.

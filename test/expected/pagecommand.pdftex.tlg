@@ -31,8 +31,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -367,12 +365,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0
@@ -550,8 +547,6 @@ Overfull \hbox (11.56844pt too wide) in paragraph at lines 1--1
 .\penalty 10000
 .\glue(\parfillskip) 0.0 plus 1.0fil
 .\glue(\rightskip) 0.0
-
-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -976,8 +971,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -1105,8 +1098,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
@@ -1235,12 +1226,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [6]
 \vbox(682.0+0.0)x398.0
@@ -1381,8 +1371,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -1668,8 +1656,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -1786,8 +1772,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.

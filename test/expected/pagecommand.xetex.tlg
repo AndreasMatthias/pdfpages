@@ -19,8 +19,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -252,8 +250,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -397,8 +393,6 @@ Overfull \hbox (12.16649pt too wide) in paragraph at lines 1--1
 .\penalty 10000
 .\glue(\parfillskip) 0.0 plus 1.0fil
 .\glue(\rightskip) 0.0
-
-
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -633,8 +627,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -749,8 +741,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -865,8 +855,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -992,8 +980,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1202,8 +1188,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1316,8 +1300,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 

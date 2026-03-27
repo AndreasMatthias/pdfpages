@@ -16,8 +16,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -47,18 +45,10 @@ Completed box being shipped out [1]
 ...\write-{}
 ...\special{color push gray 0}
 ...\glue(\topskip) 0.0
-...\hbox(100.0+0.0)x345.0, glue set 140.03998fil
+...\hbox(100.0+0.0)x345.0, glue set 166.68fil
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(100.0+0.0)x150.0
 .....\rule(100.0+0.0)x150.0
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
-....\glue 3.33 plus 1.665 minus 1.11
 ....\glue 3.33 plus 1.665 minus 1.11
 ....\glue 3.33 plus 1.665 minus 1.11
 ....\glue 3.33 plus 1.665 minus 1.11
@@ -180,8 +170,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -287,8 +275,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 

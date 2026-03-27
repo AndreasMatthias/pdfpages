@@ -32,12 +32,11 @@ File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
 Package pdftex.def Info: subdir/special.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
 Package pdftex.def Info: subdir/special.pdf , page1 used on input line 4.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0

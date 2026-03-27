@@ -16,8 +16,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Warning: No \author given.
 
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0, yoko direction
 .\hbox(0.0+0.0)x0.0, yoko direction
@@ -275,8 +273,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -321,7 +317,7 @@ Completed box being shipped out [2]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -355,7 +351,7 @@ Completed box being shipped out [2]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -592,8 +588,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -634,7 +628,7 @@ Completed box being shipped out [3]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -668,7 +662,7 @@ Completed box being shipped out [3]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -728,8 +722,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -770,7 +762,7 @@ Completed box being shipped out [4]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -804,7 +796,7 @@ Completed box being shipped out [4]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -864,8 +856,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -906,7 +896,7 @@ Completed box being shipped out [5]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -940,7 +930,7 @@ Completed box being shipped out [5]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -1010,8 +1000,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -1058,7 +1046,7 @@ Completed box being shipped out [6]
 .......................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ........................\hbox(211.46346+0.0)x298.86166, yoko direction
 .........................\hbox(211.46346+0.0)x298.86166, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.86166
@@ -1099,7 +1087,7 @@ Completed box being shipped out [6]
 .......................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ........................\hbox(211.46346+0.0)x298.86166, yoko direction
 .........................\hbox(211.46346+0.0)x298.86166, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.86166
@@ -1388,8 +1376,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -1430,7 +1416,7 @@ Completed box being shipped out [7]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -1464,7 +1450,7 @@ Completed box being shipped out [7]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -1524,8 +1510,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -1572,7 +1556,7 @@ Completed box being shipped out [8]
 .......................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ........................\hbox(211.46346+0.0)x298.86166, yoko direction
 .........................\hbox(211.46346+0.0)x298.86166, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.86166
@@ -1613,7 +1597,7 @@ Completed box being shipped out [8]
 .......................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ........................\hbox(211.46346+0.0)x298.86166, yoko direction
 .........................\hbox(211.46346+0.0)x298.86166, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.86166
@@ -1674,8 +1658,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -1716,7 +1698,7 @@ Completed box being shipped out [9]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -1750,7 +1732,7 @@ Completed box being shipped out [9]
 ...................\hbox(211.46346+0.0)x0.0, glue set - 298.86166fil, yoko direction
 ....................\hbox(211.46346+0.0)x298.86166, yoko direction
 .....................\hbox(211.46346+0.0)x298.86166, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 298.86166pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.86166
@@ -1820,8 +1802,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -1862,7 +1842,7 @@ Completed box being shipped out [10]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -1896,7 +1876,7 @@ Completed box being shipped out [10]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2147,8 +2127,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -2189,7 +2167,7 @@ Completed box being shipped out [11]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2223,7 +2201,7 @@ Completed box being shipped out [11]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2285,8 +2263,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -2327,7 +2303,7 @@ Completed box being shipped out [12]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2361,7 +2337,7 @@ Completed box being shipped out [12]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2423,8 +2399,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -2465,7 +2439,7 @@ Completed box being shipped out [13]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2499,7 +2473,7 @@ Completed box being shipped out [13]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -2571,8 +2545,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -2619,7 +2591,7 @@ Completed box being shipped out [14]
 .......................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ........................\hbox(299.07297+0.0)x422.68034, yoko direction
 .........................\hbox(299.07297+0.0)x422.68034, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.68034
@@ -2660,7 +2632,7 @@ Completed box being shipped out [14]
 .......................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ........................\hbox(299.07297+0.0)x422.68034, yoko direction
 .........................\hbox(299.07297+0.0)x422.68034, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.68034
@@ -2963,8 +2935,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -3005,7 +2975,7 @@ Completed box being shipped out [15]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -3039,7 +3009,7 @@ Completed box being shipped out [15]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -3101,8 +3071,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -3149,7 +3117,7 @@ Completed box being shipped out [16]
 .......................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ........................\hbox(299.07297+0.0)x422.68034, yoko direction
 .........................\hbox(299.07297+0.0)x422.68034, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.68034
@@ -3190,7 +3158,7 @@ Completed box being shipped out [16]
 .......................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ........................\hbox(299.07297+0.0)x422.68034, yoko direction
 .........................\hbox(299.07297+0.0)x422.68034, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.68034
@@ -3253,8 +3221,6 @@ File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
-
-
 File: normal-landscape.pdf Graphic file (type pdf)
 <normal-landscape.pdf>
 File: normal-landscape.pdf Graphic file (type pdf)
@@ -3295,7 +3261,7 @@ Completed box being shipped out [17]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -3329,7 +3295,7 @@ Completed box being shipped out [17]
 ...................\hbox(299.07297+0.0)x0.0, glue set - 422.68034fil, yoko direction
 ....................\hbox(299.07297+0.0)x422.68034, yoko direction
 .....................\hbox(299.07297+0.0)x422.68034, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 595 421 clip 0 width 422.68034pt (normal-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.68034
@@ -3401,8 +3367,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -3443,7 +3407,7 @@ Completed box being shipped out [18]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3477,7 +3441,7 @@ Completed box being shipped out [18]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3717,8 +3681,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -3759,7 +3721,7 @@ Completed box being shipped out [19]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3793,7 +3755,7 @@ Completed box being shipped out [19]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3853,8 +3815,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -3895,7 +3855,7 @@ Completed box being shipped out [20]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3929,7 +3889,7 @@ Completed box being shipped out [20]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -3989,8 +3949,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4031,7 +3989,7 @@ Completed box being shipped out [21]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4065,7 +4023,7 @@ Completed box being shipped out [21]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4135,8 +4093,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4183,7 +4139,7 @@ Completed box being shipped out [22]
 .......................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ........................\hbox(105.75183+0.0)x298.80215, yoko direction
 .........................\hbox(105.75183+0.0)x298.80215, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.80215
@@ -4224,7 +4180,7 @@ Completed box being shipped out [22]
 .......................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ........................\hbox(105.75183+0.0)x298.80215, yoko direction
 .........................\hbox(105.75183+0.0)x298.80215, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.80215
@@ -4516,8 +4472,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4558,7 +4512,7 @@ Completed box being shipped out [23]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4592,7 +4546,7 @@ Completed box being shipped out [23]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4652,8 +4606,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4700,7 +4652,7 @@ Completed box being shipped out [24]
 .......................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ........................\hbox(105.75183+0.0)x298.80215, yoko direction
 .........................\hbox(105.75183+0.0)x298.80215, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.80215
@@ -4741,7 +4693,7 @@ Completed box being shipped out [24]
 .......................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ........................\hbox(105.75183+0.0)x298.80215, yoko direction
 .........................\hbox(105.75183+0.0)x298.80215, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 298.80215
@@ -4802,8 +4754,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4844,7 +4794,7 @@ Completed box being shipped out [25]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4878,7 +4828,7 @@ Completed box being shipped out [25]
 ...................\hbox(105.75183+0.0)x0.0, glue set - 298.80215fil, yoko direction
 ....................\hbox(105.75183+0.0)x298.80215, yoko direction
 .....................\hbox(105.75183+0.0)x298.80215, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 298.80215pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 298.80215
@@ -4948,8 +4898,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -4990,7 +4938,7 @@ Completed box being shipped out [26]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5024,7 +4972,7 @@ Completed box being shipped out [26]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5278,8 +5226,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -5320,7 +5266,7 @@ Completed box being shipped out [27]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5354,7 +5300,7 @@ Completed box being shipped out [27]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5416,8 +5362,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -5458,7 +5402,7 @@ Completed box being shipped out [28]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5492,7 +5436,7 @@ Completed box being shipped out [28]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5554,8 +5498,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -5596,7 +5538,7 @@ Completed box being shipped out [29]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5630,7 +5572,7 @@ Completed box being shipped out [29]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -5702,8 +5644,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -5750,7 +5690,7 @@ Completed box being shipped out [30]
 .......................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ........................\hbox(149.56331+0.0)x422.59163, yoko direction
 .........................\hbox(149.56331+0.0)x422.59163, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.59163
@@ -5791,7 +5731,7 @@ Completed box being shipped out [30]
 .......................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ........................\hbox(149.56331+0.0)x422.59163, yoko direction
 .........................\hbox(149.56331+0.0)x422.59163, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.59163
@@ -6096,8 +6036,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -6138,7 +6076,7 @@ Completed box being shipped out [31]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -6172,7 +6110,7 @@ Completed box being shipped out [31]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -6234,8 +6172,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -6282,7 +6218,7 @@ Completed box being shipped out [32]
 .......................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ........................\hbox(149.56331+0.0)x422.59163, yoko direction
 .........................\hbox(149.56331+0.0)x422.59163, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.59163
@@ -6323,7 +6259,7 @@ Completed box being shipped out [32]
 .......................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ........................\hbox(149.56331+0.0)x422.59163, yoko direction
 .........................\hbox(149.56331+0.0)x422.59163, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 422.59163
@@ -6386,8 +6322,6 @@ File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
-
-
 File: slim-landscape.pdf Graphic file (type pdf)
 <slim-landscape.pdf>
 File: slim-landscape.pdf Graphic file (type pdf)
@@ -6428,7 +6362,7 @@ Completed box being shipped out [33]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163
@@ -6462,7 +6396,7 @@ Completed box being shipped out [33]
 ...................\hbox(149.56331+0.0)x0.0, glue set - 422.59163fil, yoko direction
 ....................\hbox(149.56331+0.0)x422.59163, yoko direction
 .....................\hbox(149.56331+0.0)x422.59163, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 842 298 clip 0 width 422.59163pt (slim-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.59163

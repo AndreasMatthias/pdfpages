@@ -18,7 +18,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 )
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -146,11 +145,11 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue 9.90276 plus 0.86108
 ....\glue 0.0 plus -1.0
-....\pdfdest name{section*.1} xyz
+....\pdfdest name{chapter*.1} xyz
 ....\penalty 10000
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000L\000i\000s\000t\000i\000n\000g\000s}{}% 2}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000L\000i\000s\000t\000i\000n\000g\000s}{}% 2}
 ....\penalty 10000
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Listings}{\thepage }{section*.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Listings}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 15.0694 plus 4.30554 minus 0.86108
 ....\glue(\parskip) 0.0
@@ -616,8 +615,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package pdftex.def Info: dummy.pdf , page1 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 33.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 33.
@@ -780,12 +777,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [3]
 \vbox(676.36243+0.0)x371.0
@@ -941,12 +937,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [4]
 \vbox(676.36243+0.0)x422.0
@@ -1105,12 +1100,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [5]
 \vbox(676.36243+0.0)x371.0
@@ -1266,12 +1260,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package pdftex.def Info: dummy.pdf , page5 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package pdftex.def Info: dummy.pdf , page5 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [6]
 \vbox(676.36243+0.0)x422.0
@@ -1428,6 +1421,6 @@ Completed box being shipped out [6]
 
 ()addtolist-2-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-2-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: 97DD4F142E88DCB2FC037C2ECDCDDD02;230.
+(rerunfilecheck)             Checksum: FFE2D7852A08A6E0D12C3F2455C6B0E2;230.
 
 

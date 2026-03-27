@@ -18,8 +18,6 @@ File: dummy-landscape.pdf Graphic file (type pdf)
 <dummy-landscape.pdf>
 File: dummy-landscape.pdf Graphic file (type pdf)
 <dummy-landscape.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -116,7 +114,7 @@ Completed box being shipped out [1]
 ...................\hbox(597.25858+0.0)x0.0, glue set - 845.19617fil, yoko direction
 ....................\hbox(597.25858+0.0)x845.19617, yoko direction
 .....................\hbox(597.25858+0.0)x845.19617, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 842 595 clip 0 width 845.19617pt (dummy-landscape.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 842 595 clip 0 width 845.19617pt (dummy-landscape.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 845.19617
@@ -405,8 +403,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 picturecommand={\put(100, 100){\LARGE Some
 
@@ -495,7 +491,7 @@ Completed box being shipped out [2]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858

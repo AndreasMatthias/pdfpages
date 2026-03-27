@@ -14,8 +14,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -53,7 +51,7 @@ Completed box being shipped out [1]
 ...\write-{}
 ...\special{color push gray 0}
 ...\glue(\topskip) 3.16669
-...\hbox(6.83331+1.94444)x345.0, glue set 239.41666fil
+...\hbox(6.83331+1.94444)x345.0, glue set 276.08327fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
 ....\displace 0.0
 ....\OT1/cmr/m/n/10 A
@@ -66,17 +64,6 @@ Completed box being shipped out [1]
 ....\kern0.27779
 ....\OT1/cmr/m/n/10 e
 ....\OT1/cmr/m/n/10 r
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
@@ -257,8 +244,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 
@@ -297,7 +282,7 @@ Completed box being shipped out [2]
 ...................\hbox(597.45906+0.0)x0.0, glue set - 421.73581fil, yoko direction
 ....................\hbox(597.45906+0.0)x421.73581, yoko direction
 .....................\hbox(597.45906+0.0)x421.73581, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.73581pt (dummy-a5.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.73581pt (dummy-a5.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 421.73581
@@ -360,8 +345,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 
 Completed box being shipped out [3]
 \vbox(682.0+0.0)x398.0, yoko direction
@@ -602,8 +585,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 
@@ -642,7 +623,7 @@ Completed box being shipped out [4]
 ...................\hbox(597.45906+0.0)x0.0, glue set - 421.73581fil, yoko direction
 ....................\hbox(597.45906+0.0)x421.73581, yoko direction
 .....................\hbox(597.45906+0.0)x421.73581, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.73581pt (dummy-a5.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.73581pt (dummy-a5.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 421.73581
@@ -693,8 +674,6 @@ Completed box being shipped out [4]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 

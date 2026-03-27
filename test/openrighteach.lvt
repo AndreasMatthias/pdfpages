@@ -5,12 +5,12 @@
 \begin{document}
 \START\showoutput
 
-\verboseTEST{Openright}{
+\verboseTEST{Openrighteach}{
   \includepdfmerge[nup=2x1,openrighteach]
   {dummy.pdf,1-3, dummy.pdf,1-3}
 }
 
-\verboseTEST{Openright}{
+\verboseTEST{Openrighteach}{
   \includepdfmerge[nup=2x1,openrighteach]
   {dummy.pdf,1-4, dummy.pdf,1-3}
 }

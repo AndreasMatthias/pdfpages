@@ -31,8 +31,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -308,8 +306,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[offset=-20mm 0mm,
@@ -632,8 +628,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -903,8 +897,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[offset=0mm -30mm,
@@ -1226,8 +1218,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[offset=20mm 30mm,
 
@@ -1527,8 +1517,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 596.9689pt x 844.28427pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[offset=-20mm -30mm,

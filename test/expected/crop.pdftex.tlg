@@ -31,8 +31,6 @@ File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 Package pdftex.def Info: hog.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.67792pt x 358.68683pt.
-
-
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 Package pdftex.def Info: hog.pdf , page1 used on input line 1.
@@ -482,8 +480,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 Package pdftex.def Info: dummy3.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 421.4531pt x 596.05487pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 Package pdftex.def Info: dummy3.pdf , page1 used on input line 1.
@@ -940,8 +936,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package pdftex.def Info: dummy3.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 297.75963pt x 421.11703pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[nup=2x1, pages=1-2, landscape,

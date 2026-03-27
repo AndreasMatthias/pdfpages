@@ -31,8 +31,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 21.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 21.
@@ -138,7 +136,6 @@ Completed box being shipped out [1]
 
 
 <./dummy.pdf>
-
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0, direction TLT
@@ -4080,8 +4077,6 @@ Completed box being shipped out [2]
 .\kern0.0
 
 
-
-
 Completed box being shipped out [3]
 \vbox(682.0+0.22)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -6719,8 +6714,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 30.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 30.
@@ -6820,8 +6813,6 @@ Completed box being shipped out [4]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern682.0
 .\kern0.0
-
-
 
 
 
@@ -10765,8 +10756,6 @@ Completed box being shipped out [5]
 .\kern0.0
 
 ============================================================
-
-
 
 
 Completed box being shipped out [6]

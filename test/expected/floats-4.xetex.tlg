@@ -19,8 +19,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -135,10 +133,6 @@ Completed box being shipped out [1]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 
@@ -1923,10 +1917,6 @@ Completed box being shipped out [2]
 .\kern 0.0
 
 ============================================================
-
-
-
-
 
 
 Completed box being shipped out [3]

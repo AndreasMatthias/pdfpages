@@ -32,8 +32,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
-
-
 Completed box being shipped out [1]
 \vbox(655.63496+0.0)x435.61176
 .\hbox(0.0+0.0)x0.0
@@ -112,14 +110,6 @@ Completed box being shipped out [1]
 ....\hbox(10.152+2.95198)x418.25555, glue set 156.9422fil
 .....\hbox(0.0+0.0)x0.0
 ......\glue 0.0
-.....\hbox(0.0+0.0)x0.0
-......\kern 0.0
-......\penalty 10000
-......\hbox(0.0+0.0)x0.0
-.......\hbox(0.0+0.0)x0.0, shifted -18.0
-........\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
-........\penalty 10000
-......\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmss/bx/n/14.4 List
 .....\glue 5.2848 plus 2.6424 minus 1.7616
 .....\TU/lmss/bx/n/14.4 of
@@ -452,8 +442,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package hyperref Info: bookmark level for unknown myfloat defaults to 0 on input line 36.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -576,8 +564,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -697,8 +683,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -821,8 +805,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -942,8 +924,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 

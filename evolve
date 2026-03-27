@@ -119,6 +119,7 @@ function normalize_log(content)
    content = sanitize_ids(content)
    content = sanitize_registers(content)
    content = sanitize_openin_openout(content)
+   content = sanitize_date(content)
    return content
 end
 
@@ -134,6 +135,9 @@ function grep_test_content(content)
          or line == 'OMIT'
       then
          skip_line = true
+      end
+      if line == 'SHOW-PDF-TAGS' then
+         skip_line = false
       end
       if not skip_line then
          new_content = new_content .. line .. '\n'
@@ -213,6 +217,27 @@ function sanitize_openin_openout(content)
       if commands[cmd] then
          line = '\\' .. cmd .. '·· = ' .. filename
       end
+      new_content = new_content .. line .. '\n'
+   end
+   return new_content
+end
+
+function sanitize_date(content)
+   local new_content = ''
+   -- date format: "(D:20260327222352+01'00')"
+   local date_format = '%(D:' .. string.rep('%d', 14) .. "%+%d%d%'%d%d%'%)"
+   -- /NS (data:,3E4D8F46-153A-6A28-D76-25BD3D5EC790)
+   local namespace_format = '%(data:[^)]*%)'
+   for line in string.gmatch(content, '([^\n]*)\n') do
+      line = string.gsub(line,
+                         '/CreationDate ' .. date_format,
+                         '/CreationDate ()')
+      line = string.gsub(line,
+                         '/ModDate ' .. date_format,
+                         '/ModDate ()')
+      line = string.gsub(line,
+                         '/NS ' .. namespace_format,
+                         '/NS ()')
       new_content = new_content .. line .. '\n'
    end
    return new_content
@@ -503,7 +528,7 @@ function cmd_diff_text(test, setting)
       return
    end
    local content, success = run_shell(
-      "diff -c -F '^TEST [[:digit:]]\\+:' %s %s",
+      "diff -u --color -F '^TEST [[:digit:]]\\+:' %s %s",
       cons_path(testdir, dir_expected, {test, engine, 'tlg'}),
       cons_path(testdir, dir_results, {test, engine, 'tlg'}))
    if not success then
@@ -635,7 +660,7 @@ end
 
 function task_platex(test)
    return {
-      command = string.format('platex %s %s.lvt', tex_settings, test),
+      command = string.format('platex -no-guess-input-enc -kanji=utf8 %s %s.lvt', tex_settings, test),
       engine = 'ptex'
    }
 end
@@ -643,6 +668,15 @@ end
 function task_dvipdfmx(test)
    return {
       command = string.format('dvipdfmx %s', test),
+      engine = nil
+   }
+end
+
+function task_show_pdf_tags(test)
+   return {
+      -- write output of show-pdf-tags to log-file
+      command = string.format('{ echo "SHOW-PDF-TAGS"; show-pdf-tags %s.pdf; } >> %s.log',
+         test, test),
       engine = nil
    }
 end

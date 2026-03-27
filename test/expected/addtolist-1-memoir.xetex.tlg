@@ -25,7 +25,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -118,14 +117,14 @@ Completed box being shipped out [1]
 ....\special{pdf:majorversion 1}
 ....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
-....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000F\000i\000g\000u\000r\000e\000s)/A<</S/GoTo/D(section*.1)>>>>}
-....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000T\000a\000b\000l\000e\000s)/A<</S/GoTo/D(section*.2)>>>>}
+....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000F\000i\000g\000u\000r\000e\000s)/A<</S/GoTo/D(chapter*.1)>>>>}
+....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000T\000a\000b\000l\000e\000s)/A<</S/GoTo/D(chapter*.2)>>>>}
 ....\special{pdf:outline [] 1<</Title(\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s)/A<</S/GoTo/D(section.0.1)>>>>}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
-....\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000F\000i\000g\000u\000r\000e\000s}{}% 1}
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Figures}{\thepage }{section*.1}\protected@file@percent }}
+....\special{pdf:dest (chapter*.1) [@thispage /XYZ @xpos @ypos null]}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000F\000i\000g\000u\000r\000e\000s}{}% 1}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Figures}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\glue(\topskip) 1.6
 ....\hbox(8.4+2.41199)x341.0, glue set 255.164fil
 .....\hbox(0.0+0.0)x0.0
@@ -383,9 +382,9 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) -30.60004
 .....\glue(\rightskip) 30.60004
-....\special{pdf:dest (section*.2) [@thispage /XYZ @xpos @ypos null]}
-....\write4{\protect \BOOKMARK [0][]{section*.2}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000T\000a\000b\000l\000e\000s}{}% 2}
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Tables}{\thepage }{section*.2}\protected@file@percent }}
+....\special{pdf:dest (chapter*.2) [@thispage /XYZ @xpos @ypos null]}
+....\write4{\protect \BOOKMARK [0][]{chapter*.2}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000T\000a\000b\000l\000e\000s}{}% 2}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Tables}{\thepage }{chapter*.2}\protected@file@percent }}
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
@@ -665,7 +664,7 @@ Completed box being shipped out [1]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0 plus 1.0fil
-....\write4{\protect \BOOKMARK [1][]{section.0.1}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{section*.2}% 3}
+....\write4{\protect \BOOKMARK [1][]{section.0.1}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{chapter*.2}% 3}
 ....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {0.1}References}{\thepage }{section.0.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
@@ -1269,8 +1268,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1432,8 +1429,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1592,8 +1587,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -1755,8 +1748,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -1915,8 +1906,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 
@@ -2084,8 +2073,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -2247,8 +2234,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -2407,8 +2392,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -2570,8 +2553,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -2730,8 +2711,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 
@@ -2899,8 +2878,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -3065,8 +3042,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -3225,8 +3200,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -3391,8 +3364,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -3551,8 +3522,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 
@@ -3723,6 +3692,6 @@ Completed box being shipped out [16]
 
 ()addtolist-1-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-1-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: 785EE56302137B3EF01B209CB41EE662;347.
+(rerunfilecheck)             Checksum: 8026AF26FF24EC0A60B9AA970C993CED;347.
 
 

@@ -20,7 +20,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -98,7 +97,7 @@ Completed box being shipped out [1]
 .....\special{color pop}
 ...\glue 18.06749
 ...\glue(\lineskip) 0.0
-...\vbox(598.0+0.0)x341.0, glue set 304.0115fil
+...\vbox(598.0+0.0)x341.0, glue set 293.48802fil
 ....\vbox(0.0+0.0)x0.0
 .....\hbox(0.0+0.0)x0.0, glue set - 348.0fil
 ......\glue 341.0
@@ -113,7 +112,7 @@ Completed box being shipped out [1]
 ....\special{pdf:majorversion 1}
 ....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
-....\special{pdf:outline [] 0<</Title(\376\377\000C\000o\000n\000t\000e\000n\000t\000s)/A<</S/GoTo/D(section*.1)>>>>}
+....\special{pdf:outline [] 0<</Title(\376\377\000C\000o\000n\000t\000e\000n\000t\000s)/A<</S/GoTo/D(chapter*.1)>>>>}
 ....\special{pdf:outline [] -1<</Title(\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s)/A<</S/GoTo/D(part.1)>>>>}
 ....\special{pdf:outline [] -1<</Title(\376\377\000L\000o\000r\000e\000m\000\040\000\050\000p\000a\000g\000e\000\040\0001\000\051)/A<</S/GoTo/D(part.2)>>>>}
 ....\special{pdf:outline [] 0<</Title(\376\377\000I\000p\000s\000u\000m\000\040\000\050\000p\000a\000g\000e\000\040\0001\000\051)/A<</S/GoTo/D(chapter.1)>>>>}
@@ -122,9 +121,9 @@ Completed box being shipped out [1]
 ....\special{pdf:outline [] 1<</Title(\376\377\000A\000m\000e\000t\000\040\000\050\000p\000a\000g\000e\000\040\0004\000\051)/A<</S/GoTo/D(section.2.1)>>>>}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
-....\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000C\000o\000n\000t\000e\000n\000t\000s}{}% 1}
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Contents}{\thepage }{section*.1}\protected@file@percent }}
+....\special{pdf:dest (chapter*.1) [@thispage /XYZ @xpos @ypos null]}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000C\000o\000n\000t\000e\000n\000t\000s}{}% 1}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Contents}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\glue(\topskip) 10.0
 ....\rule(0.0+0.0)x*
 ....\penalty 10000
@@ -132,15 +131,16 @@ Completed box being shipped out [1]
 ....\glue 0.0
 ....\glue(\parskip) 0.0
 ....\glue(\parskip) 0.0
+....\glue(\baselineskip) 10.52348
 ....\hbox(14.47652+0.24887)x341.0, glue set 249.8062fil
 .....\hbox(0.0+0.0)x0.0
 .....\TU/lmr/bx/n/20.74 Contents
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_value:nn {1}{\MakeTextUppercase    []{Contents}}}
-....\marks2{\__mark_value:nn {2}{\MakeTextUppercase    []{Contents}}}
-....\marks3{\__mark_value:nn {3}{\MakeTextUppercase    []{Contents}}}
+....\marks1{\__mark_value:nn {1}{\MakeUppercase    []{Contents}}}
+....\marks2{\__mark_value:nn {2}{\MakeUppercase    []{Contents}}}
+....\marks3{\__mark_value:nn {3}{\MakeUppercase    []{Contents}}}
 ....\penalty 10000
 ....\glue 40.0
 ....\glue 10.0 plus 1.0
@@ -153,7 +153,7 @@ Completed box being shipped out [1]
 .....\hbox(0.0+0.0)x0.0
 .....\penalty 10000
 .....\glue -15.0
-.....\special{pdf:bann<</Type/Annot/Subtype/Link/Border[0 0 0]/H/I/C[1 0 0]/A<</S/GoTo/D(section*.1)>>>>}
+.....\special{pdf:bann<</Type/Annot/Subtype/Link/Border[0 0 0]/H/I/C[1 0 0]/A<</S/GoTo/D(chapter*.1)>>>>}
 .....\special{color push rgb 0 0 1}
 .....\TU/lmr/bx/n/12 Contents
 .....\special{color pop}
@@ -464,8 +464,6 @@ Completed box being shipped out [1]
 
 
 
-
-
 Completed box being shipped out [2]
 \vbox(676.36243+0.0)x422.0
 .\hbox(0.0+0.0)x0.0
@@ -569,8 +567,6 @@ Completed box being shipped out [2]
 
 
 
-
-
 Completed box being shipped out [3]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -656,8 +652,6 @@ Completed box being shipped out [3]
 ....\glue(\topskip) 10.0
 ....\hbox(0.0+0.0)x0.0
 ....\glue 0.0 plus 1.0fil
-....\special{pdf:dest (section*.2) [@thispage /XYZ @xpos @ypos null]}
-....\penalty 10000
 ....\special{pdf:dest (part.1) [@thispage /XYZ @xpos @ypos null]}
 ....\penalty 10000
 ....\write4{\protect \BOOKMARK [-1][]{part.1}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{}% 2}
@@ -750,8 +744,6 @@ Completed box being shipped out [3]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 679.96246
 .\kern 0.0
-
-
 
 
 Completed box being shipped out [4]
@@ -860,8 +852,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [5]
 \vbox(676.36243+3.60004)x371.0
@@ -1238,8 +1228,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
+Chapter 1.
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1355,11 +1344,6 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\hbox(0.0+0.0)x0.0
 ......\hbox(0.0+0.0)x0.0, shifted -14.5
-.......\special{pdf:dest (section*.3) [@thispage /XYZ @xpos @ypos null]}
-.......\penalty 10000
-.....\penalty 10000
-.....\hbox(0.0+0.0)x0.0
-......\hbox(0.0+0.0)x0.0, shifted -14.5
 .......\special{pdf:dest (part.2) [@thispage /XYZ @xpos @ypos null]}
 .......\penalty 10000
 .....\write4{\protect \BOOKMARK [-1][]{part.2}{\376\377\000L\000o\000r\000e\000m\000\040\000\050\000p\000a\000g\000e\000\040\0001\000\051}{}% 3}
@@ -1390,7 +1374,7 @@ Completed box being shipped out [6]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_value:nn {8}{\MakeTextUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}}
+....\marks1{\__mark_value:nn {8}{\MakeUppercase    []{Chapter\ 1. \ \ignorespaces  Ipsum (page 1)}}}
 ....\marks2{\__mark_value:nn {9}{}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
@@ -1436,8 +1420,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1596,8 +1578,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -1716,8 +1696,8 @@ Completed box being shipped out [8]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_value:nn {10}{\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
-....\marks3{\__mark_value:nn {11}{\MakeTextUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks2{\__mark_value:nn {10}{\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
+....\marks3{\__mark_value:nn {11}{\MakeUppercase    []{1.1. \ \ignorespaces  Dolor (page 3)}}}
 ....\glue 0.0 plus -1.0
 ....\glue -14.5
 ....\glue(\parskip) 0.0 plus 1.0
@@ -1774,8 +1754,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
+Chapter 2.
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -1906,7 +1885,7 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks1{\__mark_value:nn {12}{\MakeTextUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}}
+....\marks1{\__mark_value:nn {12}{\MakeUppercase    []{Chapter\ 2. \ \ignorespaces  Sit (page 4)}}}
 ....\marks2{\__mark_value:nn {13}{}}
 ....\glue 0.0 plus -1.0
 ....\glue -14.5
@@ -1923,8 +1902,8 @@ Completed box being shipped out [9]
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
 .....\glue(\rightskip) 0.0
-....\marks2{\__mark_value:nn {14}{\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
-....\marks3{\__mark_value:nn {15}{\MakeTextUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks2{\__mark_value:nn {14}{\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
+....\marks3{\__mark_value:nn {15}{\MakeUppercase    []{2.1. \ \ignorespaces  Amet (page 4)}}}
 ....\glue 0.0 plus 1.0fil
 ....\glue 0.0
 ...\glue(\baselineskip) 25.29494
@@ -1972,6 +1951,6 @@ Completed box being shipped out [9]
 
 ()addtotoc-2-memoir.aux)
 Package rerunfilecheck Info: File `addtotoc-2-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: C4C42545555DEB7E7418142D0B08F1F8;810.
+(rerunfilecheck)             Checksum: A032D270E70877EE9417446A3A7BA87F;810.
 
 

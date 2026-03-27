@@ -18,7 +18,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
 )
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -112,7 +111,7 @@ Completed box being shipped out [1]
 ....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline [] 1<</Title(\376\377\000P\000a\000c\000k\000a\000g\000e\000\040\000l\000i\000s\000t\000i\000n\000g\000s\000.\000s\000t\000y)/A<</S/GoTo/D(section.0.1)>>>>}
-....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000i\000n\000g\000s)/A<</S/GoTo/D(section*.1)>>>>}
+....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000i\000n\000g\000s)/A<</S/GoTo/D(chapter*.1)>>>>}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
 ....\special{pdf:dest (section.0.1) [@thispage /XYZ @xpos @ypos null]}
@@ -133,11 +132,11 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue 0.0 plus -1.0
-....\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
+....\special{pdf:dest (chapter*.1) [@thispage /XYZ @xpos @ypos null]}
 ....\penalty 10000
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000L\000i\000s\000t\000i\000n\000g\000s}{}% 2}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000L\000i\000s\000t\000i\000n\000g\000s}{}% 2}
 ....\penalty 10000
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Listings}{\thepage }{section*.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{Listings}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0
@@ -510,8 +509,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 33.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -673,8 +670,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -833,8 +828,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -996,8 +989,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -1156,8 +1147,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 
@@ -1322,6 +1311,6 @@ Completed box being shipped out [6]
 
 ()addtolist-2-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-2-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: 97DD4F142E88DCB2FC037C2ECDCDDD02;230.
+(rerunfilecheck)             Checksum: FFE2D7852A08A6E0D12C3F2455C6B0E2;230.
 
 

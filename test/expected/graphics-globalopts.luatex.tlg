@@ -112,8 +112,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -136,7 +134,7 @@ Completed box being shipped out [1]
 ....\pdfcolorstack 0 pop
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 327.05325fil, direction TLT
+..\vbox(598.0+0.0)x345.0, glue set 319.19168fil, direction TLT
 ...\write-{}
 ...\pdfcolorstack 0 push {0 g 0 G}
 ...\glue(\topskip) 10.0
@@ -146,6 +144,7 @@ Completed box being shipped out [1]
 ...\glue 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
+...\glue(\baselineskip) 7.86241
 ...\hbox(10.13759+3.29759)x345.0, glue set - 0.51567, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
@@ -414,7 +413,7 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\lineskip) 1.0
-...\hbox(120.72473+0.0)x345.0, glue set 131.40475fil, direction TLT
+...\hbox(120.72473+0.0)x345.0, glue set 168.95993fil, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
 .....\localbrokenpenalty=0
@@ -434,14 +433,6 @@ Completed box being shipped out [1]
 ........\pdfrestore
 .......\kern142.26285
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
-....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
 ....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
 ....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
 ....\glue(\spaceskip) 4.6944 plus 2.3472 minus 1.5648
@@ -759,12 +750,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0, direction TLT

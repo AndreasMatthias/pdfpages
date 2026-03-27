@@ -31,8 +31,6 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 Package pdftex.def Info: foo~bar.pdf , page1 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 Package pdftex.def Info: foo~bar.pdf , page1 used on input line 17.
@@ -142,12 +140,11 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 Package pdftex.def Info: foo~bar.pdf , page2 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 Package pdftex.def Info: foo~bar.pdf , page2 used on input line 17.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0

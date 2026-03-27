@@ -32,8 +32,6 @@ File: dummy-landscape.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy-landscape.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 845.08371pt x 597.53416pt.
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 picturecommand={\put(100, 100){\LARGE Some
 
@@ -455,8 +453,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 picturecommand={\put(100, 100){\LARGE Some

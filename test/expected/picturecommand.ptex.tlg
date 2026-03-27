@@ -18,8 +18,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -65,7 +63,7 @@ Completed box being shipped out [1]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -317,8 +315,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -357,7 +353,7 @@ Completed box being shipped out [2]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -432,8 +428,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -472,7 +466,7 @@ Completed box being shipped out [3]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -719,8 +713,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -759,7 +751,7 @@ Completed box being shipped out [4]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -825,8 +817,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
@@ -894,7 +884,7 @@ Completed box being shipped out [5]
 ..............................\hbox(676.12856+0.0)x0.0, glue set - 477.78682fil, yoko direction
 ...............................\hbox(676.12856+0.0)x477.78682, yoko direction
 ................................\hbox(676.12856+0.0)x477.78682, yoko direction
-.................................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) }
+.................................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...............................\glue 0.0 plus 1.0fil minus 1.0fil
 ..............................\special{pdf:etrans}
 .............................\kern 477.35667
@@ -1523,8 +1513,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
@@ -1582,7 +1570,7 @@ Completed box being shipped out [6]
 ..............................\hbox(676.12856+0.0)x0.0, glue set - 477.78682fil, yoko direction
 ...............................\hbox(676.12856+0.0)x477.78682, yoko direction
 ................................\hbox(676.12856+0.0)x477.78682, yoko direction
-.................................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) }
+.................................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...............................\glue 0.0 plus 1.0fil minus 1.0fil
 ..............................\special{pdf:etrans}
 .............................\kern 477.35667
@@ -1728,67 +1716,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
-Overfull \hbox (73.83644pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/m/n/24.88 Resetting global set-tings ...               
-
-\hbox(17.27779+4.83937)x345.0, glue set - 1.0
-.\hbox(0.0+0.0)x15.0, yoko direction
-.\displace 0.0
-.\OT1/cmr/m/n/24.88 R
-.\OT1/cmr/m/n/24.88 e
-.\OT1/cmr/m/n/24.88 s
-.\OT1/cmr/m/n/24.88 e
-.\OT1/cmr/m/n/24.88 t
-.\OT1/cmr/m/n/24.88 t
-.\OT1/cmr/m/n/24.88 i
-.\OT1/cmr/m/n/24.88 n
-.\OT1/cmr/m/n/24.88 g
-.\glue 7.51096 plus 3.89944 minus 2.59964
-.\OT1/cmr/m/n/24.88 g
-.\OT1/cmr/m/n/24.88 l
-.\OT1/cmr/m/n/24.88 o
-.\OT1/cmr/m/n/24.88 b
-.\OT1/cmr/m/n/24.88 a
-.\OT1/cmr/m/n/24.88 l
-.\glue 7.51096 plus 3.89944 minus 2.59964
-.\OT1/cmr/m/n/24.88 s
-.\OT1/cmr/m/n/24.88 e
-.\OT1/cmr/m/n/24.88 t
-.\discretionary
-..\OT1/cmr/m/n/24.88 -
-.\OT1/cmr/m/n/24.88 t
-.\OT1/cmr/m/n/24.88 i
-.\OT1/cmr/m/n/24.88 n
-.\OT1/cmr/m/n/24.88 g
-.\OT1/cmr/m/n/24.88 s
-.\glue 7.51096 plus 3.89944 minus 2.59964
-.\OT1/cmr/m/n/24.88 .
-.\kern 3.89944
-.\OT1/cmr/m/n/24.88 .
-.\kern 3.89944
-.\OT1/cmr/m/n/24.88 .
-.\kern 3.89944
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\glue 10.1106 plus 11.69833 minus 0.86655
-.\penalty 10000
-.\glue(\parfillskip) 0.0 plus 1.0fil
-.\glue(\rightskip) 0.0
-
-
-
-
 Completed box being shipped out [7]
 \vbox(682.0+0.0)x398.0, yoko direction
 .\hbox(0.0+0.0)x0.0, yoko direction
@@ -1813,7 +1740,7 @@ Completed box being shipped out [7]
 ..\glue(\lineskip) 0.0
 ..\vbox(598.0+0.0)x345.0, glue set 575.82133fil, yoko direction
 ...\glue(\topskip) 0.0
-...\hbox(17.27779+4.83937)x345.0, glue set - 1.0
+...\hbox(17.27779+4.83937)x345.0, glue set 7.33894fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
 ....\displace 0.0
 ....\OT1/cmr/m/n/24.88 R
@@ -1836,8 +1763,6 @@ Completed box being shipped out [7]
 ....\OT1/cmr/m/n/24.88 s
 ....\OT1/cmr/m/n/24.88 e
 ....\OT1/cmr/m/n/24.88 t
-....\discretionary
-.....\OT1/cmr/m/n/24.88 -
 ....\OT1/cmr/m/n/24.88 t
 ....\OT1/cmr/m/n/24.88 i
 ....\OT1/cmr/m/n/24.88 n
@@ -1850,16 +1775,6 @@ Completed box being shipped out [7]
 ....\kern 3.89944
 ....\OT1/cmr/m/n/24.88 .
 ....\kern 3.89944
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
-....\glue 10.1106 plus 11.69833 minus 0.86655
 ....\glue 10.1106 plus 11.69833 minus 0.86655
 ....\glue 10.1106 plus 11.69833 minus 0.86655
 ....\glue 10.1106 plus 11.69833 minus 0.86655
@@ -1897,8 +1812,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -1937,7 +1850,7 @@ Completed box being shipped out [8]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -1998,8 +1911,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -2038,7 +1949,7 @@ Completed box being shipped out [9]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -2104,8 +2015,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -2144,7 +2053,7 @@ Completed box being shipped out [10]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -2387,8 +2296,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -2427,7 +2334,7 @@ Completed box being shipped out [11]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858
@@ -2493,8 +2400,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -2533,7 +2438,7 @@ Completed box being shipped out [12]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858

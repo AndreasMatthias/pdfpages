@@ -44,8 +44,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
-
-
 Completed box being shipped out [1]
 \vbox(655.63496+0.0)x435.61176, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -97,14 +95,6 @@ Completed box being shipped out [1]
 ......\localrightbox=null
 .....\hbox(0.0+0.0)x0.0, direction TLT
 ......\glue 0.0
-.....\hbox(0.0+0.0)x0.0, direction TLT
-......\kern0.0
-......\penalty 10000
-......\hbox(0.0+0.0)x0.0, direction TLT
-.......\hbox(0.0+0.0)x0.0, shifted -18.0, direction TLT
-........\pdfdest name{section*.1} xyz
-........\penalty 10000
-......\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmss/bx/n/14.4 C
 .....\TU/lmss/bx/n/14.4 o
 .....\TU/lmss/bx/n/14.4 n
@@ -860,8 +850,6 @@ part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 34.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
@@ -997,7 +985,6 @@ Completed box being shipped out [2]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1}\ignorespaces  Ipsum (page 1)}{\thepage }{section.1}\protected@file@percent }}
 .....\glue 0.0
@@ -1054,12 +1041,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [3]
 \vbox(655.63496+0.0)x435.61176, direction TLT
@@ -1181,12 +1167,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [4]
 \vbox(655.63496+0.0)x435.61176, direction TLT
@@ -1272,7 +1257,6 @@ Completed box being shipped out [4]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {subsection}{\protect \numberline {1.1}\ignorespaces  Dolor (page 3)}{\thepage }{subsection.1.1}\protected@file@percent }}
 .....\glue 0.0
@@ -1329,12 +1313,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [5]
 \vbox(655.63496+0.0)x435.61176, direction TLT
@@ -1420,7 +1403,6 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2}\ignorespaces  Sit (page 4)}{\thepage }{section.2}\protected@file@percent }}
 .....\glue 0.0
@@ -1460,7 +1442,6 @@ Completed box being shipped out [5]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {subsection}{\protect \numberline {2.1}\ignorespaces  Amet (page 4)}{\thepage }{subsection.2.1}\protected@file@percent }}
 .....\glue 0.0

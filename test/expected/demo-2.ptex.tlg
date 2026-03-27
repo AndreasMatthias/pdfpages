@@ -17,8 +17,6 @@ Package pdfpages Warning: I cannot determine the number of pages of the
 (pdfpages)                `demo' mode. 
 (pdfpages)                You can use the option `lastpage' to give me a hint.
 
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -56,18 +54,10 @@ Completed box being shipped out [1]
 ...\write-{}
 ...\special{color push gray 0}
 ...\glue(\topskip) 0.0
-...\hbox(213.79874+0.0)x345.0, glue set 38.05882fil
+...\hbox(213.79874+0.0)x345.0, glue set 64.72545fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
 ....\hbox(213.79874+0.0)x251.94124, yoko direction
-.....\special{pdf:epdf pagebox cropbox bbox 0 0 251 213 clip 0 width 251.94124pt (hog.pdf) }
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
+.....\special{pdf:image pagebox cropbox bbox 0 0 251 213 clip 0 width 251.94124pt (hog.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
@@ -287,8 +277,6 @@ Completed box being shipped out [1]
 
 
 
-
-
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0, yoko direction
 .\hbox(0.0+0.0)x0.0, yoko direction
@@ -347,8 +335,6 @@ Completed box being shipped out [2]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 

@@ -16,8 +16,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Warning: No \author given.
 
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0, yoko direction
 .\hbox(0.0+0.0)x0.0, yoko direction
@@ -274,8 +272,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -320,7 +316,7 @@ Completed box being shipped out [2]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -354,7 +350,7 @@ Completed box being shipped out [2]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -589,8 +585,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -631,7 +625,7 @@ Completed box being shipped out [3]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -665,7 +659,7 @@ Completed box being shipped out [3]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -725,8 +719,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -767,7 +759,7 @@ Completed box being shipped out [4]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -801,7 +793,7 @@ Completed box being shipped out [4]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -861,8 +853,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -903,7 +893,7 @@ Completed box being shipped out [5]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -937,7 +927,7 @@ Completed box being shipped out [5]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -1007,8 +997,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -1055,7 +1043,7 @@ Completed box being shipped out [6]
 .......................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ........................\hbox(422.68034+0.0)x299.07297, yoko direction
 .........................\hbox(422.68034+0.0)x299.07297, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 299.07297
@@ -1096,7 +1084,7 @@ Completed box being shipped out [6]
 .......................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ........................\hbox(422.68034+0.0)x299.07297, yoko direction
 .........................\hbox(422.68034+0.0)x299.07297, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 299.07297
@@ -1383,8 +1371,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -1425,7 +1411,7 @@ Completed box being shipped out [7]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -1459,7 +1445,7 @@ Completed box being shipped out [7]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -1519,8 +1505,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -1567,7 +1551,7 @@ Completed box being shipped out [8]
 .......................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ........................\hbox(422.68034+0.0)x299.07297, yoko direction
 .........................\hbox(422.68034+0.0)x299.07297, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 299.07297
@@ -1608,7 +1592,7 @@ Completed box being shipped out [8]
 .......................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ........................\hbox(422.68034+0.0)x299.07297, yoko direction
 .........................\hbox(422.68034+0.0)x299.07297, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 299.07297
@@ -1669,8 +1653,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -1711,7 +1693,7 @@ Completed box being shipped out [9]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -1745,7 +1727,7 @@ Completed box being shipped out [9]
 ...................\hbox(422.68034+0.0)x0.0, glue set - 299.07297fil, yoko direction
 ....................\hbox(422.68034+0.0)x299.07297, yoko direction
 .....................\hbox(422.68034+0.0)x299.07297, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 299.07297pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 299.07297
@@ -1815,8 +1797,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -1857,7 +1837,7 @@ Completed box being shipped out [10]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -1891,7 +1871,7 @@ Completed box being shipped out [10]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2140,8 +2120,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -2182,7 +2160,7 @@ Completed box being shipped out [11]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2216,7 +2194,7 @@ Completed box being shipped out [11]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2278,8 +2256,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -2320,7 +2296,7 @@ Completed box being shipped out [12]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2354,7 +2330,7 @@ Completed box being shipped out [12]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2416,8 +2392,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -2458,7 +2432,7 @@ Completed box being shipped out [13]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2492,7 +2466,7 @@ Completed box being shipped out [13]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -2564,8 +2538,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -2612,7 +2584,7 @@ Completed box being shipped out [14]
 .......................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ........................\hbox(298.86166+0.0)x211.46346, yoko direction
 .........................\hbox(298.86166+0.0)x211.46346, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 211.46346
@@ -2653,7 +2625,7 @@ Completed box being shipped out [14]
 .......................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ........................\hbox(298.86166+0.0)x211.46346, yoko direction
 .........................\hbox(298.86166+0.0)x211.46346, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 211.46346
@@ -2954,8 +2926,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -2996,7 +2966,7 @@ Completed box being shipped out [15]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -3030,7 +3000,7 @@ Completed box being shipped out [15]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -3092,8 +3062,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -3140,7 +3108,7 @@ Completed box being shipped out [16]
 .......................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ........................\hbox(298.86166+0.0)x211.46346, yoko direction
 .........................\hbox(298.86166+0.0)x211.46346, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 211.46346
@@ -3181,7 +3149,7 @@ Completed box being shipped out [16]
 .......................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ........................\hbox(298.86166+0.0)x211.46346, yoko direction
 .........................\hbox(298.86166+0.0)x211.46346, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 211.46346
@@ -3244,8 +3212,6 @@ File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
-
-
 File: normal-portrait.pdf Graphic file (type pdf)
 <normal-portrait.pdf>
 File: normal-portrait.pdf Graphic file (type pdf)
@@ -3286,7 +3252,7 @@ Completed box being shipped out [17]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -3320,7 +3286,7 @@ Completed box being shipped out [17]
 ...................\hbox(298.86166+0.0)x0.0, glue set - 211.46346fil, yoko direction
 ....................\hbox(298.86166+0.0)x211.46346, yoko direction
 .....................\hbox(298.86166+0.0)x211.46346, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 421 595 clip 0 width 211.46346pt (normal-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 211.46346
@@ -3392,8 +3358,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -3434,7 +3398,7 @@ Completed box being shipped out [18]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3468,7 +3432,7 @@ Completed box being shipped out [18]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3706,8 +3670,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -3748,7 +3710,7 @@ Completed box being shipped out [19]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3782,7 +3744,7 @@ Completed box being shipped out [19]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3842,8 +3804,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -3884,7 +3844,7 @@ Completed box being shipped out [20]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3918,7 +3878,7 @@ Completed box being shipped out [20]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -3978,8 +3938,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4020,7 +3978,7 @@ Completed box being shipped out [21]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4054,7 +4012,7 @@ Completed box being shipped out [21]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4124,8 +4082,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4172,7 +4128,7 @@ Completed box being shipped out [22]
 .......................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ........................\hbox(422.59163+0.0)x149.56331, yoko direction
 .........................\hbox(422.59163+0.0)x149.56331, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 149.56331
@@ -4213,7 +4169,7 @@ Completed box being shipped out [22]
 .......................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ........................\hbox(422.59163+0.0)x149.56331, yoko direction
 .........................\hbox(422.59163+0.0)x149.56331, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 149.56331
@@ -4503,8 +4459,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4545,7 +4499,7 @@ Completed box being shipped out [23]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4579,7 +4533,7 @@ Completed box being shipped out [23]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4639,8 +4593,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4687,7 +4639,7 @@ Completed box being shipped out [24]
 .......................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ........................\hbox(422.59163+0.0)x149.56331, yoko direction
 .........................\hbox(422.59163+0.0)x149.56331, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 149.56331
@@ -4728,7 +4680,7 @@ Completed box being shipped out [24]
 .......................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ........................\hbox(422.59163+0.0)x149.56331, yoko direction
 .........................\hbox(422.59163+0.0)x149.56331, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 149.56331
@@ -4789,8 +4741,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4831,7 +4781,7 @@ Completed box being shipped out [25]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4865,7 +4815,7 @@ Completed box being shipped out [25]
 ...................\hbox(422.59163+0.0)x0.0, glue set - 149.56331fil, yoko direction
 ....................\hbox(422.59163+0.0)x149.56331, yoko direction
 .....................\hbox(422.59163+0.0)x149.56331, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 149.56331pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 149.56331
@@ -4935,8 +4885,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -4977,7 +4925,7 @@ Completed box being shipped out [26]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5011,7 +4959,7 @@ Completed box being shipped out [26]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5263,8 +5211,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -5305,7 +5251,7 @@ Completed box being shipped out [27]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5339,7 +5285,7 @@ Completed box being shipped out [27]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5401,8 +5347,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -5443,7 +5387,7 @@ Completed box being shipped out [28]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5477,7 +5421,7 @@ Completed box being shipped out [28]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5539,8 +5483,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -5581,7 +5523,7 @@ Completed box being shipped out [29]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5615,7 +5557,7 @@ Completed box being shipped out [29]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -5687,8 +5629,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -5735,7 +5675,7 @@ Completed box being shipped out [30]
 .......................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ........................\hbox(298.80215+0.0)x105.75183, yoko direction
 .........................\hbox(298.80215+0.0)x105.75183, yoko direction
-..........................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 1 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 105.75183
@@ -5776,7 +5716,7 @@ Completed box being shipped out [30]
 .......................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ........................\hbox(298.80215+0.0)x105.75183, yoko direction
 .........................\hbox(298.80215+0.0)x105.75183, yoko direction
-..........................\special{pdf:epdf page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 8 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 105.75183
@@ -6079,8 +6019,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -6121,7 +6059,7 @@ Completed box being shipped out [31]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -6155,7 +6093,7 @@ Completed box being shipped out [31]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 7 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -6217,8 +6155,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -6265,7 +6201,7 @@ Completed box being shipped out [32]
 .......................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ........................\hbox(298.80215+0.0)x105.75183, yoko direction
 .........................\hbox(298.80215+0.0)x105.75183, yoko direction
-..........................\special{pdf:epdf page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 3 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 105.75183
@@ -6306,7 +6242,7 @@ Completed box being shipped out [32]
 .......................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ........................\hbox(298.80215+0.0)x105.75183, yoko direction
 .........................\hbox(298.80215+0.0)x105.75183, yoko direction
-..........................\special{pdf:epdf page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+..........................\special{pdf:image page 6 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ........................\glue 0.0 plus 1.0fil minus 1.0fil
 .......................\special{pdf:etrans}
 ......................\kern 105.75183
@@ -6369,8 +6305,6 @@ File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
-
-
 File: slim-portrait.pdf Graphic file (type pdf)
 <slim-portrait.pdf>
 File: slim-portrait.pdf Graphic file (type pdf)
@@ -6411,7 +6345,7 @@ Completed box being shipped out [33]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 4 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183
@@ -6445,7 +6379,7 @@ Completed box being shipped out [33]
 ...................\hbox(298.80215+0.0)x0.0, glue set - 105.75183fil, yoko direction
 ....................\hbox(298.80215+0.0)x105.75183, yoko direction
 .....................\hbox(298.80215+0.0)x105.75183, yoko direction
-......................\special{pdf:epdf page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) }
+......................\special{pdf:image page 5 pagebox cropbox bbox 0 0 298 842 clip 0 width 105.75183pt (slim-portrait.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 105.75183

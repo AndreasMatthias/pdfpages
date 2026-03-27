@@ -7,7 +7,7 @@ Don't change this file in any respect.
 
 
 ============================================================
-TEST 1: Openright
+TEST 1: Openrighteach
 ============================================================
 <dummy.pdf, id=··, 597.50829pt x 845.0471pt>
 File: dummy.pdf Graphic file (type pdf)
@@ -43,8 +43,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -162,7 +160,7 @@ Completed box being shipped out [1]
 ................\kern 3.0
 ................\pdfcolorstack 0 push {0 g 0 G}
 ................\vbox(9.99998+39.2)x341.43306
-.................\hbox(9.99998+2.79999)x341.43306, glue set 269.35818fil
+.................\hbox(9.99998+2.79999)x341.43306, glue set 238.34157fil
 ..................\hbox(0.0+0.0)x0.0
 ..................\pdfcolorstack 0 push {1 0.3 0.3 rg 1 0.3 0.3 RG}
 ..................\OT1/cmr/bx/n/14.4 O
@@ -176,6 +174,11 @@ Completed box being shipped out [1]
 ..................\OT1/cmr/bx/n/14.4 h
 ..................\kern-0.45001
 ..................\OT1/cmr/bx/n/14.4 t
+..................\OT1/cmr/bx/n/14.4 e
+..................\OT1/cmr/bx/n/14.4 a
+..................\OT1/cmr/bx/n/14.4 c
+..................\kern-0.45001
+..................\OT1/cmr/bx/n/14.4 h
 ..................\pdfcolorstack 0 pop
 ..................\penalty 10000
 ..................\glue(\parfillskip) 0.0 plus 1.0fil
@@ -312,8 +315,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -322,6 +323,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [2]
 \vbox(432.0+0.0)x522.0
@@ -469,12 +471,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [3]
 \vbox(432.0+0.0)x522.0
@@ -583,8 +584,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -726,7 +725,7 @@ Completed box being shipped out [4]
 ============================================================
 
 ============================================================
-TEST 2: Openright
+TEST 2: Openrighteach
 ============================================================
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -760,8 +759,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -877,7 +874,7 @@ Completed box being shipped out [5]
 ................\kern 3.0
 ................\pdfcolorstack 0 push {0 g 0 G}
 ................\vbox(9.99998+39.2)x341.43306
-.................\hbox(9.99998+2.79999)x341.43306, glue set 269.35818fil
+.................\hbox(9.99998+2.79999)x341.43306, glue set 238.34157fil
 ..................\hbox(0.0+0.0)x0.0
 ..................\pdfcolorstack 0 push {1 0.3 0.3 rg 1 0.3 0.3 RG}
 ..................\OT1/cmr/bx/n/14.4 O
@@ -891,6 +888,11 @@ Completed box being shipped out [5]
 ..................\OT1/cmr/bx/n/14.4 h
 ..................\kern-0.45001
 ..................\OT1/cmr/bx/n/14.4 t
+..................\OT1/cmr/bx/n/14.4 e
+..................\OT1/cmr/bx/n/14.4 a
+..................\OT1/cmr/bx/n/14.4 c
+..................\kern-0.45001
+..................\OT1/cmr/bx/n/14.4 h
 ..................\pdfcolorstack 0 pop
 ..................\penalty 10000
 ..................\glue(\parfillskip) 0.0 plus 1.0fil
@@ -1023,8 +1025,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -1180,8 +1180,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package pdftex.def Info: dummy.pdf , page4 used on input line 1.
@@ -1337,8 +1335,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -1347,6 +1343,7 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [8]
 \vbox(432.0+0.0)x522.0
@@ -1514,8 +1511,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -1802,8 +1797,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.
@@ -1958,8 +1951,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -2072,8 +2063,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package pdftex.def Info: dummy.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package pdftex.def Info: dummy.pdf , page2 used on input line 1.

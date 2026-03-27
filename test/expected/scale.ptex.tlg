@@ -18,8 +18,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -82,7 +80,7 @@ Completed box being shipped out [1]
 ..............................\hbox(676.12856+0.0)x0.0, glue set - 477.78682fil, yoko direction
 ...............................\hbox(676.12856+0.0)x477.78682, yoko direction
 ................................\hbox(676.12856+0.0)x477.78682, yoko direction
-.................................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) }
+.................................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...............................\glue 0.0 plus 1.0fil minus 1.0fil
 ..............................\special{pdf:etrans}
 .............................\kern 477.35667
@@ -286,8 +284,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -343,7 +339,7 @@ Completed box being shipped out [2]
 ..............................\hbox(676.12856+0.0)x0.0, glue set - 477.78682fil, yoko direction
 ...............................\hbox(676.12856+0.0)x477.78682, yoko direction
 ................................\hbox(676.12856+0.0)x477.78682, yoko direction
-.................................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) }
+.................................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 477.78682pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...............................\glue 0.0 plus 1.0fil minus 1.0fil
 ..............................\special{pdf:etrans}
 .............................\kern 477.35667

@@ -14,6 +14,10 @@ insert_final_newline = true
 space_around_table_field_list = false
 line_space_after_function_statement = fixed(2)
 
+[*.json]
+
+indent_style = space
+indent_size = 4
 
 # Local Variables:
 # mode: conf-unix

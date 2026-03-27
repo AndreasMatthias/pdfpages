@@ -19,8 +19,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -238,8 +236,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=-20mm 0mm,
@@ -467,8 +463,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -680,8 +674,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=0mm -30mm,
@@ -910,8 +902,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=20mm 30mm,
 
@@ -1134,8 +1124,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=-20mm -30mm,

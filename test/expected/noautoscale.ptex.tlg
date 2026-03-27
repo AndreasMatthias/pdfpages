@@ -16,8 +16,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -74,7 +72,7 @@ Completed box being shipped out [1]
 ..........................\hbox(597.23125+0.0)x0.0, glue set - 421.575fil, yoko direction
 ...........................\hbox(597.23125+0.0)x421.575, yoko direction
 ............................\hbox(597.23125+0.0)x421.575, yoko direction
-.............................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.575pt (dummy-a5.pdf) }
+.............................\special{pdf:image page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.575pt (dummy-a5.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...........................\glue 0.0 plus 1.0fil minus 1.0fil
 ..........................\special{pdf:etrans}
 .........................\kern 421.575
@@ -282,8 +280,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[noautoscale = false,
 
@@ -373,7 +369,7 @@ Completed box being shipped out [2]
 ..........................\hbox(844.56787+0.0)x0.0, glue set - 596.16554fil, yoko direction
 ...........................\hbox(844.56787+0.0)x596.16554, yoko direction
 ............................\hbox(844.56787+0.0)x596.16554, yoko direction
-.............................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 596.16554pt (dummy-a5.pdf) }
+.............................\special{pdf:image page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 596.16554pt (dummy-a5.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...........................\glue 0.0 plus 1.0fil minus 1.0fil
 ..........................\special{pdf:etrans}
 .........................\kern 596.16554
@@ -590,8 +586,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <dummy-a5.pdf>
 
@@ -641,7 +635,7 @@ Completed box being shipped out [3]
 ..........................\hbox(597.23125+0.0)x0.0, glue set - 421.575fil, yoko direction
 ...........................\hbox(597.23125+0.0)x421.575, yoko direction
 ............................\hbox(597.23125+0.0)x421.575, yoko direction
-.............................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.575pt (dummy-a5.pdf) }
+.............................\special{pdf:image page 1 pagebox cropbox bbox 0 0 420 595 clip 0 width 421.575pt (dummy-a5.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ...........................\glue 0.0 plus 1.0fil minus 1.0fil
 ..........................\special{pdf:etrans}
 .........................\kern 421.575

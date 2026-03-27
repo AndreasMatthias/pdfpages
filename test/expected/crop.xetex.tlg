@@ -19,8 +19,6 @@ File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
-
-
 File: hog.pdf Graphic file (type pdf)
 <use hog.pdf, page 1>
 
@@ -441,8 +439,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 1>
 
@@ -861,8 +857,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[nup=2x1, pages=1-2, landscape,

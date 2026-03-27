@@ -31,8 +31,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -331,8 +329,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=-20mm 0mm,
@@ -691,8 +687,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
@@ -983,8 +977,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=0mm -30mm,
@@ -1340,8 +1332,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=20mm 30mm,
 
@@ -1663,8 +1653,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 596.9689pt x 844.28426pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[offset=-20mm -30mm,

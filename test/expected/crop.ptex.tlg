@@ -18,8 +18,6 @@ File: hog.pdf Graphic file (type pdf)
 <hog.pdf>
 File: hog.pdf Graphic file (type pdf)
 <hog.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -65,7 +63,7 @@ Completed box being shipped out [1]
 ...................\hbox(358.6877+0.0)x0.0, glue set - 422.67894fil, yoko direction
 ....................\hbox(358.6877+0.0)x422.67894, yoko direction
 .....................\hbox(358.6877+0.0)x422.67894, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 251 213 clip 0 width 422.67894pt (hog.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 251 213 clip 0 width 422.67894pt (hog.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 422.67894
@@ -470,8 +468,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
 File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
 
@@ -510,7 +506,7 @@ Completed box being shipped out [2]
 ...................\hbox(596.13417+0.0)x0.0, glue set - 421.25871fil, yoko direction
 ....................\hbox(596.13417+0.0)x421.25871, yoko direction
 .....................\hbox(596.13417+0.0)x421.25871, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 421.25871pt (dummy3.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 421.25871pt (dummy3.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 421.25871
@@ -916,8 +912,6 @@ File: dummy3.pdf Graphic file (type pdf)
 File: dummy3.pdf Graphic file (type pdf)
 <dummy3.pdf>
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\OT1/cmtt/m/n/14.4 \includepdf[nup=2x1, pages=1-2, landscape,
 
@@ -1008,7 +1002,7 @@ Completed box being shipped out [3]
 ...................\hbox(421.17307+0.0)x0.0, glue set - 297.6223fil, yoko direction
 ....................\hbox(421.17307+0.0)x297.6223, yoko direction
 .....................\hbox(421.17307+0.0)x297.6223, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 297.6223pt (dummy3.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 297.6223pt (dummy3.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 297.6223
@@ -1042,7 +1036,7 @@ Completed box being shipped out [3]
 ...................\hbox(421.17307+0.0)x0.0, glue set - 297.6223fil, yoko direction
 ....................\hbox(421.17307+0.0)x297.6223, yoko direction
 .....................\hbox(421.17307+0.0)x297.6223, yoko direction
-......................\special{pdf:epdf page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 297.6223pt (dummy3.pdf) }
+......................\special{pdf:image page 2 pagebox cropbox bbox 0 0 595 842 clip 0 width 297.6223pt (dummy3.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 297.6223
