@@ -48,6 +48,7 @@ jobs:
           collection-mathscience
           collection-pstricks
           collection-langjapanese
+          collection-binextra
 
     # Install Ghostscript
     - name: Install Ghostscript
