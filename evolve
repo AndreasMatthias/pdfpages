@@ -225,7 +225,8 @@ end
 function sanitize_date(content)
    local new_content = ''
    -- date format: "(D:20260327222352+01'00')"
-   local date_format = '%(D:' .. string.rep('%d', 14) .. "%+%d%d%'%d%d%'%)"
+   -- date format: "(D:20260329010603Z)"
+   local date_format = '%(D:[^)]*%)'
    -- /NS (data:,3E4D8F46-153A-6A28-D76-25BD3D5EC790)
    local namespace_format = '%(data:[^)]*%)'
    for line in string.gmatch(content, '([^\n]*)\n') do
