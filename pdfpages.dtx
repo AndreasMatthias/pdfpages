@@ -2,7 +2,7 @@
 %    \iffalse
 %
 %<*(package,pppdftexdef,ppluatexdef,ppvtexdef,ppxetexdef,ppdvipsdef,ppdvipdfmxdef,ppnulldef)>
-%% Copyright (C) 2001-2025 Andreas MATTHIAS
+%% Copyright (C) 2001-2026 Andreas MATTHIAS
 %%
 %% This work may be distributed and/or modified under the conditions
 %% of the LaTeX Project Public License, either version 1.3c
@@ -81,7 +81,7 @@
 %
 %    \GetFileInfo{pdfpages.dtx}
 %
-%    \CheckSum{5273}
+%    \CheckSum{5475}
 %
 % \CharacterTable
 %  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
@@ -664,6 +664,33 @@
 %                      \meta{lof-list} $\rightarrow$ \meta{page number},^^A
 %                      \meta{type},\meta{heading},\meta{label}^^A
 %                      [,\meta{lof-list}]
+%
+%
+%        \item[alt] This options adds an alternative text for accessibility
+%                   if package |tagpdf|\footnote{Package |tagpdf| is loaded by
+%                   default in recent \LaTeX\ kernels, if you enable |tagging| in
+%                   the meta data: |\bslash DocumentMetadata\{tagging=on\}|.}
+%                   is loaded.
+%                   (Default: |alt={File \FileName}|)
+%                   \par
+%                   \emph{Note}: Even if the included pdf is a structured (tagged)
+%                   pdf, it is not possible to copy this structure. The included pdf
+%                   will always be marked as a figure with an alternative text
+%                   without any further structure.
+%
+%
+%        \item[alt*] This option expects a list in which you can specify an
+%                    alternative text for some or all pages.
+%                    For instance |alt*={1,lorem,2,ipsum}| sets
+%                    \emph{lorem} and \emph{ipsum} as alternative text for page
+%                    1 and 2, respectively.\par
+%                    This is the syntax of the list:\par
+%                    \quad\texttt{alt*=}\{\meta{tag-list}\}\par
+%                    \quad\meta{tag-list} $\rightarrow$ \meta{page number},^^A
+%                    \meta{alternative text} [,\meta{tag-list}]
+%
+%
+%        \item[artifact] This option marks all pages as artifacts
 %
 %
 %        \item[survey] Creates a survey of those pages of the document, which
@@ -1386,6 +1413,7 @@
 \newif\ifAM@scale\AM@scaletrue
 \newif\ifAM@newpage\AM@newpagefalse
 \newif\ifAM@pagecount@updated
+\newif\ifAM@artifact
 %    \end{macrocode}
 %    Check, if memoir is loaded.
 %    \begin{macrocode}
@@ -1426,6 +1454,7 @@
 \newcommand*{\AM@linktodocfit}{/Fit}
 \newcommand*{\threadinfodict}{}
 \newcommand*{\AM@toclist}{}\newcommand*{\AM@loflist}{}
+\newcommand*{\AM@altlist}{}
 \newcommand*{\AM@signature}{}
 \newcommand*{\AM@ARBug@hook}{}
 \newcommand*{\AM@xrprefix}{}
@@ -1536,6 +1565,9 @@
   \AM@reset@view
   \let\AM@threadname\relax
   \def\AM@tmp{pdfpages}
+  \let\PageNum\relax
+  \let\FileName\relax
+  \let\Artifact\relax
   \expandafter\AM@split@options
     \expandafter\AM@tmp
     \expandafter{\the\AM@global@opts,#1}%
@@ -1583,8 +1615,10 @@
 %    \end{macrocode}
 %    \begin{macrocode}
   \ifAM@output
+    \AM@SuspendTagging
     \expandafter\AM@readlist\expandafter{\AM@pagestemp}%
     \expandafter\AM@output\expandafter{\the\AM@global@opts,#1}%
+    \AM@ResumeTagging
   \fi
 %    \end{macrocode}
 %    \begin{macrocode}
@@ -1605,13 +1639,18 @@
   \let\AM@threadname\relax
   \let\AM@currentdocname\relax
   \def\AM@tmp{pdfpages}
+  \let\PageNum\relax
+  \let\FileName\relax
+  \let\Artifact\relax
   \expandafter\AM@split@options
     \expandafter\AM@tmp
     \expandafter{\the\AM@global@opts,#1}%
   \edef\AM@temp{{pdfpages}{\the\@temptokena}}%
   \expandafter\setkeys\AM@temp
+  \AM@SuspendTagging
   \AM@readlist{#2}%
   \expandafter\AM@output\expandafter{\the\AM@global@opts,#1}%
+  \AM@ResumeTagging
   \AM@CheckAtEnd
   \endgroup
   \AM@ClearShipoutPicture
@@ -1634,7 +1673,25 @@
            of `addtolist'. Not all entries were\MessageBreak
            processed. Check `addtolist'}%
     \fi
+    \ifx\@empty\AM@altlist\else
+      \PackageWarning{pdfpages}{%
+           There's something wrong with the entries\MessageBreak
+           of option `alt*'. Not all entries were\MessageBreak
+           processed. Check `alt*'}%
+    \fi
 }
+%    \end{macrocode}
+%    Use some macros from |tagpdf.sty| if is is loaded.
+%    \begin{macrocode}
+\def\AM@SuspendTagging{%
+  \ifdefined\SuspendTagging
+    \par
+    \SuspendTagging{pdfpages}%
+  \fi}
+\def\AM@ResumeTagging{%
+  \ifdefined\ResumeTagging
+    \ResumeTagging{pdfpages}%
+  \fi}
 %    \end{macrocode}
 %    \macro{\AM@output}
 %    This is the main output routine used by |\includepdf|
@@ -1780,6 +1837,8 @@
   \edef\AM@docname{\the\toks@}%
   \AM@isphantom
   \edef\AM@page{\AM@nextpage}%
+  \let\PageNum\AM@page
+  \let\FileName\AM@currentdocname
   \ifAM@noautoscale
     \def\AM@globalscale{1}%
   \else
@@ -1952,6 +2011,8 @@
        \AM@newpagefalse
      \fi
      \edef\AM@page{\AM@nextpage}%
+     \let\PageNum\AM@page
+     \let\FileName\AM@currentdocname
 %    \end{macrocode}
 %    Load next page and verify if it has the same page size as the
 %    page template. If not, adjust the scale |\AM@localscale| and
@@ -2115,14 +2176,22 @@
     \ifAM@phantompage
       \def\AM@shippage{}%
     \else
+      \AM@set@alt
+      \AM@set@artifact
       \AM@split@options{Gin}{#1}%
-        \edef\AM@opts{[\AM@disable@width@height,\the\@temptokena,
-                       page=\AM@page, scale=\AM@globalscale,
-                       scale=\AM@localscale,
-                       \ifAM@upsidedown angle=180,\fi
-                       \ifAM@doublepagestwist\ifAM@doublepagestmp
-                       angle=180,\fi\fi
-                       angle=\AM@rotateoversize, angle=\AM@lscape@rot]}%
+      \edef\AM@opts{[
+          \AM@disable@width@height,\the\@temptokena,
+          page=\AM@page, scale=\AM@globalscale,
+          scale=\AM@localscale,
+          \ifAM@artifact
+            artifact,
+          \else
+            alt={\AM@alt@text},
+          \fi
+          \ifAM@upsidedown angle=180,\fi
+          \ifAM@doublepagestwist\ifAM@doublepagestmp
+              angle=180,\fi\fi
+          angle=\AM@rotateoversize, angle=\AM@lscape@rot]}%
       \edef\AM@shippage{%
         \noexpand\put(\AM@xpos,\AM@ypos){%
         \noexpand\raisebox{\dp\@tempboxa}{%
@@ -2199,6 +2268,7 @@
       \end{lrbox}
     \else
       \expandafter\AM@AddToShipoutPicture\expandafter{%
+        \expandafter\AM@ResumeTagging
         \AM@shippage
         \global\let\@filelist\AM@filelist@save
       }%
@@ -2819,6 +2889,9 @@
               \equal{fitpaper}{\AM@temp}\or
               \equal{addtotoc}{\AM@temp}\or
               \equal{addtolist}{\AM@temp}\or
+              \equal{alt*}{\AM@temp}\or
+              \equal{alt}{\AM@temp}\or
+              \equal{artifact}{\AM@temp}\or
               \equal{doublepages}{\AM@temp}\or
               \equal{doublepagestwist}{\AM@temp}\or
               \equal{doublepagestwistodd}{\AM@temp}\or
@@ -3319,6 +3392,89 @@
   \fi
 }
 %    \end{macrocode}
+%    \macro{\AM@set@alt}
+%    Set alternative text from |alt|, |alt*|, or default text.
+%    \begin{macrocode}
+\newcommand\AM@set@alt{}
+\def\AM@set@alt{%
+  \def\AM@alt@text{}%
+  \AM@parse@altlist
+  \ifnum\AM@page=\AM@alt@next@page
+    \def\AM@alt@star{true}
+    \let\AM@alt@text\AM@alt@next@text
+    \AM@rm@from@altlist
+  \else
+    \def\AM@alt@star{false}
+    \ifdefined\AM@alt@single
+      \let\AM@alt@text\AM@alt@single
+    \else
+      \def\AM@alt@text{File \FileName}%
+    \fi
+  \fi
+}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand\AM@parse@altlist{}
+\def\AM@parse@altlist{%
+  \ifx\AM@altlist\empty
+    \def\AM@alt@next@page{0}%
+  \else
+    \expandafter\AM@parse@altlist@i\AM@altlist\END
+  \fi
+}
+%    \end{macrocode}
+% Read the next 2 entries from |\AM@altlist| and store them in
+% |\AM@alt@next@page| and |\AM@alt@next@text|.
+%    \begin{macrocode}
+\newcommand\AM@parse@altlist@i{}
+\def\AM@parse@altlist@i#1,#2,#3\END{%
+  \edef\AM@alt@next@page{\AM@trim@space{#1}}%
+  \edef\AM@alt@next@text{\ifdim\z@=0pt#2\fi}%
+  \AM@checkinteger{\AM@alt@next@page}
+  \ifAM@integer\else
+    \PackageError{pdfpages}{%
+      Missing number.\MessageBreak
+      Page number in option `alt*` is not a number}{%
+      See the pdfpages manual for more information.}%
+  \fi
+}
+\newcommand\AM@rm@from@altlist{}
+\def\AM@rm@from@altlist{%
+  \expandafter\AM@rm@from@altlist@i\AM@altlist\END
+}
+\newcommand\AM@rm@from@altlist@i{}
+\def\AM@rm@from@altlist@i#1,#2,#3\END{%
+  \def\AM@altlist{#3}%
+}
+%    \end{macrocode}
+%    \macro{\AM@set@artifact}
+%    Set |\ifAM@artifact|.
+%    \begin{macrocode}
+\def\AM@set@artifact{%
+  \def\AM@true{true}
+  \ifdefined\AM@key@artifact
+    \ifx\AM@key@artifact\AM@true
+      \AM@artifacttrue
+    \else
+      \AM@artifactfalse
+    \fi
+  \else
+    \ifx\AM@alt@star\AM@true
+      \AM@artifactfalse
+    \else
+      \ifAM@firstpage
+        \AM@artifactfalse
+      \else
+        \AM@artifacttrue
+      \fi
+    \fi
+  \fi
+  \def\AM@tmp{\Artifact}%
+  \ifx\AM@alt@text\AM@tmp
+    \AM@artifacttrue
+  \fi
+}
+%    \end{macrocode}
 %    \macro{\AM@AddToSurvey}
 %     Add page to survey.
 %    \begin{macrocode}
@@ -3437,6 +3593,9 @@
 \define@key{pdfpages}{fitpaper}[true]{\setboolean{AM@fitpaper}{#1}}
 \define@key{pdfpages}{addtotoc}{\protected@edef\AM@toclist{#1,}}
 \define@key{pdfpages}{addtolist}{\protected@edef\AM@loflist{#1,}}
+\define@key{pdfpages}{alt}{\protected@edef\AM@alt@single{#1}}
+\define@key{pdfpages}{alt*}{\protected@edef\AM@altlist{#1,}}
+\define@key{pdfpages}{artifact}[true]{\protected@edef\AM@key@artifact{#1}}
 \define@key{pdfpages}{doublepages}[true]%
                      {\setboolean{AM@doublepages}{#1}}
 \define@key{pdfpages}{doublepagestwist}[true]%
