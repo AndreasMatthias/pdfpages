@@ -20,8 +20,6 @@ File: dummy-landscape.pdf Graphic file (type pdf)
 File: dummy-landscape.pdf Graphic file (type pdf)
 <use dummy-landscape.pdf, page 1>
 
-
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 picturecommand={\put(100, 100){\LARGE Some
 
@@ -258,8 +256,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 picturecommand={\put(100, 100){\LARGE Some

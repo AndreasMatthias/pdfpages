@@ -33,7 +33,6 @@ Package luatex.def Info: dummy.pdf , page1 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -181,11 +180,11 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue 0.0 plus -1.0
-....\pdfdest name{section*.1} xyz
+....\pdfdest name{chapter*.1} xyz
 ....\penalty 10000
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s}{}% 2}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s}{}% 2}
 ....\penalty 10000
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Myfloats}{\thepage }{section*.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Myfloats}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0
@@ -672,8 +671,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package luatex.def Info: dummy.pdf , page1 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
 Package hyperref Info: bookmark level for unknown myfloat defaults to 0 on input line 36.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 36.
@@ -841,12 +838,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [3]
 \vbox(676.36243+0.0)x371.0, direction TLT
@@ -1007,12 +1003,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [4]
 \vbox(676.36243+0.0)x422.0, direction TLT
@@ -1176,12 +1171,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 Package luatex.def Info: dummy.pdf , page4 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [5]
 \vbox(676.36243+0.0)x371.0, direction TLT
@@ -1342,12 +1336,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package luatex.def Info: dummy.pdf , page5 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 Package luatex.def Info: dummy.pdf , page5 used on input line 36.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [6]
 \vbox(676.36243+0.0)x422.0, direction TLT
@@ -1509,6 +1502,6 @@ Completed box being shipped out [6]
 \openout·· = addtolist-4-memoir.mfl
 ()addtolist-4-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-4-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: 37E0C44C4D6C95618436AAFD568EBAC9;276.
+(rerunfilecheck)             Checksum: E3B26E7B1E467BDE4043C3A8C852E229;276.
 
 

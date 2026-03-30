@@ -16,8 +16,6 @@ Package pdfpages Warning: I cannot determine the number of pages of the
 (pdfpages)                You can use the option `lastpage' to give me a hint.
 
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -235,8 +233,6 @@ Completed box being shipped out [1]
 TEST 2: Insert empty pages: 1-10\\(lastpages=10)
 ============================================================
 
-
-
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -450,8 +446,6 @@ Completed box being shipped out [2]
 
 
 
-
-
 Completed box being shipped out [3]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -510,8 +504,6 @@ Completed box being shipped out [3]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -576,8 +568,6 @@ Completed box being shipped out [4]
 
 
 
-
-
 Completed box being shipped out [5]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -636,8 +626,6 @@ Completed box being shipped out [5]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -702,8 +690,6 @@ Completed box being shipped out [6]
 
 
 
-
-
 Completed box being shipped out [7]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -762,8 +748,6 @@ Completed box being shipped out [7]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -828,8 +812,6 @@ Completed box being shipped out [8]
 
 
 
-
-
 Completed box being shipped out [9]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -891,8 +873,6 @@ Completed box being shipped out [9]
 
 
 
-
-
 Completed box being shipped out [10]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -951,8 +931,6 @@ Completed box being shipped out [10]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -1026,8 +1004,6 @@ Package pdfpages Warning: I cannot determine the number of pages of the
 (pdfpages)                included document, because we are running in
 (pdfpages)                DVI mode. 
 (pdfpages)                You can use the option `lastpage' to give me a hint.
-
-
 
 
 Completed box being shipped out [12]
@@ -1253,8 +1229,6 @@ Completed box being shipped out [12]
 
 
 
-
-
 Completed box being shipped out [13]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1313,8 +1287,6 @@ Completed box being shipped out [13]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -1379,8 +1351,6 @@ Completed box being shipped out [14]
 
 
 
-
-
 Completed box being shipped out [15]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1439,8 +1409,6 @@ Completed box being shipped out [15]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -1505,8 +1473,6 @@ Completed box being shipped out [16]
 
 
 
-
-
 Completed box being shipped out [17]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1568,8 +1534,6 @@ Completed box being shipped out [17]
 
 
 
-
-
 Completed box being shipped out [18]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1628,8 +1592,6 @@ Completed box being shipped out [18]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -1698,8 +1660,6 @@ Completed box being shipped out [19]
 ============================================================
 TEST 4: Insert empty pages: 8-10\\(lastpage:10)
 ============================================================
-
-
 
 Completed box being shipped out [20]
 \vbox(682.0+0.0)x398.0
@@ -1930,8 +1890,6 @@ Completed box being shipped out [20]
 
 
 
-
-
 Completed box being shipped out [21]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1990,8 +1948,6 @@ Completed box being shipped out [21]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 

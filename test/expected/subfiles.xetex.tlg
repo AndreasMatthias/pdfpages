@@ -20,10 +20,9 @@ File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
-
-
 File: subdir/special.pdf Graphic file (type pdf)
 <use subdir/special.pdf, page 1>
+
 
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0

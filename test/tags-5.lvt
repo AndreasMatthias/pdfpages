@@ -1,0 +1,35 @@
+\input{regression-test}
+\DocumentMetadata{tagging=on}
+\documentclass[a4paper, \classoptions]{article}
+\usepackage{pdfpages}
+
+\begin{document}
+\START\showoutput
+
+% page  alt text
+% ----  --------
+%  1    lorem ipsum
+%  2    --artifact--
+%  1    --artifact--
+%  2    --artifact--
+\verboseTEST{Global options}{
+  \includepdfmerge[
+    alt = lorem ipsum
+  ]{dummy.pdf, 1-2, dummy.pdf, 1-2}
+}
+
+% page  alt text
+% ----  --------
+%  1    lorem
+%  2    --artifact--
+%  1    sit
+%  2    --artifact--
+\verboseTEST{Global options}{
+  \includepdfmerge[
+    alt* = {
+      1, dolor,
+      1, sit}
+  ]{dummy1.pdf, 1-2, dummy2.pdf, 1-2}
+}
+
+\end{document}

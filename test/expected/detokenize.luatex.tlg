@@ -31,8 +31,6 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 Package luatex.def Info: foo~bar.pdf , page1 used on input line 17.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 Package luatex.def Info: foo~bar.pdf , page1 used on input line 17.
@@ -147,12 +145,11 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 Package luatex.def Info: foo~bar.pdf , page2 used on input line 17.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 Package luatex.def Info: foo~bar.pdf , page2 used on input line 17.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0, direction TLT

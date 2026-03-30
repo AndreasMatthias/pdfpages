@@ -22,8 +22,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout·· = `addtotoc-2-koma.toc'.
 
 
-
-
 Completed box being shipped out [1]
 \vbox(655.63496+0.0)x405.73636
 .\hbox(0.0+0.0)x0.0
@@ -371,8 +369,6 @@ Completed box being shipped out [1]
 
 
 
-
-
 Completed box being shipped out [2]
 \vbox(655.63496+0.0)x465.48715
 .\hbox(0.0+0.0)x0.0
@@ -441,8 +437,6 @@ part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 34.
-
-
 
 Completed box being shipped out [3]
 \vbox(655.63496+0.24089)x405.73636
@@ -569,8 +563,6 @@ Completed box being shipped out [3]
 .\kern 0.0
 
 
-
-
 Completed box being shipped out [4]
 \vbox(655.63496+0.0)x465.48715
 .\hbox(0.0+0.0)x0.0
@@ -641,8 +633,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [5]
 \vbox(655.63496+0.24089)x405.73636
@@ -965,8 +955,6 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1136,8 +1124,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -1256,8 +1242,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -1347,7 +1331,6 @@ Completed box being shipped out [8]
 ....\special{pdf:dest (section.1.1) [@thispage /XYZ @xpos @ypos null]}
 ....\glue(\topskip) 11.0
 ....\hbox(0.0+0.0)x418.25555, glue set 418.25555fil
-.....\penalty 10000
 .....\glue 0.0
 .....\special{pdf:out [] 3<</Title(\376\377\000D\000o\000l\000o\000r\000\040\000\050\000p\000a\000g\000e\000\040\0003\000\051)/A<</S/GoTo/D(section.1.1)>>>>}
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1.1}\ignorespaces  Dolor (page 3)}{\thepage }{section.1.1}\protected@file@percent }}
@@ -1406,8 +1389,6 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              by users or package authors may already break
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
-
-
 
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
@@ -1524,7 +1505,6 @@ Completed box being shipped out [9]
 ....\glue(\parskip) 0.0
 ....\glue(\baselineskip) 18.0
 ....\hbox(0.0+0.0)x418.25555, glue set 418.25555fil
-.....\penalty 10000
 .....\glue 0.0
 .....\special{pdf:out [] 3<</Title(\376\377\000A\000m\000e\000t\000\040\000\050\000p\000a\000g\000e\000\040\0004\000\051)/A<</S/GoTo/D(section.2.1)>>>>}
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2.1}\ignorespaces  Amet (page 4)}{\thepage }{section.2.1}\protected@file@percent }}

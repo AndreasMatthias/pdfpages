@@ -17,8 +17,6 @@ File: hog.pdf Graphic file (type pdf)
 <hog.pdf>
 ============================================================
 
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -55,10 +53,8 @@ pdfpages status: 2
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
-
-
 pdfpages file: dummy.pdf 
-pdfpages options: width=!,height=!,,width=!,height=!, page=1, scale=1.00005, scale=1, angle=0, angle=0 
+pdfpages options:  width=!,height=!,,width=!,height=!, page=1, scale=1.00005, scale=1, alt={File dummy.pdf}, angle=0, angle=0 
 pdfpages status: 1 
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
@@ -77,10 +73,8 @@ pdfpages status: 2
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
-
-
 pdfpages file: dummy.pdf 
-pdfpages options: width=!,height=!,,width=!,height=!, page=2, scale=1.00005, scale=1, angle=0, angle=0 
+pdfpages options:  width=!,height=!,,width=!,height=!, page=2, scale=1.00005, scale=1, artifact, angle=0, angle=0 
 pdfpages status: 1 
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
@@ -99,8 +93,6 @@ pdfpages status: 0
 File: hog.pdf Graphic file (type pdf)
 <hog.pdf>
 ============================================================
-
-
 
 [4]
 ============================================================
@@ -133,10 +125,8 @@ pdfpages status: 2
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
-
-
 pdfpages file: dummy.pdf 
-pdfpages options: width=!,height=!,,width=!,height=!,, page=1, scale=1.00005, scale=1, angle=0, angle=0 
+pdfpages options:  width=!,height=!,,width=!,height=!,, page=1, scale=1.00005, scale=1, alt={File hog.pdf}, angle=0, angle=0 
 pdfpages status: 1 
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
@@ -155,10 +145,8 @@ pdfpages status: 2
 File: hog.pdf Graphic file (type pdf)
 <hog.pdf>
 
-
-
 pdfpages file: hog.pdf 
-pdfpages options: width=!,height=!,,width=!,height=!,, page=1, scale=1.00005, scale=1, angle=0, angle=0 
+pdfpages options:  width=!,height=!,,width=!,height=!,, page=1, scale=1.00005, scale=1, artifact, angle=0, angle=0 
 pdfpages status: 1 
 File: hog.pdf Graphic file (type pdf)
 <hog.pdf>

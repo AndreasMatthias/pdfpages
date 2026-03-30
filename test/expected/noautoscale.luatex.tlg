@@ -27,8 +27,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package luatex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 421.10019pt x 597.50682pt.
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package luatex.def Info: dummy-a5.pdf , page1 used on input line 1.
@@ -313,8 +311,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package luatex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 595.49411pt x 844.95757pt.
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[noautoscale = false, frame]{dummy-
@@ -673,8 +669,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package luatex.def Info: dummy-a5.pdf , page1 used on input line 1.
 (luatex.def)             Requested size: 421.10019pt x 597.50682pt.
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 Package luatex.def Info: dummy-a5.pdf , page1 used on input line 1.

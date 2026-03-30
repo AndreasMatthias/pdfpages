@@ -17,8 +17,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 
@@ -232,8 +230,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
-
-
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/lmtt/m/n/14.4 \includepdf[noautoscale = false,
@@ -463,8 +459,6 @@ File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
-
-
 File: dummy-a5.pdf Graphic file (type pdf)
 <use dummy-a5.pdf, page 1>
 

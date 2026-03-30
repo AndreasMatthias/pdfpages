@@ -7,7 +7,7 @@ Don't change this file in any respect.
 
 
 ============================================================
-TEST 1: Openright
+TEST 1: Openrighteach
 ============================================================
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -25,8 +25,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -152,10 +150,10 @@ Completed box being shipped out [1]
 ................\kern 3.0
 ................\special{color push gray 0}
 ................\vbox(10.0512+39.28319)x341.43306
-.................\hbox(10.0512+2.89438)x341.43306, glue set 269.33229fil
+.................\hbox(10.0512+2.89438)x341.43306, glue set 238.3147fil
 ..................\hbox(0.0+0.0)x0.0
 ..................\special{color push rgb 1 0.3 0.3}
-..................\TU/lmr/bx/n/14.4 Openright
+..................\TU/lmr/bx/n/14.4 Openrighteach
 ..................\special{color pop}
 ..................\penalty 10000
 ..................\glue(\parfillskip) 0.0 plus 1.0fil
@@ -216,8 +214,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
@@ -374,8 +370,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -485,8 +479,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
@@ -638,7 +630,7 @@ Completed box being shipped out [4]
 ============================================================
 
 ============================================================
-TEST 2: Openright
+TEST 2: Openrighteach
 ============================================================
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
@@ -656,8 +648,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -778,10 +768,10 @@ Completed box being shipped out [5]
 ................\kern 3.0
 ................\special{color push gray 0}
 ................\vbox(10.0512+39.28319)x341.43306
-.................\hbox(10.0512+2.89438)x341.43306, glue set 269.33229fil
+.................\hbox(10.0512+2.89438)x341.43306, glue set 238.3147fil
 ..................\hbox(0.0+0.0)x0.0
 ..................\special{color push rgb 1 0.3 0.3}
-..................\TU/lmr/bx/n/14.4 Openright
+..................\TU/lmr/bx/n/14.4 Openrighteach
 ..................\special{color pop}
 ..................\penalty 10000
 ..................\glue(\parfillskip) 0.0 plus 1.0fil
@@ -841,8 +831,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
@@ -999,8 +987,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
@@ -1157,8 +1143,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
@@ -1328,8 +1312,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1524,8 +1506,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
@@ -1682,8 +1662,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -1793,8 +1771,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)

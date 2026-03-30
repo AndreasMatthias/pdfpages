@@ -95,8 +95,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
@@ -127,7 +125,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
-..\vbox(598.0+0.0)x345.0, glue set 327.33453fil, yoko direction
+..\vbox(598.0+0.0)x345.0, glue set 319.33537fil, yoko direction
 ...\special{ps: /setdistillerparams where {pop << /CompressPages false /CompressStreams false >> setdistillerparams} if }
 ...\special{! <</DocumentUUID (DocumentUUID)>> setpagedevice}
 ...\special{! <</InstanceUUID (InstanceUUID)>> setpagedevice}
@@ -140,6 +138,7 @@ Completed box being shipped out [1]
 ...\glue 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
+...\glue(\baselineskip) 8.00002
 ...\hbox(9.99998+3.2)x345.0, glue set - 0.511
 ....\hbox(0.0+0.0)x15.0, yoko direction
 ....\displace 0.0
@@ -405,20 +404,10 @@ Completed box being shipped out [1]
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
 ...\glue(\lineskip) 1.0
-...\hbox(120.72504+0.0)x345.0, glue set 121.93806fil
+...\hbox(120.72504+0.0)x345.0, glue set 168.93742fil
 ....\hbox(0.0+0.0)x15.0, yoko direction
 ....\hbox(120.72504+0.0)x142.26283, yoko direction
-.....\special{pdf:epdf pagebox cropbox bbox 0 0 251 213 clip 0 width 142.26283pt height 120.72504pt (hog.pdf) }
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
-....\glue 4.69994 plus 2.34996 minus 1.56664
+.....\special{pdf:image pagebox cropbox bbox 0 0 251 213 clip 0 width 142.26283pt height 120.72504pt (hog.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....\glue 4.69994 plus 2.34996 minus 1.56664
 ....\glue 4.69994 plus 2.34996 minus 1.56664
 ....\glue 4.69994 plus 2.34996 minus 1.56664
@@ -708,8 +697,6 @@ File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <dummy.pdf>
 
@@ -748,7 +735,7 @@ Completed box being shipped out [2]
 ...................\hbox(845.19617+0.0)x0.0, glue set - 597.25858fil, yoko direction
 ....................\hbox(845.19617+0.0)x597.25858, yoko direction
 .....................\hbox(845.19617+0.0)x597.25858, yoko direction
-......................\special{pdf:epdf page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) }
+......................\special{pdf:image page 1 pagebox cropbox bbox 0 0 595 842 clip 0 width 597.25858pt (dummy.pdf) <</Group<</S/Transparency/K false/I false>>>>}
 ....................\glue 0.0 plus 1.0fil minus 1.0fil
 ...................\special{pdf:etrans}
 ..................\kern 597.25858

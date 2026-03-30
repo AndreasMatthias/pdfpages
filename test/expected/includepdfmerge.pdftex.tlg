@@ -57,8 +57,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 5>
 Package pdftex.def Info: dummy1.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 5>
 Package pdftex.def Info: dummy1.pdf , page5 used on input line 1.
@@ -445,8 +443,6 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 6>
 Package pdftex.def Info: dummy1.pdf , page6 used on input line 1.
@@ -455,6 +451,7 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0
@@ -610,12 +607,11 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 5>
 Package pdftex.def Info: dummy3.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 5>
 Package pdftex.def Info: dummy3.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [3]
 \vbox(682.0+0.0)x398.0
@@ -730,8 +726,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 6>
 Package pdftex.def Info: dummy3.pdf , page6 used on input line 1.
@@ -740,6 +734,7 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [4]
 \vbox(682.0+0.0)x398.0
@@ -895,8 +890,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 4>
 Package pdftex.def Info: dummy1.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 3>
 Package pdftex.def Info: dummy1.pdf , page3 used on input line 1.
@@ -905,6 +898,7 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 4>
 Package pdftex.def Info: dummy1.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [5]
 \vbox(682.0+0.0)x398.0
@@ -1058,12 +1052,11 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 5>
 Package pdftex.def Info: dummy2.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 5>
 Package pdftex.def Info: dummy2.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [6]
 \vbox(682.0+0.0)x398.0
@@ -1177,12 +1170,11 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 5>
 Package pdftex.def Info: dummy1.pdf , page5 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 6>
 Package pdftex.def Info: dummy2.pdf , page6 used on input line 1.
 (pdftex.def)             Requested size: 422.50157pt x 597.53772pt.
+
 
 Completed box being shipped out [7]
 \vbox(682.0+0.0)x398.0
@@ -1312,8 +1304,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 2>
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
@@ -1591,8 +1581,6 @@ File: dummy1.pdf Graphic file (type pdf)
 Package pdftex.def Info: dummy1.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-
-
 Completed box being shipped out [9]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1654,8 +1642,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 3>
 Package pdftex.def Info: dummy1.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 3>
 Package pdftex.def Info: dummy1.pdf , page3 used on input line 1.
@@ -1760,8 +1746,6 @@ File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 4>
 Package pdftex.def Info: dummy1.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy1.pdf Graphic file (type pdf)
 <use dummy1.pdf, page 4>
 Package pdftex.def Info: dummy1.pdf , page4 used on input line 1.
@@ -1866,8 +1850,6 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 2>
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
@@ -1973,8 +1955,6 @@ File: dummy2.pdf Graphic file (type pdf)
 Package pdftex.def Info: dummy2.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-
-
 Completed box being shipped out [13]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -2037,8 +2017,6 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 3>
 Package pdftex.def Info: dummy2.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 3>
 Package pdftex.def Info: dummy2.pdf , page3 used on input line 1.
@@ -2145,12 +2123,11 @@ File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 4>
 Package pdftex.def Info: dummy2.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy2.pdf Graphic file (type pdf)
 <use dummy2.pdf, page 4>
 Package pdftex.def Info: dummy2.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [15]
 \vbox(682.0+0.0)x398.0
@@ -2253,12 +2230,11 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package pdftex.def Info: dummy3.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 2>
 Package pdftex.def Info: dummy3.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [16]
 \vbox(682.0+0.0)x398.0
@@ -2362,7 +2338,6 @@ Package pdftex.def Info: dummy3.pdf , page2 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
-
 Completed box being shipped out [17]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -2425,8 +2400,6 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 3>
 Package pdftex.def Info: dummy3.pdf , page3 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 3>
 Package pdftex.def Info: dummy3.pdf , page3 used on input line 1.
@@ -2533,12 +2506,11 @@ File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 4>
 Package pdftex.def Info: dummy3.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy3.pdf Graphic file (type pdf)
 <use dummy3.pdf, page 4>
 Package pdftex.def Info: dummy3.pdf , page4 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [19]
 \vbox(682.0+0.0)x398.0
@@ -2659,8 +2631,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
@@ -2923,12 +2893,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 10>
 Package pdftex.def Info: dummy.pdf , page10 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 10>
 Package pdftex.def Info: dummy.pdf , page10 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [21]
 \vbox(682.0+0.0)x398.0

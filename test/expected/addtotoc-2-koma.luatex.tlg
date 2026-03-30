@@ -22,7 +22,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout·· = addtotoc-2-koma.toc
 
 
-
 Completed box being shipped out [1]
 \vbox(655.63496+0.0)x405.73636, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -477,8 +476,6 @@ Completed box being shipped out [1]
 
 
 
-
-
 Completed box being shipped out [2]
 \vbox(655.63496+0.0)x465.48715, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -547,8 +544,6 @@ part I.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
 (scrkbase)              on input line 34.
-
-
 
 Completed box being shipped out [3]
 \vbox(655.63496+0.2409)x405.73636, direction TLT
@@ -708,8 +703,6 @@ Completed box being shipped out [3]
 .\kern0.0
 
 
-
-
 Completed box being shipped out [4]
 \vbox(655.63496+0.0)x465.48715, direction TLT
 .\hbox(0.0+0.0)x0.0, direction TLT
@@ -788,8 +781,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 
 Completed box being shipped out [5]
 \vbox(655.63496+0.2409)x405.73636, direction TLT
@@ -1187,8 +1178,6 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package luatex.def Info: dummy.pdf , page1 used on input line 34.
@@ -1372,12 +1361,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 Package luatex.def Info: dummy.pdf , page2 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [7]
 \vbox(655.63496+0.0)x405.73636, direction TLT
@@ -1498,12 +1486,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 Package luatex.def Info: dummy.pdf , page3 used on input line 34.
 (luatex.def)             Requested size: 597.53416pt x 845.08371pt.
+
 
 Completed box being shipped out [8]
 \vbox(655.63496+0.0)x465.48715, direction TLT
@@ -1589,7 +1576,6 @@ Completed box being shipped out [8]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {1.1}\ignorespaces  Dolor (page 3)}{\thepage }{section.1.1}\protected@file@percent }}
 .....\glue 0.0
@@ -1659,8 +1645,6 @@ Class scrbook Warning: Redefinition of \@makechapterhead detected.
 (scrbook)              by users or package authors may already break
 (scrbook)              KOMA-Script and will not work with a coming version,
 (scrbook)              that will remove this deprecated code.
-
-
 
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
@@ -1781,7 +1765,6 @@ Completed box being shipped out [9]
 ......\localbrokenpenalty=0
 ......\localleftbox=null
 ......\localrightbox=null
-.....\penalty 10000
 .....\glue 0.0
 .....\write1{\@writefile{toc}{\protect \contentsline {section}{\protect \numberline {2.1}\ignorespaces  Amet (page 4)}{\thepage }{section.2.1}\protected@file@percent }}
 .....\glue 0.0

@@ -1,0 +1,44 @@
+\input{regression-test}
+\DocumentMetadata{tagging=on}
+\documentclass[a4paper, \classoptions]{article}
+\usepackage{pdfpages}
+
+\begin{document}
+\START\showoutput
+
+% page  alt text
+% ----  --------
+%  1    --default--
+%  2    --default--
+\verboseTEST{No artifacts, default alt text}{
+  \includepdf[
+    pages = 1-2,
+    artifact = false
+  ]{dummy.pdf}
+}
+
+% page  alt text
+% ----  --------
+%  1    dolor sit
+%  2    dolor sit
+\verboseTEST{No artifacts, user alt text}{
+  \includepdf[
+    pages = 1-2,
+    alt = {dolor sit},
+    artifact = false
+  ]{dummy.pdf}
+}
+
+% page  alt text
+% ----  --------
+%  1    This is dummy.pdf, page 1
+%  2    This is dummy.pdf, page 2
+\verboseTEST{}{
+  \includepdf[
+    pages = 1-2,
+    alt = {This is \FileName, page \PageNum},
+    artifact = false
+  ]{dummy.pdf}
+}
+
+\end{document}

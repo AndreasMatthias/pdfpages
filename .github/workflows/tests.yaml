@@ -16,7 +16,7 @@ jobs:
 
     # Install Lua
     - name: Install Lua
-      uses: hishamhm/gh-actions-lua@master
+      uses: leafo/gh-actions-lua@master
       with:
         luaVersion: '5.3'
 
@@ -48,6 +48,7 @@ jobs:
           collection-mathscience
           collection-pstricks
           collection-langjapanese
+          collection-binextra
 
     # Install Ghostscript
     - name: Install Ghostscript

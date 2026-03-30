@@ -20,8 +20,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -1321,8 +1319,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -1581,8 +1577,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -1823,8 +1817,6 @@ Completed box being shipped out [3]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -3053,8 +3045,6 @@ Completed box being shipped out [4]
 .\kern 0.0
 
 
-
-
 Completed box being shipped out [5]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -3930,8 +3920,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [6]
 \vbox(682.0+0.21999)x398.0
@@ -5226,8 +5214,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -5486,8 +5472,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -5728,8 +5712,6 @@ Completed box being shipped out [8]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
 
 
 
@@ -6958,8 +6940,6 @@ Completed box being shipped out [9]
 .\kern 0.0
 
 
-
-
 Completed box being shipped out [10]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -7829,16 +7809,12 @@ Completed box being shipped out [10]
 .\kern 682.21999
 .\kern 0.0
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [11]
 \vbox(682.0+0.0)x398.0
@@ -9395,8 +9371,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -9655,8 +9629,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -9908,10 +9880,6 @@ Completed box being shipped out [13]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 
@@ -11436,10 +11404,6 @@ Completed box being shipped out [14]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 Completed box being shipped out [15]
@@ -13041,16 +13005,12 @@ Completed box being shipped out [15]
 .\kern 682.21999
 .\kern 0.0
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [16]
 \vbox(682.0+0.21999)x398.0
@@ -14016,8 +13976,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -14276,8 +14234,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -14529,10 +14485,6 @@ Completed box being shipped out [18]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 
@@ -15927,10 +15879,6 @@ Completed box being shipped out [19]
 .\kern 0.0
 
 
-
-
-
-
 Completed box being shipped out [20]
 \vbox(682.0+0.21999)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -17074,16 +17022,12 @@ Completed box being shipped out [20]
 .\kern 682.21999
 .\kern 0.0
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [21]
 \vbox(682.0+0.0)x398.0
@@ -18640,8 +18584,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -18900,8 +18842,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -19153,10 +19093,6 @@ Completed box being shipped out [23]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 
@@ -20681,10 +20617,6 @@ Completed box being shipped out [24]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 Completed box being shipped out [25]
@@ -22286,16 +22218,12 @@ Completed box being shipped out [25]
 .\kern 682.21999
 .\kern 0.0
 
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 
 Completed box being shipped out [26]
 \vbox(682.0+0.21999)x398.0
@@ -23261,8 +23189,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
@@ -23521,8 +23447,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 8>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
@@ -23774,10 +23698,6 @@ Completed box being shipped out [28]
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 682.0
 .\kern 0.0
-
-
-
-
 
 
 
@@ -25171,11 +25091,7 @@ Completed box being shipped out [29]
 .\kern 682.21999
 .\kern 0.0
 
-
-
 ============================================================
-
-
 
 
 Completed box being shipped out [30]

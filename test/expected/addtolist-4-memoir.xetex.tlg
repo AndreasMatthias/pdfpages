@@ -25,7 +25,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
 
-
 Completed box being shipped out [1]
 \vbox(676.36243+3.60004)x371.0
 .\hbox(0.0+0.0)x0.0
@@ -119,7 +118,7 @@ Completed box being shipped out [1]
 ....\special{pdf:minorversion 7}
 ....\special{dvipdfmx:config C 0x0010}
 ....\special{pdf:outline [] 1<</Title(\376\377\000P\000a\000c\000k\000a\000g\000e\000\040\000n\000e\000w\000f\000l\000o\000a\000t\000.\000s\000t\000y)/A<</S/GoTo/D(section.0.1)>>>>}
-....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s)/A<</S/GoTo/D(section*.1)>>>>}
+....\special{pdf:outline [] 0<</Title(\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s)/A<</S/GoTo/D(chapter*.1)>>>>}
 ....\special{pdf:docview<</OpenAction[@page1/Fit]/PageMode/UseOutlines>>}
 ....\special{pdf:dest (Doc-Start) [@thispage /XYZ @xpos @ypos null]}
 ....\special{pdf:dest (section.0.1) [@thispage /XYZ @xpos @ypos null]}
@@ -140,11 +139,11 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue 9.913 plus 0.86198
 ....\glue 0.0 plus -1.0
-....\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
+....\special{pdf:dest (chapter*.1) [@thispage /XYZ @xpos @ypos null]}
 ....\penalty 10000
-....\write4{\protect \BOOKMARK [0][]{section*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s}{}% 2}
+....\write4{\protect \BOOKMARK [0][]{chapter*.1}{\376\377\000L\000i\000s\000t\000\040\000o\000f\000\040\000M\000y\000f\000l\000o\000a\000t\000s}{}% 2}
 ....\penalty 10000
-....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Myfloats}{\thepage }{section*.1}\protected@file@percent }}
+....\write1{\@writefile{toc}{\protect \contentsline {chapter}{List of Myfloats}{\thepage }{chapter*.1}\protected@file@percent }}
 ....\penalty 10000
 ....\glue 15.08499 plus 4.31 minus 0.86198
 ....\glue(\parskip) 0.0
@@ -503,8 +502,6 @@ File: dummy.pdf Graphic file (type pdf)
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package hyperref Info: bookmark level for unknown myfloat defaults to 0 on input line 36.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -666,8 +663,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -826,8 +821,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -989,8 +982,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -1149,8 +1140,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 
@@ -1315,6 +1304,6 @@ Completed box being shipped out [6]
 
 ()addtolist-4-memoir.aux)
 Package rerunfilecheck Info: File `addtolist-4-memoir.out' has not changed.
-(rerunfilecheck)             Checksum: 37E0C44C4D6C95618436AAFD568EBAC9;276.
+(rerunfilecheck)             Checksum: E3B26E7B1E467BDE4043C3A8C852E229;276.
 
 

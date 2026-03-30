@@ -19,8 +19,6 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 1>
 
@@ -132,8 +130,6 @@ File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
-
-
 File: foo~bar.pdf Graphic file (type pdf)
 <use foo~bar.pdf, page 2>
 

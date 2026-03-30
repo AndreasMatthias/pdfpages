@@ -30,8 +30,6 @@ File: example-image-a.png Graphic file (type png)
 <use example-image-a.png>
 Package luatex.def Info: example-image-a.png  used on input line 1.
 (luatex.def)             Requested size: 598.24797pt x 448.68597pt.
-
-
 File: example-image-a.png Graphic file (type png)
 <use example-image-a.png>
 Package luatex.def Info: example-image-a.png  used on input line 1.
@@ -273,8 +271,6 @@ File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package luatex.def Info: example-image-b.jpg  used on input line 1.
 (luatex.def)             Requested size: 598.24797pt x 448.68597pt.
-
-
 File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package luatex.def Info: example-image-b.jpg  used on input line 1.
@@ -524,8 +520,6 @@ File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package luatex.def Info: example-image-b.jpg  used on input line 1.
 (luatex.def)             Requested size: 563.59712pt x 422.69783pt.
-
-
 File: example-image-a.png Graphic file (type png)
 <use example-image-a.png>
 Package luatex.def Info: example-image-a.png  used on input line 1.

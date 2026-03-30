@@ -1,0 +1,79 @@
+\input{regression-test}
+\DocumentMetadata{tagging=on}
+\documentclass[a4paper, \classoptions]{article}
+\usepackage{pdfpages}
+
+\begin{document}
+\START\showoutput
+
+
+% page  alt text
+% ----  --------
+%  1    lorem ipsum
+%  2    --artifact--
+%  3    dolor sit
+%  4    --artifact--
+\verboseTEST{Option alt*}{
+  \includepdf[
+    pages = 1-4,
+    alt* = {
+      1, lorem ipsum,
+      3, dolor sit},
+  ]{dummy.pdf}
+}
+
+% page  alt text
+% ----  --------
+%  1    tincindunt
+%  2    --default--
+%  3    tringilla
+%  4    --default--
+\verboseTEST{alt*}{
+  \includepdf[
+    pages = 1-4,
+    alt* = {
+      1, tincidunt,
+      3, fringilla},
+    artifact = false
+  ]{dummy.pdf}
+}
+
+
+% page  alt text
+% ----  --------
+%  1    lorem -- dummy.pdf (1)
+%  2    --default--
+%  3    ipsum -- dummy.pdf (3)
+%  4    --default--
+\verboseTEST{}{
+  \includepdf[
+    pages = 1-4,
+    alt* = {
+      1, lorem -- \FileName\  (\PageNum),
+      3, ipsum -- \FileName\  (\PageNum)
+    },
+    artifact = false
+  ]{dummy.pdf}
+}
+
+% page  alt text
+% ----  --------
+%  1    lorem
+%  2    --artifact--
+%  3    ipsum
+%  4    --artifact--
+\verboseTEST{}{
+  \includepdf[
+    pages = 1-4,
+    alt* = {
+      1, lorem,
+      2, \Artifact,
+      3, ipsum,
+      4, \Artifact
+    },
+    artifact = false
+  ]{dummy.pdf}
+}
+
+
+\end{document}

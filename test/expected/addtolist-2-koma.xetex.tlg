@@ -26,8 +26,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
 
-
-
 Completed box being shipped out [1]
 \vbox(655.63496+0.0)x435.61176
 .\hbox(0.0+0.0)x0.0
@@ -106,14 +104,6 @@ Completed box being shipped out [1]
 ....\hbox(9.99359+2.96638)x418.25555, glue set 184.27339fil
 .....\hbox(0.0+0.0)x0.0
 ......\glue 0.0
-.....\hbox(0.0+0.0)x0.0
-......\kern 0.0
-......\penalty 10000
-......\hbox(0.0+0.0)x0.0
-.......\hbox(0.0+0.0)x0.0, shifted -18.0
-........\special{pdf:dest (section*.1) [@thispage /XYZ @xpos @ypos null]}
-........\penalty 10000
-......\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmss/bx/n/14.4 Listings
 .....\penalty 10000
 .....\glue(\parfillskip) 0.0 plus 1.0fil
@@ -447,8 +437,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 
@@ -571,8 +559,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 2>
 
@@ -692,8 +678,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 3>
 
@@ -816,8 +800,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 4>
 
@@ -937,8 +919,6 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 5>
 

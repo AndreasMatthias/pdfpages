@@ -29,8 +29,6 @@ File: dummy.pdf Graphic file (type pdf)
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
-
-
 Completed box being shipped out [1]
 \vbox(682.0+0.0)x398.0
 .\hbox(0.0+0.0)x0.0
@@ -70,7 +68,7 @@ lo\ETC.}
 ...\special{ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  end
 }
 ...\glue(\topskip) 0.0
-...\hbox(114.81866+0.0)x345.0, glue set 118.27893fil
+...\hbox(114.81866+0.0)x345.0, glue set 144.94556fil
 ....\hbox(0.0+0.0)x15.0
 ....\hbox(114.81866+0.0)x171.72113
 .....\hbox(114.81895+0.0)x171.72156
@@ -82,14 +80,6 @@ lo\ETC.}
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\kern 171.72156
 .......\glue 0.0 plus 1.0fil minus 1.0fil
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
-....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
 ....\glue 3.33333 plus 1.66666 minus 1.11111
@@ -320,12 +310,11 @@ File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-
-
 File: dummy.pdf Graphic file (type pdf)
 <use dummy.pdf, page 1>
 Package pdftex.def Info: dummy.pdf , page1 used on input line 1.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
 
 Completed box being shipped out [2]
 \vbox(682.0+0.0)x398.0
